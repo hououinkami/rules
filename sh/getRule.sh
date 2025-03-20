@@ -17,7 +17,7 @@ declare -A domainset=(
     [reject]="https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/discretion/dns.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt https://raw.githubusercontent.com/geekdada/surge-list/refs/heads/master/domain-set/tracking-protection-filter.txt"
     [speedtest]="https://ruleset.skk.moe/List/domainset/speedtest.conf"
     [proxy]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt"
-    [china]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt"
+    [direct]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt"
 )
 declare -A ruleset=(
     [apple]="https://ruleset.skk.moe/List/non_ip/apple_services.conf"
@@ -26,7 +26,7 @@ declare -A ruleset=(
     [reject]="https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo_surge.list"
     [ai]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/AI%20Suite.list"
     [telegram]="https://ruleset.skk.moe/List/ip/telegram.conf"
-    [china]="https://ruleset.skk.moe/List/ip/china_ip.conf"
+    [direct]="https://ruleset.skk.moe/List/ip/china_ip.conf"
 )
 
 # 创建目录（如果不存在）
