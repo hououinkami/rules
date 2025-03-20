@@ -15,9 +15,18 @@ REPO_ROOT="$(dirname "$SCRIPT_DIR")"
 declare -A domainset=(
     [apple]="https://ruleset.skk.moe/List/domainset/apple_cdn.conf"
     [reject]="https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/discretion/dns.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt https://raw.githubusercontent.com/geekdada/surge-list/refs/heads/master/domain-set/tracking-protection-filter.txt"
+    [speedtest]="https://ruleset.skk.moe/List/domainset/speedtest.conf"
+    [proxy]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt"
+    [china]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt"
 )
 declare -A ruleset=(
     [apple]="https://ruleset.skk.moe/List/non_ip/apple_services.conf"
+    [paypal]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/PayPal.list"
+    [spotify]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Media/Spotify.list"
+    [reject]="https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo_surge.list"
+    [ai]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/AI%20Suite.list"
+    [telegram]="https://ruleset.skk.moe/List/ip/telegram.conf"
+    [china]="https://ruleset.skk.moe/List/ip/china_ip.conf"
 )
 
 # 创建目录（如果不存在）
@@ -40,8 +49,8 @@ for key in "${!domainset[@]}"; do
     for url in $urls; do
         echo "获取 URL: $url"
         
-        # 使用curl获取URL内容，然后用grep过滤掉以#开头的行，并追加到输出文件
-        curl -s "$url" | grep -v "^#" >> "$output_file"
+        # 使用curl获取URL内容，并追加到输出文件
+        curl -s "$url" >> "$output_file"
     done
     
     echo "已保存 $output_file"
