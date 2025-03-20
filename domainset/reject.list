@@ -1,3 +1,4 @@
+# Encrypted DNS servers
 api.yuedu.dns.iqiyi.com
 apidns.kwd.inkuai.com
 bj.vip.waf.dns.iqiyi.com
@@ -62,7 +63,12 @@ passport.dns.iqiyi.com
 resolver.msg.xiaomi.net
 static.dns.qiyipic.iqiyi.com
 v6-data.video.dns.iqiyi.com
+#TITLE=anti-AD
+#VER=20250320024426
+#URL=https://github.com/privacy-protection-tools/anti-AD
+#TOTAL_LINES=88061
 
+#DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 .000dn.com
 .0013.cc
 .s8.001fzc.com

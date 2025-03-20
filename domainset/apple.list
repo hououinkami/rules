@@ -1,3 +1,16 @@
+#########################################
+# Sukka's Ruleset - Apple CDN
+# Last Updated: 2025-03-17T09:22:03.153Z
+# Size: 164
+# License: AGPL 3.0
+# Homepage: https://ruleset.skk.moe
+# GitHub: https://github.com/SukkaW/Surge
+#
+# This file contains Apple's domains using their China mainland CDN servers.
+#
+# Data from:
+#  - https://github.com/felixonmars/dnsmasq-china-list
+#########################################
 this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 .store.apple.com.edgekey.net
 .support-china.apple-support.akadns.net
@@ -162,3 +175,4 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 .gsp5-cn.ls.apple.com
 .gsp4-cn.ls.apple.com
 .static.gc.apple.com
+################## EOF ##################
