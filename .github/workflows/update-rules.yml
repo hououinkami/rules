@@ -32,20 +32,29 @@ jobs:
       - name: Run script to update rules
         run: ./sh/getRule.sh
       
-      - name: Check for changes
-        id: git-check
+      - name: Commit and push only changed files
         run: |
-          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
-      
-      - name: Commit and push if changes exist
-        if: steps.git-check.outputs.changes == 'true'
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          
-          # 使用当前日期作为提交信息
-          git add -A
-          git commit -m "Update rules: $(date +%Y-%m-%d)"
-          
-          # 使用 GITHUB_TOKEN 推送更改
-          git push origin HEAD:${GITHUB_REF#refs/heads/}
+          # 检查是否有变更的文件
+          if [[ -n "$(git status --porcelain)" ]]; then
+            # 获取变更的文件列表
+            CHANGED_FILES=$(git status --porcelain | awk '{print $2}')
+            
+            # 配置Git
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            
+            # 只添加变更的文件
+            for FILE in $CHANGED_FILES; do
+              git add "$FILE"
+            done
+            
+            # 使用当前日期作为提交信息，并包含变更文件数量
+            git commit -m "Update: $(date +%Y-%m-%d)"
+            
+            # 推送更改
+            git push origin HEAD:${GITHUB_REF#refs/heads/}
+            
+            echo "Changes committed and pushed."
+          else
+            echo "No changes detected."
+          fi
