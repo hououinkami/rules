@@ -1,0 +1,43 @@
+name: Update Rules
+
+on:
+  schedule:
+    # 每天UTC时间0点运行（可根据需要调整）
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+    # 允许手动触发工作流
+
+jobs:
+  update-rules:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Bash
+        run: |
+          # 确保bash版本足够新（GitHub Actions默认已经有bash 5.x）
+          bash --version
+      
+      - name: Make script executable
+        run: chmod +x ./sh/getRule.sh
+      
+      - name: Run script to update rules
+        run: ./sh/getRule.sh
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changes exist
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # 使用当前日期作为提交信息
+          git add -A
+          git commit -m "Update rules: $(date +%Y-%m-%d)"
+          git push
