@@ -1,9 +1,11 @@
+# > Spotify
 USER-AGENT,Spotify*
 DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotilocal.com
+# > PayPal
 USER-AGENT,PayPal*
 DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
