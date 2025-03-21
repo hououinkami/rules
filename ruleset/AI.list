@@ -20,6 +20,8 @@ DOMAIN,gateway.ai.cloudflare.com
 # > Copilot
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN,copilot.microsoft.com
+# > Cursor
+DOMAIN-SUFFIX,cursor.sh
 # > Dify.AI
 DOMAIN-SUFFIX,dify.ai
 # > GitHub Copilot
