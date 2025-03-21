@@ -1,11 +1,5 @@
 #!/bin/bash
 
-# 确保使用bash 4+版本，因为关联数组需要这个版本
-if [ "${BASH_VERSINFO[0]}" -lt 4 ]; then
-    echo "需要 Bash 4.0 或更高版本才能使用关联数组"
-    exit 1
-fi
-
 # 获取脚本所在目录
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # 获取仓库根目录（脚本目录的上一级）
@@ -13,20 +7,19 @@ REPO_ROOT="$(dirname "$SCRIPT_DIR")"
 
 # 声明关联数组
 declare -A domainset=(
-    [apple]="https://ruleset.skk.moe/List/domainset/apple_cdn.conf"
-    [reject]="https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/discretion/dns.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt https://raw.githubusercontent.com/geekdada/surge-list/refs/heads/master/domain-set/tracking-protection-filter.txt"
-    [speedtest]="https://ruleset.skk.moe/List/domainset/speedtest.conf"
-    [proxy]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt"
-    [direct]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt"
+    [Apple]="https://ruleset.skk.moe/List/domainset/apple_cdn.conf"
+    [Reject]="https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/discretion/dns.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt https://raw.githubusercontent.com/geekdada/surge-list/refs/heads/master/domain-set/tracking-protection-filter.txt"
+    [Speedtest]="https://ruleset.skk.moe/List/domainset/speedtest.conf"
+    [Proxy]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt"
+    [Direct]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt"
 )
 declare -A ruleset=(
-    [apple]="https://ruleset.skk.moe/List/non_ip/apple_services.conf"
-    [paypal]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/PayPal.list"
-    [spotify]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Media/Spotify.list"
-    [reject]="https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo_surge.list"
-    [ai]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/AI%20Suite.list"
-    [telegram]="https://ruleset.skk.moe/List/ip/telegram.conf"
-    [direct]="https://ruleset.skk.moe/List/ip/china_ip.conf"
+    [Apple]="https://ruleset.skk.moe/List/non_ip/apple_services.conf"
+    [Japan]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Media/Spotify.list https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/PayPal.list"
+    [Reject]="https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo_surge.list"
+    [AI]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/AI%20Suite.list"
+    [Telegram]="https://ruleset.skk.moe/List/ip/telegram.conf"
+    [Direct]="https://ruleset.skk.moe/List/ip/china_ip.conf"
 )
 
 # 创建目录（如果不存在）
