@@ -3,9 +3,15 @@ name: Update Rules
 on:
   schedule:
     # 每天UTC时间16点运行（可根据需要调整）
-    - cron: '0 16 * * *'
+    - cron: '50 15 * * *'
   workflow_dispatch:
     # 允许手动触发工作流
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/*.yml'
+      - 'sh/*.sh'
 
 # 添加权限配置
 permissions:
@@ -21,16 +27,10 @@ jobs:
         with:
           fetch-depth: 0  # 获取完整历史记录
       
-      - name: Setup Bash
-        run: |
-          # 确保bash版本足够新（GitHub Actions默认已经有bash 5.x）
-          bash --version
-      
-      - name: Make script executable
-        run: chmod +x ./sh/getRule.sh
-      
       - name: Run script to update rules
-        run: ./sh/getRule.sh
+        run: |
+          chmod +x ./sh/getRule.sh
+          ./sh/getRule.sh
       
       - name: Commit and push only changed files
         run: |
