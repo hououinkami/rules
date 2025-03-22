@@ -73,7 +73,15 @@ for key in "${!ruleset[@]}"; do
         echo "获取 URL: $url"
         
         # 使用curl获取URL内容，清除多余空行，并追加到输出文件
-        curl -s "$url" | grep -v "^[[:space:]]*$" >> "$output_file"
+        # curl -s "$url" | grep -v "^[[:space:]]*$" >> "$output_file"
+        curl -s "$url" | grep -v "^[[:space:]]*$" | awk '{
+            if ($0 ~ /^IP-CIDR/ && $0 !~ /no-resolve$/) {
+                print $0 ",no-resolve";
+            } else {
+                print $0;
+            }
+        }' >> "$output_file"
+
     done
     
     echo "已保存 $output_file"
