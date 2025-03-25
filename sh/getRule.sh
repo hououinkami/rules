@@ -88,4 +88,108 @@ for key in "${!ruleset[@]}"; do
     echo "------------------------"
 done
 
+echo "开始处理 Kami.list 文件..."
+
+# Kami.list 文件路径
+KAMI_FILE="$REPO_ROOT/sh/Kami.list"
+
+# 检查文件是否存在
+if [[ ! -f "$KAMI_FILE" ]]; then
+    echo "错误: Kami.list 文件不存在于 $KAMI_FILE"
+    exit 1
+fi
+
+# 初始化变量
+CURRENT_SECTION=""
+declare -A DOMAIN_CONTENT
+declare -A RULE_CONTENT
+
+# 读取 Kami.list 并处理内容
+echo "解析 Kami.list 文件..."
+while IFS= read -r line || [[ -n "$line" ]]; do
+    # 跳过空行和注释行
+    if [[ -z "$line" || "$line" =~ ^[[:space:]]*# ]]; then
+        continue
+    fi
+    
+    # 检查是否是节标题行 [Section]
+    if [[ "$line" =~ ^\[(.*)\]$ ]]; then
+        # 提取节名称
+        CURRENT_SECTION="${BASH_REMATCH[1]}"
+        echo "发现节: $CURRENT_SECTION"
+        # 初始化该节的内容变量（如果不存在）
+        DOMAIN_CONTENT["$CURRENT_SECTION"]=""
+        RULE_CONTENT["$CURRENT_SECTION"]=""
+    elif [[ -n "$CURRENT_SECTION" && -n "$line" ]]; then
+        # 根据内容格式决定添加到哪个变量
+        if [[ "$line" == *","* ]]; then
+            # 包含逗号的行添加到ruleset变量
+            RULE_CONTENT["$CURRENT_SECTION"]+="${line}"$'\n'
+        else
+            # 不包含逗号的行（纯URL）添加到domainset变量
+            DOMAIN_CONTENT["$CURRENT_SECTION"]+="${line}"$'\n'
+        fi
+    fi
+done < "$KAMI_FILE"
+
+# 处理每个节，将内容添加到相应的列表文件前面
+echo "将 Kami.list 内容添加到相应的列表文件..."
+
+# 获取所有节名称
+SECTIONS=()
+for section in "${!DOMAIN_CONTENT[@]}"; do
+    SECTIONS+=("$section")
+done
+
+# 处理每个节
+for section in "${SECTIONS[@]}"; do
+    # 处理domainset部分
+    if [[ -n "${DOMAIN_CONTENT[$section]}" ]]; then
+        target_file="$REPO_ROOT/domainset/$section.list"
+        
+        # 检查目标文件是否存在
+        if [[ ! -f "$target_file" ]]; then
+            echo "警告: 找不到domainset目录下的 $section.list 文件，创建新文件"
+            touch "$target_file"
+        fi
+        
+        echo "处理domainset节 $section -> $target_file"
+        
+        # 读取原始文件内容
+        original_content=$(cat "$target_file")
+        
+        # 将新内容和原始内容合并写入文件
+        echo -n "${DOMAIN_CONTENT[$section]}$original_content" > "$target_file"
+        
+        echo "已将 $section 节的URL内容添加到 $target_file 的开头"
+    else
+        echo "节 $section 没有URL内容，跳过domainset处理"
+    fi
+    
+    # 处理ruleset部分
+    if [[ -n "${RULE_CONTENT[$section]}" ]]; then
+        target_file="$REPO_ROOT/ruleset/$section.list"
+        
+        # 检查目标文件是否存在
+        if [[ ! -f "$target_file" ]]; then
+            echo "警告: 找不到ruleset目录下的 $section.list 文件，创建新文件"
+            touch "$target_file"
+        fi
+        
+        echo "处理ruleset节 $section -> $target_file"
+        
+        # 读取原始文件内容
+        original_content=$(cat "$target_file")
+        
+        # 将新内容和原始内容合并写入文件
+        echo -n "${RULE_CONTENT[$section]}$original_content" > "$target_file"
+        
+        echo "已将 $section 节的规则内容添加到 $target_file 的开头"
+    else
+        echo "节 $section 没有规则内容，跳过ruleset处理"
+    fi
+done
+
+echo "Kami.list 处理完成!"
+
 echo "所有处理完成!"
