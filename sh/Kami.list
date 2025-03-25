@@ -1,0 +1,19 @@
+[Direct]
+# > PlayStation游戏下载
+.dl.playstation.net
+# > PlayStation系统更新
+.update.playstation.net
+# > Nintendo下载
+.d4c.nintendo.net
+# > 百度网盘Mac
+PROCESS-NAME, BaiduNetdisk_mac
+# > 在线动漫
+.anime.girigirilove.com
+
+[Proxy]
+# > 无忧行拨打电话
+.jegotrip.com.cn
+
+[Reject]
+# > 科沃斯App
+.recommender.ecovacs.cn
