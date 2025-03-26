@@ -1,14 +1,6 @@
+# 自定义规则
 PROCESS-NAME, BaiduNetdisk_mac
-#########################################
-# Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2025-03-25T14:16:12.362Z
-# Size: 4182
-# License: CC BY-SA 2.0
-# Homepage: https://ruleset.skk.moe
-# GitHub: https://github.com/SukkaW/Surge
-# Data from https://misaka.io (misakaio @ GitHub)
-#########################################
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+# Sukka's Ruleset
 IP-CIDR,1.1.8.0/24,no-resolve
 IP-CIDR,1.2.4.0/24,no-resolve
 IP-CIDR,1.8.1.0/24,no-resolve
@@ -148,9 +140,8 @@ IP-CIDR,36.213.40.0/21,no-resolve
 IP-CIDR,36.213.48.0/20,no-resolve
 IP-CIDR,36.213.64.0/18,no-resolve
 IP-CIDR,36.213.128.0/18,no-resolve
-IP-CIDR,36.213.192.0/21,no-resolve
-IP-CIDR,36.213.200.0/22,no-resolve
-IP-CIDR,36.213.204.0/23,no-resolve
+IP-CIDR,36.213.192.0/20,no-resolve
+IP-CIDR,36.213.208.0/23,no-resolve
 IP-CIDR,36.248.0.0/14,no-resolve
 IP-CIDR,36.255.116.0/22,no-resolve
 IP-CIDR,36.255.128.0/22,no-resolve
@@ -309,7 +300,8 @@ IP-CIDR,43.240.0.0/22,no-resolve
 IP-CIDR,43.240.12.0/22,no-resolve
 IP-CIDR,43.240.56.0/21,no-resolve
 IP-CIDR,43.240.72.0/22,no-resolve
-IP-CIDR,43.240.124.0/22,no-resolve
+IP-CIDR,43.240.124.0/24,no-resolve
+IP-CIDR,43.240.126.0/23,no-resolve
 IP-CIDR,43.240.128.0/22,no-resolve
 IP-CIDR,43.240.133.0/24,no-resolve
 IP-CIDR,43.240.156.0/22,no-resolve
@@ -526,9 +518,7 @@ IP-CIDR,49.4.120.0/22,no-resolve
 IP-CIDR,49.4.124.0/23,no-resolve
 IP-CIDR,49.4.126.0/24,no-resolve
 IP-CIDR,49.4.128.0/22,no-resolve
-IP-CIDR,49.5.0.0/18,no-resolve
-IP-CIDR,49.5.64.0/19,no-resolve
-IP-CIDR,49.5.96.0/20,no-resolve
+IP-CIDR,49.5.0.0/20,no-resolve
 IP-CIDR,49.7.0.0/16,no-resolve
 IP-CIDR,49.52.0.0/14,no-resolve
 IP-CIDR,49.64.0.0/11,no-resolve
@@ -989,7 +979,6 @@ IP-CIDR,103.37.72.0/22,no-resolve
 IP-CIDR,103.37.136.0/21,no-resolve
 IP-CIDR,103.37.144.0/20,no-resolve
 IP-CIDR,103.37.160.0/21,no-resolve
-IP-CIDR,103.37.172.0/22,no-resolve
 IP-CIDR,103.38.40.0/22,no-resolve
 IP-CIDR,103.38.84.0/22,no-resolve
 IP-CIDR,103.38.92.0/23,no-resolve
@@ -1153,7 +1142,6 @@ IP-CIDR,103.91.176.0/22,no-resolve
 IP-CIDR,103.91.208.0/22,no-resolve
 IP-CIDR,103.92.88.0/22,no-resolve
 IP-CIDR,103.93.180.0/22,no-resolve
-IP-CIDR,103.93.204.0/22,no-resolve
 IP-CIDR,103.94.12.0/22,no-resolve
 IP-CIDR,103.94.20.0/23,no-resolve
 IP-CIDR,103.95.68.0/22,no-resolve
@@ -3519,7 +3507,6 @@ IP-CIDR,203.161.192.0/19,no-resolve
 IP-CIDR,203.166.160.0/22,no-resolve
 IP-CIDR,203.166.165.0/24,no-resolve
 IP-CIDR,203.166.166.0/24,no-resolve
-IP-CIDR,203.166.168.0/24,no-resolve
 IP-CIDR,203.166.172.0/24,no-resolve
 IP-CIDR,203.166.177.0/24,no-resolve
 IP-CIDR,203.166.186.0/23,no-resolve
@@ -4190,4 +4177,3 @@ IP-CIDR,223.252.221.0/24,no-resolve
 IP-CIDR,223.252.222.0/24,no-resolve
 IP-CIDR,223.255.236.0/22,no-resolve
 IP-CIDR,223.255.252.0/23,no-resolve
-################## EOF ##################

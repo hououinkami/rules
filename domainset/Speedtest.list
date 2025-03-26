@@ -1,14 +1,4 @@
-#########################################
-# Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2025-03-25T14:16:10.647Z
-# Size: 993
-# License: AGPL 3.0
-# Homepage: https://ruleset.skk.moe
-# GitHub: https://github.com/SukkaW/Surge
-#
-# This file contains common speedtest endpoints.
-#########################################
-this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+# Sukka's Ruleset
 nyc01.screenshot.download
 mia01.screenshot.download
 ams-speedtest.isp.htb.systems
@@ -228,7 +218,6 @@ ipl3pt.syd.ops.aspac.uu.net
 ipl3pt.fft.ops.eu.uu.net
 speedtest-cbr.cdn.on.net
 srv3.vncv1.bc.net
-this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 speedtest1.net.rochester.edu
 speedtest.clarkson.edu
 speedtest1.net.cornell.edu
@@ -1001,4 +990,3 @@ speedtest-mel0.encoo.com.au
 speedtest.capti.com.au
 speedtest.58243.as
 .speedtest.angolacables.co.ao
-################## EOF ##################
