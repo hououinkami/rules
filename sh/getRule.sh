@@ -48,8 +48,19 @@ for key in "${!domainset[@]}"; do
     for url in $(echo $urls); do
         echo "获取 URL: $url"
         
+        # 在获取URL内容时处理指定部分
+        if [[ "$url" == *"ruleset.skk.moe"* ]]; then
+            # 如果URL包含ruleset.skk.moe，过滤掉包含"#"或"ruleset.skk.moe"的行
+            content=$(curl -s "$url" | grep -v "#" | grep -v "ruleset.skk.moe")
+            # 在content变量前添加注释
+            content="# Sukka's Ruleset"$'\n'"$content"
+        else
+            # 正常获取内容
+            content=$(curl -s "$url")
+        fi
+
         # 使用curl获取URL内容，清除多余空行，并追加到输出文件
-        curl -s "$url" | grep -v "^[[:space:]]*$" >> "$output_file"
+        echo "$content" | grep -v "^[[:space:]]*$" >> "$output_file"
     done
     
     echo "已保存 $output_file"
@@ -72,9 +83,19 @@ for key in "${!ruleset[@]}"; do
     for url in $(echo $urls); do
         echo "获取 URL: $url"
         
+        # 在获取URL内容时处理指定部分
+        if [[ "$url" == *"ruleset.skk.moe"* ]]; then
+            # 如果URL包含ruleset.skk.moe，过滤掉包含"#"或"ruleset.skk.moe"的行
+            content=$(curl -s "$url" | grep -v "#" | grep -v "ruleset.skk.moe")
+            # 在content变量前添加注释
+            content="# Sukka's Ruleset"$'\n'"$content"
+        else
+            # 正常获取内容
+            content=$(curl -s "$url")
+        fi
+
         # 使用curl获取URL内容，清除多余空行，并追加到输出文件
-        # curl -s "$url" | grep -v "^[[:space:]]*$" >> "$output_file"
-        curl -s "$url" | grep -v "^[[:space:]]*$" | awk '{
+        echo "$content" | grep -v "^[[:space:]]*$" | awk '{
             if ($0 ~ /^IP-CIDR/ && $0 !~ /no-resolve$/) {
                 print $0 ",no-resolve";
             } else {
@@ -88,6 +109,10 @@ for key in "${!ruleset[@]}"; do
     echo "------------------------"
 done
 
+# 合并指定的set文件
+processRules "Apple"
+
+# 处理自定义规则
 echo "开始处理 Kami.list 文件..."
 
 # Kami.list 文件路径
@@ -159,7 +184,7 @@ for section in "${SECTIONS[@]}"; do
         original_content=$(cat "$target_file")
         
         # 将新内容和原始内容合并写入文件
-        echo -n "${DOMAIN_CONTENT[$section]}$original_content" > "$target_file"
+        echo -n "# 自定义规则"$'\n'"${DOMAIN_CONTENT[$section]}$original_content" > "$target_file"
         
         echo "已将 $section 节的URL内容添加到 $target_file 的开头"
     else
@@ -182,7 +207,7 @@ for section in "${SECTIONS[@]}"; do
         original_content=$(cat "$target_file")
         
         # 将新内容和原始内容合并写入文件
-        echo -n "${RULE_CONTENT[$section]}$original_content" > "$target_file"
+        echo -n "# 自定义规则"$'\n'"${RULE_CONTENT[$section]}$original_content" > "$target_file"
         
         echo "已将 $section 节的规则内容添加到 $target_file 的开头"
     else

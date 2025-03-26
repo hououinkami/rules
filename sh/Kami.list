@@ -5,10 +5,10 @@
 .update.playstation.net
 # > Nintendo下载
 .d4c.nintendo.net
-# > 百度网盘Mac
-PROCESS-NAME, BaiduNetdisk_mac
 # > 在线动漫
 .anime.girigirilove.com
+# > 百度网盘Mac
+PROCESS-NAME, BaiduNetdisk_mac
 
 [Proxy]
 # > 无忧行拨打电话
