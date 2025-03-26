@@ -30,6 +30,7 @@ jobs:
       - name: Run script to update rules
         run: |
           chmod +x ./sh/getRule.sh
+          chmod +x ./sh/setConvert.sh
           ./sh/getRule.sh
       
       - name: Commit and push only changed files

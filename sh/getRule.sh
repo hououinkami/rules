@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 导入
-source ./setConvert.sh
+source "$(dirname "$0")/setConvert.sh"
 
 # 获取脚本所在目录
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
