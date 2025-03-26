@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 导入
-source "$(dirname "$0")/setConvert.sh"
+source "$(dirname "$0")/ruleConvert.sh"
 
 # 获取脚本所在目录
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -22,7 +22,6 @@ declare -A ruleset=(
     [Apple]="https://ruleset.skk.moe/List/non_ip/apple_services.conf"
     [Japan]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Media/Spotify.list
         https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/PayPal.list"
-    [Reject]="https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo_surge.list"
     [AI]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/AI%20Suite.list"
     [Telegram]="https://ruleset.skk.moe/List/ip/telegram.conf"
     [Direct]="https://ruleset.skk.moe/List/ip/china_ip.conf"
