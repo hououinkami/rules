@@ -89,8 +89,8 @@ rule2domain() {
             # 将"DOMAIN-SUFFIX,"替换为"."
             domain=$(echo "$clean_line" | sed 's/^DOMAIN-SUFFIX,/\./')
             output+="$domain\n"
-        else
-            # 其他行保持不变
+        # 只保留注释行（以#开头的行）
+        elif [[ "$clean_line" =~ ^[[:space:]]*# ]]; then
             output+="$clean_line\n"
         fi
     done < "$INPUT_FILE"
@@ -172,6 +172,7 @@ processRules() {
                 
                 # 追加内容到domainset中的文件
                 cat "ruleset/${key}.tmp" >> "domainset/${key}.list"
+                rm -rf "ruleset/${key}.tmp"
                 echo "${key}.tmp 内容已追加到 domainset/${key}.list"
             else
                 echo "警告: ruleset/${key}.tmp 文件不存在，跳过追加操作"
