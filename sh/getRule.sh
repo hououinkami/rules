@@ -10,7 +10,6 @@ REPO_ROOT="$(dirname "$SCRIPT_DIR")"
 
 # 声明关联数组
 declare -A domainset=(
-    [Apple]="https://ruleset.skk.moe/List/domainset/apple_cdn.conf"
     [Reject]="https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/discretion/dns.txt
         https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt
         https://raw.githubusercontent.com/geekdada/surge-list/refs/heads/master/domain-set/tracking-protection-filter.txt"
@@ -19,7 +18,7 @@ declare -A domainset=(
     [Direct]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt"
 )
 declare -A ruleset=(
-    [Apple]="https://ruleset.skk.moe/List/non_ip/apple_services.conf"
+    [Apple]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Apple.list"
     [Japan]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Media/Spotify.list
         https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/PayPal.list"
     [AI]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/AI%20Suite.list"
@@ -107,9 +106,6 @@ for key in "${!ruleset[@]}"; do
     echo "已保存 $output_file"
     echo "------------------------"
 done
-
-# 合并指定的set文件
-processRules "Apple"
 
 # 处理自定义规则
 echo "开始处理 Kami.list 文件..."
