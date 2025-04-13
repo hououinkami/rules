@@ -22,6 +22,7 @@ declare -A ruleset=(
         https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/PayPal.list"
     [AI]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/AI%20Suite.list"
     [Telegram]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Telegram.list"
+    [Reject]="https://raw.githubusercontent.com/fmz200/wool_scripts/refs/heads/main/Loon/rule/rejectAd.list"
     [Direct]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Domestic%20IPs.list"
 )
 
