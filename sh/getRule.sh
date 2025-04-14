@@ -87,6 +87,11 @@ for key in "${!ruleset[@]}"; do
             content=$(curl -s "$url" | grep -v "#" | grep -v "ruleset.skk.moe")
             # 在content变量前添加注释
             content="# Sukka's Ruleset"$'\n'"$content"
+        elif [[ "$url" == *"fmz200"* ]]; then
+            # 删除 # 开头的注释行但保留 # > 开头的注释行
+            content=$(curl -s "$url" | grep -E "^# >|^[^#]")
+            # 在content变量前添加注释
+            content="# fmz200's Ruleset"$'\n'"$content"
         else
             # 正常获取内容
             content=$(curl -s "$url")
