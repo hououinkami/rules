@@ -1,27 +1,4 @@
-#!name=广告拦截合集-规则
-#!desc=(F)针对部分APP和小程序广告进行拦截，某些APP要清除缓存或者重新安装APP，拦截广告才会生效！可以配置到规则或者插件
-#!author=奶思
-#!homepage=https://github.com/fmz200/wool_scripts
-#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
-#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/rejectAd.list
-#!tg-group=https://t.me/lanjieguanggao
-#!tag = 去广告, fmz200
-#!system = iOS, iPadOS
-#!system_version =
-#!loon_version =
-#!date=2025-03-10 11:10:00
-#!support=约9392行
-#!proxy-select=REJECT
-#############################################
-# "REJECT"        策略返回 HTTP 状态码 404,不附带任何额外内容
-# "REJECT-200"    策略返回 HTTP 状态码 200,不附带任何额外内容
-# "REJECT-img"    策略返回 HTTP 状态码 200,同时附带 1px gif
-# "REJECT-dict"   策略返回 HTTP 状态码 200,同时附带一个空的 JSON 对象
-# "REJECT-array"  策略返回 HTTP 状态码 200,同时附带一个空的 JSON 数组
-# 1.2.3.4/24      /24表示网络的子网掩码长度，即前24位是网络部分，后8位是主机部分。这种表示法常用于描述特定范围内的IP地址
-# 6.7.8.9/32      /32表示整个32位的IP地址都用于表示这一个地址，即单独的一个IP地址
-#############################################
-#[Rule]
+# fmz200's Ruleset
 # >>>>>>>>>>>>>>> ✅ # ✅ <<<<<<<<<<<<<<
 # > 广告联盟
 DOMAIN-SUFFIX, miaozhen.com
@@ -93,7 +70,6 @@ DOMAIN, webproxy-advp.iad-apple.com
 DOMAIN, webproxy-advp.iad-apple.com.akadns.net
 DOMAIN-SUFFIX,advp.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
-# 安全浏览限制解除
 DOMAIN, lookup.api.bsb.baidu.com
 DOMAIN, proxy.safebrowsing.apple
 DOMAIN, safebrowsing.g.applimg.com
@@ -358,12 +334,10 @@ DOMAIN, logs.chelaile.net.cn
 DOMAIN, ad.chelaile.net.cn
 # >>>>>>>>>>>>>>> ✅ D ✅ <<<<<<<<<<<<<<
 # > Dr.Peng
-#IP-CIDR, 10.72.25.0/24
 IP-CIDR, 211.161.101.110/32, no-resolve
 # > 叮嗒出行
 DOMAIN-KEYWORD,image.bianxianmao.com
 # > 滴滴青桔（支付界面图片有误杀）
-#DOMAIN-KEYWORD, pt-starimg.didistatic.com
 IP-CIDR, 203.107.1.1/24, no-resolve
 # > 懂车帝
 DOMAIN-KEYWORD,p3-pack.byteimg.com
@@ -392,7 +366,6 @@ DOMAIN, mcs.snssdk.com
 DOMAIN, tnc3-alisc1.snssdk.com
 DOMAIN, security-lq.snssdk.com
 DOMAIN, tnc3-aliec2.snssdk.com
-#DOMAIN, is.snssdk.com
 DOMAIN, i.snssdk.com
 DOMAIN, v6-novelapp.ixigua.com
 DOMAIN, msync-im1-vip6-std.easemob.com
@@ -401,9 +374,6 @@ DOMAIN, api.iegadp.qq.com
 DOMAIN-SUFFIX, novelapp.ixigua.com
 DOMAIN-SUFFIX, default.ixigua.com
 DOMAIN-SUFFIX, byteorge.com
-# 下面两条误杀严重导致懂车帝无法正常使用
-#DOMAIN-SUFFIX, bytegoofy.com
-#DOMAIN-SUFFIX, bytedance.com
 IP-CIDR, 49.71.37.101/32, no-resolve
 IP-CIDR, 117.71.105.23/32, no-resolve
 IP-CIDR, 218.94.207.205/32, no-resolve
@@ -466,12 +436,9 @@ DOMAIN-SUFFIX,shouji.sougou.com
 DOMAIN, u51.me
 DOMAIN-SUFFIX,u51.me
 # > 广州地铁乘车码
-# 多个广告 感谢CtrlMusic🐓分享
 DOMAIN, apis.alenable.com
 # >>>>>>>>>>>>>>> ✅ H ✅ <<<<<<<<<<<<<<
 # > HDO
-#DOMAIN-suffix, applovin.com
-#DOMAIN-suffix, applvn.com
 # > Huawei AspiegelBot
 IP-CIDR, 114.119.160.0/21, no-resolve
 # > 湖南卫视
@@ -545,12 +512,10 @@ DOMAIN-KEYWORD,kepler.jd.com
 DOMAIN-KEYWORD,bdsp.x.jd.com
 DOMAIN-KEYWORD,keplerapi.jd.com
 DOMAIN-KEYWORD,mapi.m.jd.com
-# 屏蔽DNS
 DOMAIN, dns.jd.com
 IP-CIDR, 101.124.19.122/32, no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128, no-resolve
 # > 建行生活
-# 内置饿了么外卖弹窗
 DOMAIN, o2o-ad-log-gateway.alibaba.com
 # >>>>>>>>>>>>>>> ✅ K ✅ <<<<<<<<<<<<<<
 # > keep
@@ -868,7 +833,6 @@ DOMAIN-SUFFIX,bazinga.mse.sogou.com
 DOMAIN-SUFFIX,bite.theta.sogoucdn.com
 DOMAIN-SUFFIX,brand.sogou.com
 DOMAIN-SUFFIX,bsiet.husky.sogou.com
-# 屏蔽京东和搜狗收集信息 @jFrecht
 DOMAIN-SUFFIX,jdqd.jd.com
 DOMAIN-SUFFIX,shouji.sougou.com
 # > 深圳通微信小程序
@@ -944,25 +908,6 @@ DOMAIN-SUFFIX,stat.simba.taobao.com
 DOMAIN-SUFFIX,m-adash.m.taobao.com
 DOMAIN-SUFFIX,adashbc.m.taobao.com
 # > 腾讯视频
-# DOMAIN, adsmind.gdtimg.com
-# DOMAIN, btrace.qq.com
-# DOMAIN, btrace.video.qq.com
-# DOMAIN, info4.video.qq.com
-# DOMAIN, info6.video.qq.com
-# DOMAIN, ios.video.mpush.qq.com
-# DOMAIN, mtrace.qq.com
-# DOMAIN, p.l.qq.com
-# DOMAIN, pgdt.gtimg.cn
-# DOMAIN, rpt.gdt.qq.com
-# DOMAIN-SUFFIX,trace.qq.com
-# DOMAIN-SUFFIX,tetrack.qq.com
-# DOMAIN-SUFFIX,tpns.tencent.com
-# DOMAIN-SUFFIX,api.poll.video.qq.com
-# DOMAIN-SUFFIX,static-res.qq.com
-# DOMAIN-SUFFIX,stat.tpns.tencent.com
-# DOMAIN, h.trace.qq.com
-# DOMAIN-KEYWORD,omgmta.qq.com
-# DOMAIN-KEYWORD,omgmta1.qq.com
 # >  腾讯
 DOMAIN-SUFFIX,news.ssp.qq.com
 DOMAIN-SUFFIX,news.l.qq.com
@@ -1202,9 +1147,7 @@ DOMAIN-KEYWORD,stsdk.vivoglobal.com
 DOMAIN-KEYWORD,paradisestatic.vivo.com.cn
 # >>>>>>>>>>>>>>> ✅ W ✅ <<<<<<<<<<<<<<
 # > 万能钥匙专业版
-# 感谢#All in 梭哈分享
 DOMAIN-SUFFIX,mi.gdt.qq.com
-# 去除导航栏免费短剧
 DOMAIN, taichi.51y5.net
 # > WiFi万能钥匙
 DOMAIN-KEYWORD,app.51y5.net
@@ -1226,7 +1169,6 @@ DOMAIN-KEYWORD,config.51y5.net
 DOMAIN-KEYWORD,static.wkanx.com
 DOMAIN-KEYWORD,config.y5en.com
 # > 微博
-# 迁移到weibo.plugin
 # > 网易
 DOMAIN-SUFFIX,dsp.youdao.com
 DOMAIN-SUFFIX,union.youdao.com
@@ -1877,7 +1819,6 @@ DOMAIN-SUFFIX, vegent.cn
 DOMAIN-SUFFIX, vipads.cn
 DOMAIN-SUFFIX, vmzqwz.cn
 DOMAIN-SUFFIX, voiceads.cn
-#DOMAIN-SUFFIX, vungle.cn
 DOMAIN-SUFFIX, vwkhdi.cn
 DOMAIN-SUFFIX, waps.cn
 DOMAIN-SUFFIX, wapx.cn
@@ -5095,7 +5036,6 @@ DOMAIN-SUFFIX, g.aligames.com
 DOMAIN-SUFFIX, optimus-ads.amap.com.w.alikunlun.com
 DOMAIN-SUFFIX, osfota.cdn.aliyun.com
 DOMAIN-SUFFIX, oa-panther.data.aliyun.com
-#DOMAIN-SUFFIX, oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX, dressimage.img-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX, adash.man.aliyuncs.com
 DOMAIN-SUFFIX, ooss.oss.aliyuncs.com
@@ -9639,7 +9579,6 @@ DOMAIN-SUFFIX, yumcs.xiaohuau.xyz
 DOMAIN-SUFFIX, banner.itweb.co.za
 DOMAIN-SUFFIX, banners.itweb.co.za
 DOMAIN-SUFFIX, xn--3bs795g.zone
-# IPV4 addresses
 IP-CIDR, 117.177.248.17/32, no-resolve
 IP-CIDR, 117.177.248.41/32, no-resolve
 IP-CIDR, 223.87.176.139/32, no-resolve
