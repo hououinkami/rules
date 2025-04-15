@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 # > Cloudflare AI Gateway
 DOMAIN,gateway.ai.cloudflare.com
+# > Codeium
+DOMAIN-SUFFIX,codeium.com
 # > Copilot
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN,copilot.microsoft.com
@@ -48,6 +50,9 @@ DOMAIN,waa-pa.clients6.google.com
 # > Google NotebookLM
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
+# > Grok
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
 # > Groq
 DOMAIN-SUFFIX,groq.com
 # > Jasper
