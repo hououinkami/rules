@@ -996,8 +996,7 @@ DOMAIN-SUFFIX,tajs.qq.com
 DOMAIN-SUFFIX,fusion.qq.com
 DOMAIN-SUFFIX,ios.bugly.qq.com
 DOMAIN, safebrowsing.urlsec.qq.com
-DOMAIN-SUFFIX,oth.str.mdt.qq.com
-DOMAIN-SUFFIX,l.qq.com
+DOMAIN, oth.str.mdt.qq.com
 DOMAIN, adsmind.apdcdn.tc.qq.com
 DOMAIN, adsmind.tc.qq.com
 DOMAIN, livep.l.t002.ottcn.com
