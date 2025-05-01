@@ -1,4 +1,11 @@
 # 自定义规则
+.location.apple.com
+.gdmf.apple.com
+.time.apple.com
+.gs-loc.apple.com
+.gs-loc-cn.apple.com
+.weather-data.apple.com
+.ls.apple.com
 home.hououinkami.top
 .dl.playstation.net
 .update.playstation.net
@@ -30976,6 +30983,7 @@ xz.pphimalayanrt.com
 .djiang.net
 .djiavip.com
 .djicdn.com
+.djiits.com
 .djiops.com
 .djiservice.org
 .djjgj.com
@@ -71277,6 +71285,7 @@ xz.pphimalayanrt.com
 .mored.com
 .moredian.com
 .morefood.com
+.morefreegame.com
 .morefun-philippines.com
 .moregy.com
 .moreless.io
@@ -105400,6 +105409,7 @@ xz.pphimalayanrt.com
 .xiaomeiti.com
 .xiaomeng1235.com
 .xiaomi.com
+.xiaomi.eu
 .xiaomi.hk
 .xiaomi.net
 .xiaomi.org
