@@ -1,4 +1,12 @@
 [Direct]
+# > Apple时区与定位
+.location.apple.com
+.gdmf.apple.com
+.time.apple.com
+.gs-loc.apple.com
+.gs-loc-cn.apple.com
+.weather-data.apple.com
+.ls.apple.com
 # > DDNS
 home.hououinkami.top
 # > PlayStation游戏下载
