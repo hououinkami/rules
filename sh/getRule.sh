@@ -172,21 +172,25 @@ for section in "${SECTIONS[@]}"; do
     if [[ -n "${DOMAIN_CONTENT[$section]}" ]]; then
         target_file="$REPO_ROOT/domainset/$section.list"
         
-        # 检查目标文件是否存在
-        if [[ ! -f "$target_file" ]]; then
-            echo "警告: 找不到domainset目录下的 $section.list 文件，创建新文件"
+        # 检查section是否存在于domainset关联数组中
+        if [[ -n "${domainset[$section]}" ]]; then
+            echo "处理domainset节 $section -> $target_file"
+            
+            # 读取原始文件内容
+            original_content=$(cat "$target_file")
+            
+            # 将新内容和原始内容合并写入文件
+            echo -n "# 自定义规则"$'\n'"${DOMAIN_CONTENT[$section]}$original_content" > "$target_file"
+            
+            echo "已将 $section 节的URL内容添加到 $target_file 的开头"
+        else
+            # 如果不存在于关联数组中，则删除并重新创建文件
+            echo "节 $section 不在domainset关联数组中，删除并重新创建文件"
+            rm -f "$target_file"
             touch "$target_file"
+            echo -n "# 自定义规则"$'\n'"${DOMAIN_CONTENT[$section]}" > "$target_file"
+            echo "已创建新文件 $target_file 并写入 $section 节的内容"
         fi
-        
-        echo "处理domainset节 $section -> $target_file"
-        
-        # 读取原始文件内容
-        original_content=$(cat "$target_file")
-        
-        # 将新内容和原始内容合并写入文件
-        echo -n "# 自定义规则"$'\n'"${DOMAIN_CONTENT[$section]}$original_content" > "$target_file"
-        
-        echo "已将 $section 节的URL内容添加到 $target_file 的开头"
     else
         echo "节 $section 没有URL内容，跳过domainset处理"
     fi
@@ -195,21 +199,25 @@ for section in "${SECTIONS[@]}"; do
     if [[ -n "${RULE_CONTENT[$section]}" ]]; then
         target_file="$REPO_ROOT/ruleset/$section.list"
         
-        # 检查目标文件是否存在
-        if [[ ! -f "$target_file" ]]; then
-            echo "警告: 找不到ruleset目录下的 $section.list 文件，创建新文件"
+        # 检查section是否存在于ruleset关联数组中
+        if [[ -n "${ruleset[$section]}" ]]; then
+            echo "处理ruleset节 $section -> $target_file"
+            
+            # 读取原始文件内容
+            original_content=$(cat "$target_file")
+            
+            # 将新内容和原始内容合并写入文件
+            echo -n "# 自定义规则"$'\n'"${RULE_CONTENT[$section]}$original_content" > "$target_file"
+            
+            echo "已将 $section 节的规则内容添加到 $target_file 的开头"
+        else
+            # 如果不存在于关联数组中，则删除并重新创建文件
+            echo "节 $section 不在ruleset关联数组中，删除并重新创建文件"
+            rm -f "$target_file"
             touch "$target_file"
+            echo -n "# 自定义规则"$'\n'"${RULE_CONTENT[$section]}" > "$target_file"
+            echo "已创建新文件 $target_file 并写入 $section 节的内容"
         fi
-        
-        echo "处理ruleset节 $section -> $target_file"
-        
-        # 读取原始文件内容
-        original_content=$(cat "$target_file")
-        
-        # 将新内容和原始内容合并写入文件
-        echo -n "# 自定义规则"$'\n'"${RULE_CONTENT[$section]}$original_content" > "$target_file"
-        
-        echo "已将 $section 节的规则内容添加到 $target_file 的开头"
     else
         echo "节 $section 没有规则内容，跳过ruleset处理"
     fi
