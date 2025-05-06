@@ -1,4 +1,4 @@
-[DirectFix]
+[AppleFix]
 # > Apple定位
 DOMAIN,gs-loc.apple.com
 DOMAIN,gs-loc-cn.apple.com
@@ -6,6 +6,7 @@ DOMAIN,gdmf.apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,ls.apple.com.akadns.net
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
+[DirectFix]
 # > DDNS
 DOMAIN,home.hououinkami.top
 # > PlayStation游戏下载
