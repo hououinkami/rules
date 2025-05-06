@@ -1,23 +1,23 @@
 [DirectFix]
 # > Apple定位
-gs-loc.apple.com
-gs-loc-cn.apple.com
-gdmf.apple.com
-.ls.apple.com
-.ls.apple.com.akadns.net
-.ls.apple.com.edgesuite.net
+DOMAIN,gs-loc.apple.com
+DOMAIN,gs-loc-cn.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,ls.apple.com.akadns.net
+DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
 # > DDNS
-home.hououinkami.top
+DOMAIN,home.hououinkami.top
 # > PlayStation游戏下载
-.dl.playstation.net
+DOMAIN-SUFFIX,dl.playstation.net
 # > PlayStation系统更新
-.update.playstation.net
+DOMAIN-SUFFIX,update.playstation.net
 # > Nintendo下载
-.d4c.nintendo.net
+DOMAIN-SUFFIX,d4c.nintendo.net
 # > 在线动漫
-.anime.girigirilove.com
+DOMAIN-SUFFIX,anime.girigirilove.com
 # > 百度网盘Mac
-PROCESS-NAME, BaiduNetdisk_mac
+PROCESS-NAME,BaiduNetdisk_mac
 
 [Proxy]
 # > 无忧行拨打电话
