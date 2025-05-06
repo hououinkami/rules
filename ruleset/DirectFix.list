@@ -1,4 +1,17 @@
 # 自定义规则
+DOMAIN,gs-loc.apple.com
+DOMAIN,gs-loc-cn.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,ls.apple.com.akadns.net
+DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
+DOMAIN,home.hououinkami.top
+DOMAIN-SUFFIX,dl.playstation.net
+DOMAIN-SUFFIX,update.playstation.net
+DOMAIN-SUFFIX,d4c.nintendo.net
+DOMAIN-SUFFIX,anime.girigirilove.com
+PROCESS-NAME,BaiduNetdisk_mac
+# 自定义规则
 PROCESS-NAME, BaiduNetdisk_mac
 # 自定义规则
 PROCESS-NAME, BaiduNetdisk_mac
