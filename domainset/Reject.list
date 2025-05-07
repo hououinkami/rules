@@ -89434,6 +89434,10 @@ v6-data.video.dns.iqiyi.com
 .xlog.snssdk.com
 .log.snssdk.com
 .kib.hu
+.metric-api.newrelic.com
+.conduit-beacon.mtvnservices.com
+.redfast.com
+.analytics.newsifier.nl
 .mn-tz.com
 .tr.thecontentserver.com
 .sst.hostnet.nl
@@ -141551,6 +141555,12 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.ap.attainplatform.io
+.views-dual.hulu.com
+.ichnaea.dradis.netflix.com
+.customerevents.dradis.netflix.com
+.config.sdk.kochava.dewrain.life
+.log.cookieyes.com
 .pl.elements.video
 .sgtm.alfinans.dk
 .sgtm.aziendechesifinanzianodasole.com
@@ -141814,6 +141824,7 @@ v6-data.video.dns.iqiyi.com
 .agi-static.indiatimes.com
 .fail.adr.ec
 .t.adii.se
+.s.bunkr.ru
 .stats.bunkr.ru
 .logs.netflix.com
 .mst.rnd.de
