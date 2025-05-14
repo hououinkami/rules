@@ -645,6 +645,8 @@ DOMAIN-SUFFIX,d.meituan.net
 # > 美颜相机 去首页和轮播广告
 DOMAIN, adui.tg.meitu.com
 DOMAIN, aaid.uyunad.com
+# > 美柚
+DOMAIN,ad.seeyouyima.com
 # > 买单吧
 DOMAIN-KEYWORD,c-hzgt2.getui.com
 # > 民生银行
@@ -1234,6 +1236,8 @@ DOMAIN, tracking.intl.miui.com
 DOMAIN, 39d83s.com
 # > 小利生活
 DOMAIN-KEYWORD,mpos-pic.helipay.com
+# > 小爱音箱
+DOMAIN, mistat.xiaomi.com
 # > 晓晓优选
 DOMAIN-SUFFIX,api-htp.beizi.biz
 # > 新浪
