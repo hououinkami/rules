@@ -1239,7 +1239,10 @@ DOMAIN-KEYWORD,mpos-pic.helipay.com
 # > 小爱音箱
 DOMAIN, mistat.xiaomi.com
 # > 晓晓优选
-DOMAIN-SUFFIX,api-htp.beizi.biz
+DOMAIN-SUFFIX, api-htp.beizi.biz
+DOMAIN-SUFFIX, yfanads.com
+DOMAIN-SUFFIX, 1rtb.net
+DOMAIN-SUFFIX, adwangmai.com
 # > 新浪
 DOMAIN-SUFFIX,beacon.sina.com.cn
 DOMAIN, u1.img.mobile.sina.cn
