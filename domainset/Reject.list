@@ -86888,7 +86888,10 @@ v6-data.video.dns.iqiyi.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
-.ingestion.webanalytics.italia.it
+.b.videoamp.com
+.pi.ispot.tv
+.pblog-vmap.getpublica.com
+.ade.googlesyndication.com
 .kib.hu
 .woomy.me
 .pix.pontiac.media
@@ -141071,6 +141074,9 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.ingestion.webanalytics.italia.it
+.njoevqi1nx.hockerty.com
+.analytics.lunarclientprod.com
 .web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
 .log.realelements.live
 .metrics.cs.money
