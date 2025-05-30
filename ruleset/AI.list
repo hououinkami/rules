@@ -84,4 +84,4 @@ DOMAIN,guzzoni.smoot.apple.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN,sora-cdn.oaistatic.com
 # > Zed
-DOMAIN,llm.zed.dev
+DOMAIN-SUFFIX,zed.dev
