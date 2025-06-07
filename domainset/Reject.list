@@ -88060,6 +88060,7 @@ v6-data.video.dns.iqiyi.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.datadog.pool.ntp.org
 .pubtrky.com
 .logs2.sportslocalmedia.com
 .analytics.pyksid.com
@@ -145297,7 +145298,6 @@ v6-data.video.dns.iqiyi.com
 .appsflyer-report.honkaiimpact3.com
 .attr.appsflyer.com
 .banner.appsflyer.com
-.cdn-settings.appsflyersdk.com
 .cdnappicons.appsflyer.com
 .dls2s.appsflyer.com
 .events.appsflyer.com
@@ -145308,7 +145308,6 @@ v6-data.video.dns.iqiyi.com
 .impression.appsflyer.com
 .inapps.appsflyer.com
 .launches.appsflyer.com
-.launches.appsflyersdk.com
 .onelink.appsflyer.com
 .register.appsflyer.com
 .sdk-services.appsflyer.com
