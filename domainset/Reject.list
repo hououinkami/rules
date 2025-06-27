@@ -90988,6 +90988,12 @@ v6-data.video.dns.iqiyi.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.youseasky.com
+.sra-px.cdn-fileserver.com
+.rsra.cdn-fileserver.com
+.rsras.cdn-fileserver.com
+.rsra-ph.cdn-fileserver.com
+.rsras-ph.cdn-fileserver.com
 .tg.meitu.com
 .telemetrydeck.com
 .usrpubtrk.com
@@ -113451,7 +113457,6 @@ v6-data.video.dns.iqiyi.com
 .ssmr2.so-net.ne.jp
 .sstatistikk.talkmore.no
 .sstatistikk.telenor.no
-.sstats.adobe.com
 .sstats.airfarewatchdog.co.uk
 .sstats.airfarewatchdog.com
 .sstats.alfa.com
@@ -144245,6 +144250,8 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.collector.fullxh.com
+.collector.xhamster.com
 .ss.samolet.ru
 .agent-server.sc-api.seaart.ai
 .reqstat.api.mega.co.nz
