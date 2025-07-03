@@ -1,3 +1,6 @@
+# > Augment
+DOMAIN-SUFFIX,augment.com
+DOMAIN-SUFFIX,augmentcode.com
 # > ChatGPT
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,chatgpt.com
@@ -17,12 +20,15 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 # > Cloudflare AI Gateway
 DOMAIN,gateway.ai.cloudflare.com
+# > DIA
+DOMAIN-SUFFIX,diabrowser.engineering
 # > Windsurf
 DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,codeiumdata.com
 # > Copilot
 DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN,copilot.microsoft.com
 # > Cursor
 DOMAIN-SUFFIX,cursor.sh
@@ -78,4 +84,4 @@ DOMAIN,guzzoni.smoot.apple.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN,sora-cdn.oaistatic.com
 # > Zed
-DOMAIN,llm.zed.dev
+DOMAIN-SUFFIX,zed.dev

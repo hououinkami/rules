@@ -355,6 +355,10 @@ DOMAIN, track.tiara.kakao.com
 # > 朵朵校友圈 微信小程序去广告
 DOMAIN-SUFFIX,ad.duoduo.link
 # > 盯盯拍 广告联盟已包含
+# > 叮咚买菜
+DOMAIN, trackercollect.ddxq.mobi
+DOMAIN, ddfs-public.ddimg.mobi
+DOMAIN, rttrack.ddxq.mobi
 # >>>>>>>>>>>>>>> ✅ E ✅ <<<<<<<<<<<<<<
 # >>>>>>>>>>>>>>> ✅ F ✅ <<<<<<<<<<<<<<
 # > 番茄小说
@@ -641,6 +645,8 @@ DOMAIN-SUFFIX,d.meituan.net
 # > 美颜相机 去首页和轮播广告
 DOMAIN, adui.tg.meitu.com
 DOMAIN, aaid.uyunad.com
+# > 美柚
+DOMAIN,ad.seeyouyima.com
 # > 买单吧
 DOMAIN-KEYWORD,c-hzgt2.getui.com
 # > 民生银行
@@ -664,11 +670,12 @@ DOMAIN, v1.log.moji.com
 # > 咪咕视频
 DOMAIN-SUFFIX,ad.cmvideo.cn
 DOMAIN, ggc.cmvideo.cn
-DOMAIN, ggic03.miguvideo.com
-DOMAIN, ggmk.miguvideo.com
 DOMAIN, ggv.cmvideo.cn
 DOMAIN, ggx.cmvideo.cn
 DOMAIN, ggx03.miguvideo.com
+DOMAIN, ggic03.miguvideo.com
+DOMAIN, ggmk.miguvideo.com
+DOMAIN, ggadoffline.miguvideo.com
 # > 小米米家
 DOMAIN, sdkconfig.ad.xiaomi.com
 # > 芒果TV
@@ -1230,8 +1237,13 @@ DOMAIN, tracking.intl.miui.com
 DOMAIN, 39d83s.com
 # > 小利生活
 DOMAIN-KEYWORD,mpos-pic.helipay.com
+# > 小爱音箱
+DOMAIN, mistat.xiaomi.com
 # > 晓晓优选
-DOMAIN-SUFFIX,api-htp.beizi.biz
+DOMAIN-SUFFIX, api-htp.beizi.biz
+DOMAIN-SUFFIX, yfanads.com
+DOMAIN-SUFFIX, 1rtb.net
+DOMAIN-SUFFIX, adwangmai.com
 # > 新浪
 DOMAIN-SUFFIX,beacon.sina.com.cn
 DOMAIN, u1.img.mobile.sina.cn
@@ -1259,7 +1271,6 @@ DOMAIN, ads.finance.yahoo.com
 DOMAIN, ads.yahoo.com
 DOMAIN, ads.yahoo.de
 # > 优酷
-DOMAIN-SUFFIX, sm.cn
 DOMAIN-SUFFIX, acz.youku.com
 DOMAIN-SUFFIX, adx-core.youku.com
 DOMAIN-SUFFIX, adx-open-service.youku.com
