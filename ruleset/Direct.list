@@ -10350,7 +10350,7 @@ IP-CIDR6,2a14:67c1:a061::/48,no-resolve
 IP-CIDR6,2a14:67c1:a064::/48,no-resolve
 IP-CIDR6,2a14:67c1:a090::/48,no-resolve
 IP-CIDR6,2a14:67c1:a092::/47,no-resolve
-IP-CIDR6,2a14:67c1:a094::/47,no-resolve
+IP-CIDR6,2a14:67c1:a095::/48,no-resolve
 IP-CIDR6,2a14:67c1:a099::/48,no-resolve
 IP-CIDR6,2a14:67c1:a100::/43,no-resolve
 IP-CIDR6,2a14:67c1:a121::/48,no-resolve
