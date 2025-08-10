@@ -53,6 +53,7 @@ httpdns.push.oppomobile.com
 httpdns.tantanapp.com
 httpdns.volcengineapi.com
 httpdns.yunxindns.com
+httpdns.zhihu.com
 httpdns.zybang.com
 httpdns1.cc.cdnhwc5.com
 httpsdns.baidu.com
@@ -157454,7 +157455,6 @@ v6-data.video.dns.iqiyi.com
 .db7q4jg5rkhk8.cloudfront.net
 .backend-pixel.zotek.io
 .rudr-events.joybird.com
-.dns-clientinfo.vtg.paramount.tech
 .monitor.r53.cbsivideo.com
 .monitor.ns1-s.rspcdn.net
 .monitor.ns1-d.viacomtech.net
