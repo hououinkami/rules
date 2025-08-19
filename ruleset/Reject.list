@@ -15,6 +15,10 @@ DOMAIN-SUFFIX, gepush.com
 DOMAIN-SUFFIX, igexin.com
 DOMAIN-SUFFIX, log.aliyuncs.com
 DOMAIN-SUFFIX, zlsdk.1rtb.net
+DOMAIN-SUFFIX, ott.cibntv.net
+DOMAIN-SUFFIX, cdntips.net
+DOMAIN-SUFFIX, tfogc.com
+DOMAIN-SUFFIX, file.myqcloud.com
 # > 收集用户隐私联盟，若有问题自行设置白名单
 DOMAIN-KEYWORD, volc
 DOMAIN-KEYWORD, umeng
@@ -842,6 +846,8 @@ DOMAIN-SUFFIX,brand.sogou.com
 DOMAIN-SUFFIX,bsiet.husky.sogou.com
 DOMAIN-SUFFIX,jdqd.jd.com
 DOMAIN-SUFFIX,shouji.sougou.com
+# > 搜狗输入法
+DOMAIN-SUFFIX, push-service-ios.sginput.qq.com, reject
 # > 深圳通微信小程序
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 # > 收钱吧 买单小程序去广告
@@ -914,10 +920,7 @@ DOMAIN-SUFFIX,click.tz.simba.taobao.com
 DOMAIN-SUFFIX,stat.simba.taobao.com
 DOMAIN-SUFFIX,m-adash.m.taobao.com
 DOMAIN-SUFFIX,adashbc.m.taobao.com
-# > 腾讯视频
 # >  腾讯
-DOMAIN-SUFFIX,news.ssp.qq.com
-DOMAIN-SUFFIX,news.l.qq.com
 DOMAIN-SUFFIX,activeqq.3g.qq.com
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,adping.qq.com
@@ -941,78 +944,6 @@ DOMAIN-SUFFIX,adver.qq.com
 DOMAIN-SUFFIX,aeventlog.beacon.qq.com
 DOMAIN-SUFFIX,analy.qq.com
 DOMAIN-SUFFIX,astrategy.beacon.qq.com
-DOMAIN-SUFFIX,c.gdt.qq.com
-DOMAIN-SUFFIX,c.gj.qq.com
-DOMAIN-SUFFIX,canvas.gdt.qq.com
-DOMAIN-SUFFIX,d.gdt.qq.com
-DOMAIN-SUFFIX,d3g.qq.com
-DOMAIN-SUFFIX,download.sj.qq.com
-DOMAIN-SUFFIX,dp3.qq.com
-DOMAIN-SUFFIX,eventlog.beacon.qq.com
-DOMAIN-SUFFIX,game.html5.qq.com
-DOMAIN-SUFFIX,ggmmqq.com
-DOMAIN-SUFFIX,j.wit.qq.com
-DOMAIN-SUFFIX,jqmt.qq.com
-DOMAIN-SUFFIX,jrlt.beacon.qq.com
-DOMAIN-SUFFIX,jsqmt.qq.com
-DOMAIN-SUFFIX,lives.l.qq.com
-DOMAIN-SUFFIX,livep.l.qq.com
-DOMAIN-SUFFIX,mi.gdt.qq.com
-DOMAIN-SUFFIX,livep.l.ott.video.qq.com
-DOMAIN-SUFFIX,lives.l.ott.video.qq.com
-DOMAIN-SUFFIX,masdk.3g.qq.com
-DOMAIN-SUFFIX,mfm.video.qq.com
-DOMAIN-SUFFIX,mini2015.qq.com
-DOMAIN-SUFFIX,monitor.uu.qq.com
-DOMAIN-SUFFIX,mqqad.cs0309.html5.qq.com
-DOMAIN-SUFFIX,mqqad.html5.qq.com
-DOMAIN-SUFFIX,mqqadr.reader.qq.com
-DOMAIN-SUFFIX,nc.gdt.qq.com
-DOMAIN-SUFFIX,news.mpush.qq.com
-DOMAIN-SUFFIX,news-l.play.ott.video.qq.com
-DOMAIN-SUFFIX,novelsns.html5.qq.com
-DOMAIN-SUFFIX,oth.update.mdt.qq.com
-DOMAIN-SUFFIX,pcbrowser.dd.qq.com
-DOMAIN-SUFFIX,pmir.3g.qq.com
-DOMAIN-SUFFIX,pvstat.html5.qq.com
-DOMAIN-SUFFIX,q.i.gdt.qq.com
-DOMAIN-SUFFIX,qqshow2-item.qq.com
-DOMAIN-SUFFIX,rm.gdt.qq.com
-DOMAIN-SUFFIX,scdown.qq.com
-DOMAIN-SUFFIX,setting.snswin.qq.com
-DOMAIN-SUFFIX,sngmta.qq.com
-DOMAIN-SUFFIX,strategy.beacon.qq.com
-DOMAIN-SUFFIX,t.gdt.qq.com
-DOMAIN-SUFFIX,t.sj.qq.com
-DOMAIN-SUFFIX,ta.qq.com
-DOMAIN-SUFFIX,tcss.qq.com
-DOMAIN-SUFFIX,tpush.html5.qq.com
-DOMAIN-SUFFIX,updatecenter.qq.com
-DOMAIN-SUFFIX,video.ureport.push.qq.com
-DOMAIN-SUFFIX,video.wap.mpush.qq.com
-DOMAIN-SUFFIX,vlive.qqvideo.tc.qq.com
-DOMAIN-SUFFIX,wap.mpush.qq.com
-DOMAIN-SUFFIX,win.gdt.qq.com
-DOMAIN-SUFFIX,ws.sj.qq.com
-DOMAIN-SUFFIX,wxsnsdy.tc.qq.com
-DOMAIN-SUFFIX,wxsnsdy.video.qq.com
-DOMAIN-SUFFIX,adsmind.tc.qq.com
-DOMAIN-SUFFIX,pingma.qq.com
-DOMAIN-SUFFIX,pingtcss.qq.com
-DOMAIN-SUFFIX,tajs.qq.com
-DOMAIN-SUFFIX,fusion.qq.com
-DOMAIN-SUFFIX,ios.bugly.qq.com
-DOMAIN, safebrowsing.urlsec.qq.com
-DOMAIN, oth.str.mdt.qq.com
-DOMAIN, adsmind.apdcdn.tc.qq.com
-DOMAIN, adsmind.tc.qq.com
-DOMAIN, livep.l.t002.ottcn.com
-DOMAIN, pgdt.ugdtimg.com
-DOMAIN, splashqqlive.gtimg.com
-DOMAIN, vv.video.qq.com
-DOMAIN, wa.gtimg.com
-DOMAIN, wxsnsdy.wxs.qq.com
-DOMAIN, wxsmsdy.video.qq.com
 # > 同花顺
 DOMAIN, adm.10jqka.com.cn
 DOMAIN, stat.10jqka.com.cn
@@ -1210,21 +1141,11 @@ DOMAIN-KEYWORD,bj.imp.voiceads.cn
 DOMAIN-KEYWORD,m.panda.voiceads.cn
 DOMAIN-KEYWORD,iflyad.bj.openstorage.cn
 # > 喜马拉雅
+DOMAIN, adse.ximalaya.com
+DOMAIN, adsehera.ximalaya.com
+DOMAIN, adse.wsa.ximalaya.com
 DOMAIN, adbehavior.ximalaya.com
-DOMAIN, adwbs.ximalaya.com
-DOMAIN-SUFFIX,ad.test.ximalaya.com
-DOMAIN-SUFFIX,adse.test.ximalaya.com
-DOMAIN-SUFFIX,adweb.test.ximalaya.com
-DOMAIN-SUFFIX,adweb.ximalaya.com
-DOMAIN-SUFFIX,linkeye.ximalaya.com
-DOMAIN-SUFFIX,location.ximalaya.com
-DOMAIN-SUFFIX,xdcs-collector.ximalaya.com
-DOMAIN-SUFFIX,ad.ximalaya.com
-DOMAIN-SUFFIX,adse.ximalaya.com
-DOMAIN-SUFFIX,adse.wsa.ximalaya.com
-DOMAIN-SUFFIX,adbehavior.wsa.ximalaya.com
-DOMAIN-SUFFIX,adsebs.ximalaya.com
-DOMAIN-SUFFIX,adbs.ximalaya.com
+DOMAIN, adbehavior.wsa.ximalaya.com
 # > 小红书
 DOMAIN, ads-img-qc.xhscdn.com
 DOMAIN, ads-video-al.xhscdn.com
@@ -1244,6 +1165,14 @@ DOMAIN-SUFFIX, api-htp.beizi.biz
 DOMAIN-SUFFIX, yfanads.com
 DOMAIN-SUFFIX, 1rtb.net
 DOMAIN-SUFFIX, adwangmai.com
+DOMAIN-SUFFIX, yunxinfw.com
+DOMAIN-SUFFIX, bridgeoos.com
+DOMAIN-SUFFIX, cloooud.com
+DOMAIN-SUFFIX, baihemob.com
+DOMAIN-SUFFIX, ad.bwton.com
+DOMAIN-SUFFIX, api.wxcjgg.cn
+DOMAIN-SUFFIX, shunchangzhixing.com
+IP-CIDR, 114.132.165.205/32,no-resolve
 # > 新浪
 DOMAIN-SUFFIX,beacon.sina.com.cn
 DOMAIN, u1.img.mobile.sina.cn
@@ -9408,7 +9337,6 @@ DOMAIN-SUFFIX, sape.ru
 DOMAIN-SUFFIX, tns-counter.ru
 DOMAIN-SUFFIX, winlinebet.ru
 DOMAIN-SUFFIX, yadro.ru
-DOMAIN-SUFFIX, yandex.ru
 DOMAIN-SUFFIX, ad.3dnews.ru
 DOMAIN-SUFFIX, rtb.com.ru
 DOMAIN-SUFFIX, dmg.digitaltarget.ru
@@ -9430,9 +9358,6 @@ DOMAIN-SUFFIX, pixel.vihub.ru
 DOMAIN-SUFFIX, ad.xmovies8.ru
 DOMAIN-SUFFIX, counter.yadro.ru
 DOMAIN-SUFFIX, mg.yadro.ru
-DOMAIN-SUFFIX, an.yandex.ru
-DOMAIN-SUFFIX, mc.yandex.ru
-DOMAIN-SUFFIX, mc.yandex.ru
 DOMAIN-SUFFIX, spb.bid.run
 DOMAIN-SUFFIX, adrotator.se
 DOMAIN-SUFFIX, ingest.sentry
@@ -9588,6 +9513,15 @@ DOMAIN-SUFFIX, yumcs.xiaohuau.xyz
 DOMAIN-SUFFIX, banner.itweb.co.za
 DOMAIN-SUFFIX, banners.itweb.co.za
 DOMAIN-SUFFIX, xn--3bs795g.zone
+DOMAIN-SUFFIX, ppezijkacga.com
+DOMAIN-SUFFIX, kreopbkabsit.com
+DOMAIN-SUFFIX, admiitad.com
+DOMAIN-SUFFIX, thelifeandmore.com
+DOMAIN-SUFFIX, fractionfridgejudiciary.com
+DOMAIN-SUFFIX, ocponcphaafb.com
+DOMAIN-SUFFIX, tapwhigwy.com
+DOMAIN-SUFFIX, ahqovxli.com
+DOMAIN-SUFFIX, fipabtomqok.com
 IP-CIDR, 117.177.248.17/32, no-resolve
 IP-CIDR, 117.177.248.41/32, no-resolve
 IP-CIDR, 223.87.176.139/32, no-resolve
