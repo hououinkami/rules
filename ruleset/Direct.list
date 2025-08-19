@@ -8961,11 +8961,3 @@ IP-CIDR6,2409:8C54:5100::/56,no-resolve
 IP-CIDR6,2409:8C54:810:208:2D::/112,no-resolve
 IP-CIDR6,2409:8C54:871::/60,no-resolve
 IP-CIDR6,2409:8C5C:110:63::/72,no-resolve
-# Sukka's Ruleset
-<html>
-<head><title>302 Found</title></head>
-<body>
-<center><h1>302 Found</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
