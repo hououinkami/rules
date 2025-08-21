@@ -23,8 +23,7 @@ declare -A ruleset=(
     [AI]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/AI%20Suite.list"
     [Telegram]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Telegram.list"
     [Reject]="https://raw.githubusercontent.com/fmz200/wool_scripts/refs/heads/main/Loon/rule/rejectAd.list"
-    [Direct]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Domestic%20IPs.list
-        https://ruleset.skk.moe/List/ip/china_ip_ipv6.conf"
+    [Direct]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Domestic%20IPs.list"
 )
 
 # 创建目录（如果不存在）
