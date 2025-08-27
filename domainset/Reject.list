@@ -87285,6 +87285,8 @@ v6-data.video.dns.iqiyi.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.monitor-api.blackcrow.ai
+.sdk.optimove.net
 .assets.publicgood.com
 .tagm.uneedcomms.com
 .openstats.co
@@ -155365,6 +155367,13 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.data.client.openweb.bid
+.launch-analytics-plugin.launchpotato.com
+.d2zd0wa1vpt7j9.cloudfront.net
+.wan.kbdmp.com
+.wlg.shinhancard.com
+.wcl.shinhancard.com
+.wrc.shinhancard.com
 .h5collector.miyoushe.com
 .public-data-api.miyoushe.com
 .h5log-api-dualstack.miyoushe.com
@@ -158266,7 +158275,6 @@ v6-data.video.dns.iqiyi.com
 .essential-apps-analytics.herokuapp.com
 .d10vy5gom1ed53.cloudfront.net
 .um-public-panel-prod.s3.amazonaws.com
-.global.telemetry.insights.video.a2z.com
 .web-perf.booking.com
 .biv.gazeta.pl
 .dygassets.dygdigital.com
