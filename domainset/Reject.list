@@ -67,9 +67,9 @@ resolver.msg.xiaomi.net
 static.dns.qiyipic.iqiyi.com
 v6-data.video.dns.iqiyi.com
 #TITLE=anti-AD
-#VER=20250830233324
+#VER=20250831134530
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=93190
+#TOTAL_LINES=93195
 #DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 .000dn.com
 .0013.cc
@@ -1407,7 +1407,6 @@ v6-data.video.dns.iqiyi.com
 .s.so.360.cn
 .s.union.360.cn
 .se.360.cn
-.tf.360.cn
 .act.commercial.shouji.360.cn
 .ad.dev.360.cn
 .gamebox.360.cn
@@ -1422,13 +1421,17 @@ v6-data.video.dns.iqiyi.com
 .cpull.360.cn
 .wan.360.cn
 .down.360.cn
+.e.tf.360.cn
 .sdk.look.360.cn
+.guess.tf.360.cn
 .huid.ad.360.cn
 .huodong.mobilem.360.cn
 .iad.e.360.cn
 .leak.360.cn
 .msg.shouji.360.cn
 .qstore.inner.api.sj.360.cn
+.sdk.tf.360.cn
+.sdkrec.tf.360.cn
 .service.jiagu.360.cn
 .shake.360.cn
 .shake.f.360.cn
@@ -1436,8 +1439,12 @@ v6-data.video.dns.iqiyi.com
 .soft.data.weather.360.cn
 .softdl4.360.cn
 .stat.m.360.cn
+.stat.tf.360.cn
+.stats.guess.tf.360.cn
 .tr.p.360.cn
+.tracking.v.tf.360.cn
 .u.api.look.360.cn
+.v.tf.360.cn
 .mclean.f.360.cn
 .vconf.f.360.cn
 .3600.com
@@ -11845,7 +11852,6 @@ v6-data.video.dns.iqiyi.com
 .trck.bdi-services.de
 .m.bdiae.com
 .bdidqntuyyuav.online
-.ecma.bdimg.com
 .ecmb.bdimg.com
 .pups.bdimg.com
 .ecmc.bdimg.com
@@ -42804,7 +42810,6 @@ v6-data.video.dns.iqiyi.com
 .sdk-analytics-web.cloud.itau.com.br
 .itblisseyer.com
 .ct.itbusinessedge.com
-.a1.itc.cn
 .stats.itc.ua
 .itcameruptr.com
 .itchesfrosted.com
@@ -72710,7 +72715,6 @@ v6-data.video.dns.iqiyi.com
 .stats.simzdarma.cz
 .adblock.sina.cn
 .cre-dp.sina.cn
-.gk.sina.cn
 .log.sina.cn
 .log2.sina.cn
 .mixer.sina.cn
@@ -72753,7 +72757,7 @@ v6-data.video.dns.iqiyi.com
 .log.mix.sina.com.cn
 .matwbp.iask.sina.com.cn
 .pfp.sina.com.cn
-.sax.sina.com.cn
+.r.sax.sina.com.cn
 .sbeacon.sina.com.cn
 .ad.sina.com.cn
 .ad2.sina.com.cn
@@ -74046,7 +74050,6 @@ v6-data.video.dns.iqiyi.com
 .ads.sohu.com
 .aty.sohu.com
 .assp.sohu.com
-.changyan.sohu.com
 .cis.sohu.com
 .click2.hd.sohu.com
 .count.vrs.sohu.com
@@ -75393,7 +75396,10 @@ v6-data.video.dns.iqiyi.com
 .stat24.com
 .stat24.ru
 .statcamp.net
-.statcounter.com
+.c.statcounter.com
+.c1.statcounter.com
+.c2.statcounter.com
+.secure.statcounter.com
 .statcounterfree.com
 .statdynamic.com
 .marketing.stateandfed.com
@@ -90955,7 +90961,6 @@ v6-data.video.dns.iqiyi.com
 .analytics.yicai.com
 .yicha.cn
 .applog.yiche.com
-.adx.yiche.com
 .log.ycapp.yiche.com
 .yichunrz.com
 .xyzhs.yicixingjinkou.com
@@ -93267,6 +93272,7 @@ v6-data.video.dns.iqiyi.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.track.fusionmedia.io
 .sync.clearnview.com
 .ck-ie.com
 .rtb.voltaxam.com
