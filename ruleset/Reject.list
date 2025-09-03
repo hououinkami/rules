@@ -341,7 +341,6 @@ IP-CIDR, 211.161.101.110/32, no-resolve
 # > 叮嗒出行
 DOMAIN-KEYWORD,image.bianxianmao.com
 # > 滴滴青桔
-;DOMAIN-KEYWORD, pt-starimg.didistatic.com
 IP-CIDR, 203.107.1.1/24, no-resolve
 # > 懂车帝
 DOMAIN-KEYWORD,p3-pack.byteimg.com
@@ -680,7 +679,7 @@ DOMAIN, ggx03.miguvideo.com
 DOMAIN, ggic03.miguvideo.com
 DOMAIN, ggmk.miguvideo.com
 DOMAIN, ggadoffline.miguvideo.com
-# > 小米米家
+# > 米家
 DOMAIN, sdkconfig.ad.xiaomi.com
 # > 芒果TV
 DOMAIN, dflow.bz.mgtv.com
@@ -807,7 +806,7 @@ DOMAIN, adm2.autoimg.cn
 DOMAIN, adm3.autoimg.cn
 # >>>>>>>>>>>>>>> ✅ R ✅ <<<<<<<<<<<<<<
 # >>>>>>>>>>>>>>> ✅ S ✅ <<<<<<<<<<<<<<
-# > soul
+# > Soul
 DOMAIN, soul-ad.soulapp.cn
 DOMAIN, ad-r.soulapp.cn
 DOMAIN, ad-reward.soulapp.cn
