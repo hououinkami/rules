@@ -93836,6 +93836,8 @@ v6-data.video.dns.iqiyi.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.highway.cablecar.sph.com.sg
+.i.posthog.com
 .app.optibase.io
 .abtshield.com
 .track.fusionmedia.io
@@ -93878,7 +93880,6 @@ v6-data.video.dns.iqiyi.com
 .rtg.rubiconredirect.com
 .beacon.gtv-pub.com
 .analytics-api.gemcommerce.com
-.slgnt.eu
 .slgnt.us
 .consolidata.ai
 .analytics.google.com
@@ -158885,6 +158886,9 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.site-see.slgnt.eu
+.site-azp.slgnt.eu
+.mobile.slgnt.eu
 .cvt1.sibnet.ru
 .analytics.egdata.app
 .analytics.shutterstock.com

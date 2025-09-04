@@ -21,8 +21,6 @@ DOMAIN-SUFFIX, tfogc.com
 DOMAIN-SUFFIX, file.myqcloud.com
 DOMAIN-KEYWORD, volc
 DOMAIN-KEYWORD, umeng
-# > 其他
-DOMAIN, api.liquidlink.cn
 # >>>>>>>>>>>>>>> ✅ 0 ✅ <<<<<<<<<<<<<<
 # >>>>>>>>>>>>>>> ✅ 1 ✅ <<<<<<<<<<<<<<
 # > 12123
@@ -33,7 +31,6 @@ DOMAIN-SUFFIX, alexametrics.com
 DOMAIN-KEYWORD, in-page-push
 # >>>>>>>>>>>>>>> ✅ 2 ✅ <<<<<<<<<<<<<<
 # >>>>>>>>>>>>>>> ✅ 3 ✅ <<<<<<<<<<<<<<
-DOMAIN, ad.mcloud.139.com
 # >>>>>>>>>>>>>>> ✅ 4 ✅ <<<<<<<<<<<<<<
 # >>>>>>>>>>>>>>> ✅ 5 ✅ <<<<<<<<<<<<<<
 # > 51wnl
@@ -1307,6 +1304,8 @@ DOMAIN, apppv.zol.com.cn
 DOMAIN, pvnapp.zol.com.cn
 # > 中国移动
 IP-CIDR, 120.240.95.37/32, no-resolve
+# > 中国移动云盘
+DOMAIN, ad.mcloud.139.com
 # > 中国联通
 DOMAIN-SUFFIX,m1.ad.10010.com
 # > 中国电信
