@@ -522,7 +522,7 @@ IP-CIDR6,2402:db40:5100:1011::5/128, no-resolve
 # > 建行生活
 DOMAIN, o2o-ad-log-gateway.alibaba.com
 # >>>>>>>>>>>>>>> ✅ K ✅ <<<<<<<<<<<<<<
-# > keep
+# > Keep
 DOMAIN, apm.gotokeep.com
 DOMAIN, kad.gotokeep.com
 # > 快乐广播
@@ -1330,7 +1330,7 @@ DOMAIN, ad.zijieapi.com
 DOMAIN, applog.zijieapi.com
 DOMAIN-SUFFIX,-normal-lq.zijieapi.com
 # > 招钱进宝
-# >>>>>>>>>>>>>>> ✅ 其他广告 ✅ <<<<<<<<<<<<<<
+# >>>>>>>>>>>>>>> ✅ 其他 ✅ <<<<<<<<<<<<<<
 DOMAIN-KEYWORD, 112wan
 DOMAIN-KEYWORD, 789htbet
 DOMAIN-KEYWORD, XiaoQiang
