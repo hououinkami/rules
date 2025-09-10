@@ -94425,6 +94425,8 @@ v6-data.video.dns.iqiyi.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.cdn.debugbear.com
+.featuregates.org
 .fptls.com
 .fptls3.com
 .mc.yango.com
@@ -161450,6 +161452,7 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.leo.hepsiburada.com
 .usage.trackjs.com
 .dlt-beacon.dynatrace-managed.com
 .rainbow-prod-jdlog.ldoverseas.com
@@ -166196,6 +166199,7 @@ v6-data.video.dns.iqiyi.com
 .llamavoice.com
 .loadedhearts.com
 .loadsurprise.com
+.locateskill.com
 .lockuplookup.com
 .logoshutter.com
 .lonelyflavor.com
