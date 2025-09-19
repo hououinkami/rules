@@ -2141,6 +2141,8 @@ DOMAIN-KEYWORD,mpos-pic.helipay.com
 # > 小爱音箱
 DOMAIN, mistat.xiaomi.com
 # > 晓晓优选
+DOMAIN-SUFFIX, fancyapi.com
+DOMAIN-SUFFIX, ad.richmob.cn
 DOMAIN-SUFFIX, api-htp.beizi.biz
 DOMAIN-SUFFIX, yfanads.com
 DOMAIN-SUFFIX, 1rtb.net
@@ -2152,7 +2154,7 @@ DOMAIN-SUFFIX, baihemob.com
 DOMAIN-SUFFIX, ad.bwton.com
 DOMAIN-SUFFIX, api.wxcjgg.cn
 DOMAIN-SUFFIX, shunchangzhixing.com
-IP-CIDR, 114.132.165.205/32,no-resolve
+IP-CIDR, 114.132.165.205/32, no-resolve
 # > 新浪
 DOMAIN-SUFFIX, ad.sina.com.cn
 DOMAIN-SUFFIX, ad4.sina.com.cn
