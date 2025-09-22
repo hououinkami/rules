@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,d4c.nintendo.net
 DOMAIN-SUFFIX,anime.girigirilove.com
 # > 百度网盘Mac
 PROCESS-NAME,BaiduNetdisk_mac
+# > 邮箱IMAP
+DOMAIN-SUFFIX,imap.mail.yahoo.co.jp
 
 [Proxy]
 # > 无忧行拨打电话
