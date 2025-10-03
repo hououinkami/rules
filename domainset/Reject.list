@@ -163541,6 +163541,7 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.log-gateway.zoom.us
 .upsell.alphwidget.com
 .4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com
 .static.alphwidget.com
@@ -163714,7 +163715,6 @@ v6-data.video.dns.iqiyi.com
 .lumberjack-metrics.razorpay.com
 .statistics-collector-api.listglobally.com
 .telegraph.prd.api.bleacherreport.com
-.gmss.use1.prd.api.discomax.com
 .events.shoplift.ai
 .flxr.myplan-c.com
 .seghg.hottopic.com
