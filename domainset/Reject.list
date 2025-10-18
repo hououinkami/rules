@@ -68,9 +68,9 @@ resolver.msg.xiaomi.net
 static.dns.qiyipic.iqiyi.com
 v6-data.video.dns.iqiyi.com
 #TITLE=anti-AD
-#VER=20251017024658
+#VER=20251018202544
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=98022
+#TOTAL_LINES=98020
 #DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 .000dn.com
 .0013.cc
@@ -586,7 +586,6 @@ v6-data.video.dns.iqiyi.com
 .sadbmetrics.15kvalencia.es
 .15tianqi.com
 .16211973.xyz
-.ac.dun.163.com
 .adgeo.163.com
 .adimg.163.com
 .analytics.163.com
@@ -625,7 +624,6 @@ v6-data.video.dns.iqiyi.com
 .16327739.xyz
 .qipt.1632j6.cn
 .163ren.com
-.ac.dun.163yun.com
 .ye.dun.163yun.com
 .165tchuang.com
 .tr.newsletter.1664france.fr
@@ -98100,6 +98098,8 @@ v6-data.video.dns.iqiyi.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.ping.pdst.fm
+.api.sae.systems
 .analytics.metriko.app
 .stats.fluorescent.co
 .wurflcloud.com
@@ -168501,6 +168501,8 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.pixel.dashfi.dev
+.c.quackr.io
 .xstat.gazeta.bo
 .stats.avito.ru
 .nr-beacon.movingimage.com
@@ -173292,6 +173294,7 @@ v6-data.video.dns.iqiyi.com
 .kidpowers.com
 .kindasingle.com
 .kindhush.com
+.kindlereunion.com
 .kitetuning.com
 .kittycatking.com
 .knewpenny.com
