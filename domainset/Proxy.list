@@ -90,7 +90,7 @@ client-teamviewer-com.trafficmanager.net
 clients1.google.com
 cloudsync-prod.s3.amazonaws.com
 community.oneplus.com
-courier-push-apple.com.akadns.net
+configuration-lb.ls-apple.com.akadns.net
 crl.microsoft.com
 crl.versign.net
 csis-prod.s3.amazonaws.com
@@ -5341,6 +5341,7 @@ ztedevices.com
 .boombeach.com
 .boomerang.com
 .booru.org
+.boosty.to
 .booth.pm
 .bootstrapcdn.com
 .bootyliciousmag.com
@@ -6386,6 +6387,7 @@ ztedevices.com
 .cdn-images.mailchimp.com
 .cdn-telegram.org
 .cdn-terapeak.com
+.cdn-vk.ru
 .cdn.ac.uk
 .cdn.arstechnica.net
 .cdn.assets.lfpcontent.com
@@ -8411,6 +8413,7 @@ ztedevices.com
 .diabetes-healthnet.ac.uk
 .diablo3.com
 .diabloimmortal.com
+.diabrowser.com
 .dialga.com
 .dialogflow.com
 .diamantewebcam.com
@@ -8819,6 +8822,7 @@ ztedevices.com
 .domywife.com
 .don.ac.uk
 .donatecarsoh.org
+.donationalerts.com
 .doncaster.ac.uk
 .dongtaiwang.com
 .dongtaiwang.net
@@ -12901,6 +12905,7 @@ ztedevices.com
 .guangming.com.my
 .guangming.org
 .guaranitermal.com
+.guardarian.com
 .guardianapis.com
 .guardianapps.co.uk
 .guardianproject.info
@@ -18100,6 +18105,7 @@ ztedevices.com
 .melonstube.com
 .meltoday.com
 .meme111.com
+.memealerts.com
 .memehk.com
 .memes.tw
 .memri.org
@@ -20946,6 +20952,7 @@ ztedevices.com
 .okaapps.com
 .okayfreedom.com
 .okazudouga.tokyo
+.okcdn.ru
 .okex.com
 .okinawabank.co.jp
 .okk.tw
@@ -23959,10 +23966,15 @@ ztedevices.com
 .samsung.com
 .samsungapps.com
 .samsungcloud.com
+.samsungconsent.com
 .samsungdm.com
 .samsunggalaxyfriends.com
+.samsunghealth.com
+.samsungiotcloud.com
 .samsungknox.com
+.samsungosp.com
 .samsungqbe.com
+.samsungrs.com
 .sandisk.ae
 .sandisk.co.jp
 .sandisk.co.kr
@@ -25813,6 +25825,7 @@ ztedevices.com
 .stdavidscollege.ac.uk
 .stdavidsdaygroup.ac.uk
 .stdoms.ac.uk
+.stealthex.io
 .steam-api.com
 .steam-chat.com
 .steam.apac.qtlglb.com
@@ -28443,6 +28456,7 @@ ztedevices.com
 .vercel.app
 .vercel.blog
 .vercel.com
+.vercel.dev
 .vercel.events
 .vercel.live
 .vercel.pub
@@ -28872,6 +28886,7 @@ ztedevices.com
 .vk.ru
 .vk.team
 .vkcache.com
+.vkcloud-static.ru
 .vkgo.app
 .vklive.app
 .vkmessenger.app
