@@ -66,6 +66,8 @@ DOMAIN-SUFFIX,groq.com
 # > Jasper
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
+# > JetBrains
+DOMAIN-SUFFIX,jetbrains.ai
 # > Meta AI
 DOMAIN-SUFFIX,meta.ai
 # > OpenArt
