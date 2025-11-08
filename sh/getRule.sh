@@ -8,6 +8,27 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # 获取仓库根目录（脚本目录的上一级）
 REPO_ROOT="$(dirname "$SCRIPT_DIR")"
 
+# 定义要从 Reject 规则中过滤掉的文本列表
+REJECT_FILTER_LIST=(
+    "dig.lianjia.com"
+    "test.domain"
+    "unwanted-text"
+    # 在这里添加更多要过滤的文本
+)
+
+# 过滤函数：删除包含指定文本的行
+filter_reject_content() {
+    local content="$1"
+    local filtered_content="$content"
+    
+    # 遍历过滤列表，逐个删除包含指定文本的行
+    for filter_text in "${REJECT_FILTER_LIST[@]}"; do
+        filtered_content=$(echo "$filtered_content" | grep -v "$filter_text")
+    done
+    
+    echo "$filtered_content"
+}
+
 # 声明关联数组
 declare -A domainset=(
     [Reject]="https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/discretion/dns.txt
@@ -57,7 +78,13 @@ for key in "${!domainset[@]}"; do
             # 正常获取内容
             content=$(curl -s "$url")
         fi
-
+        
+        # 如果是 Reject 规则，应用过滤
+        if [[ "$key" == "Reject" ]]; then
+            echo "对 Reject 规则应用过滤..."
+            content=$(filter_reject_content "$content")
+        fi
+        
         # 使用curl获取URL内容，清除多余空行，并追加到输出文件
         echo "$content" | grep -v "^[[:space:]]*$" >> "$output_file"
     done
@@ -97,7 +124,13 @@ for key in "${!ruleset[@]}"; do
             # 正常获取内容
             content=$(curl -s "$url")
         fi
-
+        
+        # 如果是 Reject 规则，应用过滤
+        if [[ "$key" == "Reject" ]]; then
+            echo "对 Reject 规则应用过滤..."
+            content=$(filter_reject_content "$content")
+        fi
+        
         # 使用curl获取URL内容，清除多余空行，并追加到输出文件
         echo "$content" | grep -v "^[[:space:]]*$" | awk '{
             if ($0 ~ /^IP-CIDR/ && $0 !~ /no-resolve$/) {
