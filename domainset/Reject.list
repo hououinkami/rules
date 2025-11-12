@@ -68,9 +68,9 @@ resolver.msg.xiaomi.net
 static.dns.qiyipic.iqiyi.com
 v6-data.video.dns.iqiyi.com
 #TITLE=anti-AD
-#VER=20251111024635
+#VER=20251112222043
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=99437
+#TOTAL_LINES=99429
 #DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 .000dn.com
 .0013.cc
@@ -8287,15 +8287,7 @@ v6-data.video.dns.iqiyi.com
 .anysad.pro
 .anysdk.com
 .anysize.pro
-.adx-bj-req.anythinktech.com
-.adx-bj.anythinktech.com
-.adx-cn.anythinktech.com
-.adx-os.anythinktech.com
-.api.anythinktech.com
-.cn-api.anythinktech.com
-.da.anythinktech.com
-.tk.anythinktech.com
-.datk.anythinktech.com
+.anythinktech.com
 .anytimebananarecoil.com
 .anytimespurt.com
 .cc.anytrack.de
@@ -99514,6 +99506,11 @@ v6-data.video.dns.iqiyi.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.logz.io
+.beacon.coofis.com
+.aditude.prebid-server.com
+.cache.prebid-server.com
+.cdnm.techpump.com
 .analytics.bomiv.com
 .track.bomiv.com
 .delog.nestads.com
@@ -174591,6 +174588,7 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.tdum.alibaba.com
 .webpushstat-sgp.engagelab.com
 .analytics.simpler.so
 .bizlog-gateway.myrealtrip.com
@@ -177726,6 +177724,8 @@ v6-data.video.dns.iqiyi.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.tnc16-normal-us-ttp.capcutapi.us
+.mcs16-normal-us-ttp.capcutapi.us
 .appcpi.net
 .event.aimailhome.io
 .mon.capcutapi.us
@@ -178898,6 +178898,7 @@ v6-data.video.dns.iqiyi.com
 .crafthenry.com
 .crashchance.com
 .cratecamera.com
+.createdip.com
 .creatorcherry.com
 .creatorpassenger.com
 .creatorsnote.com
@@ -178963,6 +178964,7 @@ v6-data.video.dns.iqiyi.com
 .deliciousducks.com
 .deltafault.com
 .deluxecrate.com
+.demorewards.com
 .dependenttrip.com
 .deployinput.com
 .desertgates.com
@@ -179169,6 +179171,7 @@ v6-data.video.dns.iqiyi.com
 .freezeassets.com
 .freezingbuilding.com
 .frequentflesh.com
+.freshlyhuman.com
 .friedone.com
 .friendlycrayon.com
 .friendlyfold.com
@@ -179571,6 +179574,7 @@ v6-data.video.dns.iqiyi.com
 .muteknife.com
 .mutemailbox.com
 .mutualhappy.com
+.mysketchpad.com
 .mysticalagoon.com
 .naivestatement.com
 .nappyattack.com
@@ -180177,6 +180181,7 @@ v6-data.video.dns.iqiyi.com
 .stupidscene.com
 .stupidsnake.com
 .sturdysnail.com
+.stylelockers.com
 .stylishbuds.com
 .subjectivepoint.com
 .sublimequartz.com
