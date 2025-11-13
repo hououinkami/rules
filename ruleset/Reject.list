@@ -436,12 +436,8 @@ DOMAIN, afdconf.baidu.com
 DOMAIN, httpdns.baidubce.com
 DOMAIN, lc.map.baidu.com
 # > 百度贴吧
+DOMAIN, 180.76.76.200
 IP-CIDR, 180.76.76.200/32, no-resolve
-DOMAIN-KEYWORD,api.sobot.com
-DOMAIN-SUFFIX,cm.ad.bilibili.com
-DOMAIN-SUFFIX,cm.adcommon.bilibili.com
-DOMAIN-SUFFIX,cm.game.bilibili.com
-DOMAIN-SUFFIX,cm.track.biligame.bilibili.com
 # > 百词斩
 DOMAIN, advertise.baicizhan.com
 DOMAIN, advertise.baicizhan.org
