@@ -14,6 +14,8 @@ DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN,o33249.ingest.sentry.io
+# > Cerebras
+DOMAIN-SUFFIX,cerebras.ai
 # > Chorus
 DOMAIN-SUFFIX,chorus.sh
 # > Claude
