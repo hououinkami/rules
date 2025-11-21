@@ -68,9 +68,9 @@ resolver.msg.xiaomi.net
 static.dns.qiyipic.iqiyi.com
 v6-data.video.dns.iqiyi.com
 #TITLE=anti-AD
-#VER=20251120024700
+#VER=20251121212020
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=95768
+#TOTAL_LINES=95772
 #DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 .000dn.com
 .0013.cc
@@ -4609,6 +4609,7 @@ v6-data.video.dns.iqiyi.com
 .adfrontiers.com
 .adfsda005.xyz
 .adfunds.org
+.adfunlink.com
 .adfurikun.jp
 .adfusion.com
 .adfuture.cn
@@ -12691,7 +12692,7 @@ v6-data.video.dns.iqiyi.com
 .bidsxchange.com
 .bidtheatre.com
 .bidtimize.com
-.c.bidtoolads.com
+.bidtoolads.com
 .m.biduo.cc
 .cn.bidushe.com
 .bidvance.com
@@ -79457,6 +79458,7 @@ v6-data.video.dns.iqiyi.com
 .yddtah.takingshape.com
 .a8clk.takken-job.com
 .traffic.taktikal.is
+.takuad.com
 .swwcyk.takvim.com.tr
 .talaropa.com
 .marketing.talbot-promo.com
@@ -82016,6 +82018,7 @@ v6-data.video.dns.iqiyi.com
 .toazdkl.top
 .tobaccosturgeon.com
 .tobaltoyon.com
+.tobidad.com
 .tobipovsem.com
 .toboads.com
 .toc.io
@@ -82252,6 +82255,7 @@ v6-data.video.dns.iqiyi.com
 .topnewsgo.com
 .topodat.info
 .topofblogs.com
+.toponad.com
 .topperformance.xyz
 .otx23nu6rzon.prep.toppers.com
 .toppleunit.com
@@ -95845,6 +95849,9 @@ v6-data.video.dns.iqiyi.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.data.thoughtmetric.io
+.assets.9gtb.com
+.cdn.logbase.io
 .lc.recopick.com
 .cv.aedi.ai
 .toup.net
@@ -145178,6 +145185,7 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.conversionsapigateway.com
 .ebm.lfmall.co.kr
 .analytics.adjust.io
 .jitsu.ixbt.site
@@ -148325,6 +148333,10 @@ v6-data.video.dns.iqiyi.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.datarangers-event.myrightone.com
+.stats.rong-edge.com
+.config.toto.zipoapps.com
+.tracking.ksztone.com
 .log.stickflow.xyz
 .stats.us-light-edge.com
 .log2.ihubgo.info
@@ -149166,6 +149178,7 @@ v6-data.video.dns.iqiyi.com
 .4jnzhl0d0.com
 .82o9v830.com
 .abilityscale.com
+.abilitytoucan.com
 .abjectattempt.com
 .aboardamusement.com
 .aboardlevel.com
@@ -150272,6 +150285,7 @@ v6-data.video.dns.iqiyi.com
 .oafishobservation.com
 .objecthero.com
 .objectsnetwork.com
+.oblivionfleet.com
 .obscenesidewalk.com
 .octaneblood.com
 .offerniche.com
