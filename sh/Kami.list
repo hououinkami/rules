@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,ls.apple.com.akadns.net
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
 [DirectFix]
 # > DDNS
+DOMAIN,kami.top
 DOMAIN,home.hououinkami.top
 DOMAIN,home6.hououinkami.top
 # > PlayStation游戏下载
