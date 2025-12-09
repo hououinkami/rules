@@ -2197,6 +2197,8 @@ DOMAIN-KEYWORD,mpos-pic.helipay.com
 # > 小爱音箱
 DOMAIN, mistat.xiaomi.com
 # > 晓晓优选
+DOMAIN-SUFFIX, adintl.cn
+DOMAIN-SUFFIX, zhangyuyidong.cn
 DOMAIN-SUFFIX, 1sapp.com
 DOMAIN-SUFFIX, aiclk.com
 DOMAIN-SUFFIX, adbiding.com
