@@ -74,9 +74,9 @@ static.dns.qiyipic.iqiyi.com
 v6-data.video.dns.iqiyi.com
 union-httpdns.gslb.yy.com
 #TITLE=anti-AD
-#VER=20251211025052
+#VER=20251212151758
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=97555
+#TOTAL_LINES=97554
 #DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 .000dn.com
 .0013.cc
@@ -147083,6 +147083,7 @@ union-httpdns.gslb.yy.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.metis.truecaller.com
 .fls-na.amazon.com
 .tag.poomang.com
 .counter.tldw.me
@@ -150258,6 +150259,9 @@ union-httpdns.gslb.yy.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.events-api.lyrebirdstudio.net
+.log.pdfbookeditor.live
+.mob2.cactus-bp.com
 .log.cleansweepplu.com
 .tc.vbnmhjlp.com
 .logrcv.adseyeservice.com
@@ -151252,6 +151256,7 @@ union-httpdns.gslb.yy.com
 .bewilderedblade.com
 .bhcumsc.com
 .bidpapers.com
+.bigfishapparel.com
 .bigworldfashion.com
 .bikepaws.com
 .bikesboard.com
@@ -151275,6 +151280,7 @@ union-httpdns.gslb.yy.com
 .blitzcampaigns.com
 .blockdial.com
 .blueeyedblow.com
+.bluenest.net
 .bluevinebooks.com
 .blushingbeast.com
 .blushingbread.com
