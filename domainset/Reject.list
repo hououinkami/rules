@@ -74,9 +74,9 @@ static.dns.qiyipic.iqiyi.com
 v6-data.video.dns.iqiyi.com
 union-httpdns.gslb.yy.com
 #TITLE=anti-AD
-#VER=20260105024838
+#VER=20260107220816
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=98910
+#TOTAL_LINES=98912
 #DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 .000dn.com
 .0013.cc
@@ -7119,7 +7119,8 @@ union-httpdns.gslb.yy.com
 .web.ali213.net
 .alia-iso.com
 .tr.info.aliae.com
-.aliapp.org
+.cdn.ynuf.aliapp.org
+.umdc.aliapp.org
 .aliasanvil.com
 .aliasfoot.com
 .crm-eve.b2b.alibaba-inc.com
@@ -94807,6 +94808,7 @@ union-httpdns.gslb.yy.com
 .shenghuo.xiaomi.com
 .stat.pandora.xiaomi.com
 .sentry.d.xiaomi.net
+.tracker.xiaomixiaoai.com
 .ww.xiaopiaoyou.com
 .xiaopinwo.com
 .cat.xiaoshabi.nl
@@ -98994,6 +98996,9 @@ union-httpdns.gslb.yy.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.gm.mmstat.com
+.yazio-analytics.com
+.hightouch-events.com
 .rtbuniverse.com
 .gw-usa-tracker.zmaticoo.com
 .data.deep-content.io
@@ -146281,6 +146286,11 @@ union-httpdns.gslb.yy.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.eventcom.api.np.km.playstation.net
+.pulsar.ebay.com
+.pixel-conversion.apps.seabroadnet.com
+.analytics.apps.seabroadnet.com
+.etx.indiatimes.com
 .tracing.yelp.com
 .conversions-config.reddit.com
 .dns-clientinfo.vtg.paramount.tech
@@ -149504,6 +149514,8 @@ union-httpdns.gslb.yy.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.bstream.kzhi.tech
+.lklfwu-inapps.appsflyersdk.com
 .mob2.welltastic-app.com
 .amplitude.thepure.app
 .amplilab.thepure.app
@@ -151590,6 +151602,7 @@ union-httpdns.gslb.yy.com
 .oldfashionedoffer.com
 .oldportcoffee.com
 .omgthink.com
+.onecrow.net
 .onedropocean.com
 .onlinestarten.net
 .onlywoofs.com
@@ -151614,6 +151627,7 @@ union-httpdns.gslb.yy.com
 .owlreporter.com
 .owlsr.us
 .owlstwo.com
+.owltin.com
 .oxygenfuse.com
 .pailcrime.com
 .pailpatch.com
