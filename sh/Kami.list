@@ -8,10 +8,8 @@ DOMAIN-SUFFIX,ls.apple.com.akadns.net
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
 [DirectFix]
 # > DDNS
-DOMAIN,kami.top
+DOMAIN-SUFFIX,kami.top
 DOMAIN-SUFFIX,hououinkami.top
-DOMAIN,home.hououinkami.top
-DOMAIN,home6.hououinkami.top
 # > PlayStation游戏下载
 DOMAIN-SUFFIX,dl.playstation.net
 # > PlayStation系统更新
@@ -19,7 +17,7 @@ DOMAIN-SUFFIX,update.playstation.net
 # > Nintendo下载
 DOMAIN-SUFFIX,d4c.nintendo.net
 # > 视频网站
-DOMAIN-SUFFIX,girigirilove.com
+# DOMAIN-SUFFIX,girigirilove.com
 # > 百度网盘Mac
 PROCESS-NAME,BaiduNetdisk_mac
 
