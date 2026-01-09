@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,update.playstation.net
 # > Nintendo下载
 DOMAIN-SUFFIX,d4c.nintendo.net
 # > 视频网站
-# DOMAIN-SUFFIX,girigirilove.com
+DOMAIN-SUFFIX,girigirilove.com
 # > 百度网盘Mac
 PROCESS-NAME,BaiduNetdisk_mac
 
