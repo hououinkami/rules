@@ -99520,6 +99520,10 @@ union-httpdns.gslb.yy.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.cse.rakanto.com
+.repo.rakanto.com
+.aim-tag.hcn.health
+.wstats.ageverif.com
 .api.eventbus.me
 .rumt-sg.com
 .gm.mmstat.com
@@ -146812,6 +146816,7 @@ union-httpdns.gslb.yy.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.hw-t.hypers.com.cn
 .prd-collect-llm.xverse.cn
 .securemetrics.apple.com
 .graffiti-tags.apple.com
