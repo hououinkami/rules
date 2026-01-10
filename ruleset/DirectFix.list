@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,update.playstation.net
 DOMAIN-SUFFIX,d4c.nintendo.net
 DOMAIN-SUFFIX,girigirilove.com
 PROCESS-NAME,BaiduNetdisk_mac
+IP-CIDR,43.153.191.0/22,no-resolve
