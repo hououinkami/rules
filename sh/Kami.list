@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,girigirilove.com
 PROCESS-NAME,BaiduNetdisk_mac
 # > 微信
 IP-CIDR,43.153.191.0/22,no-resolve
+# > Nexitally
+DOMAIN,cdn.kineticbloom.org
 
 [Proxy]
 # > 无忧行拨打电话
