@@ -34,18 +34,20 @@ declare -A domainset=(
     [Reject]="https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/discretion/dns.txt
         https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt
         https://raw.githubusercontent.com/geekdada/surge-list/refs/heads/master/domain-set/tracking-protection-filter.txt"
+    [Apple]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/apple.txt
+        https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/icloud.txt"
     [Proxy]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt"
     [Direct]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt"
 )
 declare -A ruleset=(
-    [Apple]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Apple.list"
+    [Apple]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt
+        https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt"
     [Japan]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Media/Spotify.list
         https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/PayPal.list"
-    [AI]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/AI%20Suite.list"
-    [Telegram]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Telegram.list"
+    [AI]="https://raw.githubusercontent.com/fmz200/wool_scripts/refs/heads/main/Loon/rule/AI.list"
+    [Telegram]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/telegramcidr.txt"
     [Reject]="https://raw.githubusercontent.com/fmz200/wool_scripts/refs/heads/main/Loon/rule/rejectAd.list"
-    [Direct]="https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/Domestic%20IPs.list
-        https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt"
+    [Direct]="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt"
 )
 
 # 创建目录（如果不存在）
