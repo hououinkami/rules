@@ -9,3 +9,4 @@ PROCESS-NAME,BaiduNetdisk_mac
 IP-CIDR,43.153.191.0/22,no-resolve
 DOMAIN,cdn.kineticbloom.org
 DOMAIN,nxonearth.com
+DOMAIN-KEYWORD,smtp
