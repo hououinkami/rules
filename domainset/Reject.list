@@ -181951,6 +181951,9 @@ union-httpdns.gslb.yy.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.spm.gmarket.co.kr
+.atsssl.gmarket.co.kr
+.utsssl.gmarket.co.kr
 .weblog.eseoul.go.kr
 .qa-track.ssg.com
 .ssgmanual.snov.io
@@ -182232,7 +182235,6 @@ union-httpdns.gslb.yy.com
 .usage.trackjs.com
 .rainbow-prod-jdlog.ldoverseas.com
 .posthog.lingvanex.com
-.analytics.vgtimes.com
 .bee.tc.easebar.com
 .site-see.slgnt.eu
 .site-azp.slgnt.eu
@@ -188314,6 +188316,7 @@ union-httpdns.gslb.yy.com
 .verdantsculpture.com
 .verifiedarts.com
 .verseballs.com
+.versuswall.com
 .vibrantcelebration.com
 .vibrantgale.com
 .vibranthaven.com
@@ -188351,6 +188354,7 @@ union-httpdns.gslb.yy.com
 .waxsirens.com
 .wayjoyfarm.com
 .weatherbytes.net
+.weatherpush.net
 .websitesdude.com
 .weeklybanner.com
 .wellgroomedapparel.com
