@@ -107912,6 +107912,8 @@ v6-data.video.dns.iqiyi.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.clik.by
+.metrix.luxnet.io
 .justtrack.io
 .analytics.authoritymedia.com
 .curalate.com
@@ -186060,6 +186062,7 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.nid.the-sun.com
 .okr.sbdv.ru
 .api.eye.sbdv.ru
 .clickbeat.sberdevices.ru
@@ -189419,6 +189422,11 @@ v6-data.video.dns.iqiyi.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.report-edge.rtesvc.com
+.rakam-api.aptoide.com
+.diagnostics.rakam.io
+.tracker.a11.vega.aurion11.io
+.aptoide-rtb.aptoide.com
 .qbk1.com
 .collector.gamechanger.io
 .log.documentreaderapp.com
@@ -191350,7 +191358,6 @@ v6-data.video.dns.iqiyi.com
 .internalcondition.com
 .internalsink.com
 .intricateberry.com
-.inventorycache.com
 .inventtango.com
 .invoicetick.com
 .iotapool.com
