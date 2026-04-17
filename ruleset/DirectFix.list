@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,home.hououinkami.top
 DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN-SUFFIX,update.playstation.net
 DOMAIN-SUFFIX,d4c.nintendo.net
-DOMAIN-SUFFIX,girigirilove.com
+DOMAIN-SUFFIX,anime.girigirilove.com
 PROCESS-NAME,BaiduNetdisk_mac
 IP-CIDR,43.153.191.0/22,no-resolve
 DOMAIN,cdn.kineticbloom.org
