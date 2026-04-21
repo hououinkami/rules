@@ -2668,6 +2668,8 @@ DOMAIN-SUFFIX, cdntips.net
 DOMAIN-SUFFIX, tfogc.com
 AND,((NOT,((DOMAIN,volcengine-kdocs-cache.wpscdn.cn))), (NOT,((DOMAIN,vod-settings.volcvod.com))), (NOT,((DOMAIN,volcengine-kdocs-cache.wpscdn.cn))), (OR,((DOMAIN-KEYWORD,volc))))
 DOMAIN-KEYWORD, umeng
+DOMAIN-SUFFIX, 1a-1791.com
+DOMAIN-SUFFIX, rumble.com
 DOMAIN-SUFFIX, ad-stir.com 
 DOMAIN-SUFFIX, adadapted.com 
 DOMAIN-SUFFIX, ads.adadapted.com 
