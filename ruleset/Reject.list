@@ -1863,6 +1863,9 @@ DOMAIN-SUFFIX, kkpgv.kankan.com
 DOMAIN-SUFFIX, kkpgv2.kankan.com
 DOMAIN-SUFFIX, cpm.cm.kankan.com
 DOMAIN-SUFFIX, count.cpm.cm.kankan.com
+# > 途虎养车
+DOMAIN, analytics.tuhu.com
+DOMAIN, ta.tuhu.cn
 # >>>>>>>>>>>>>>> ✅ U ✅ <<<<<<<<<<<<<<
 # > Urban Airship
 DOMAIN-SUFFIX, urbanairship.com
