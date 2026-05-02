@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,anime.girigirilove.com
 PROCESS-NAME,BaiduNetdisk_mac
 # > 微信
 IP-CIDR,43.153.191.0/22,no-resolve
+# > 市妇幼
+DOMAIN-SUFFIX,szfybjy-gzh.com
 # > Nexitally
 DOMAIN,cdn.kineticbloom.org
 DOMAIN,nxonearth.com
