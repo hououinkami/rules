@@ -29,6 +29,8 @@ DOMAIN,cdn.kineticbloom.org
 DOMAIN,nxonearth.com
 # > 邮件SMTP
 DOMAIN-KEYWORD,smtp
+# > FlowerCloud
+DOMAIN,api-huacloud.dev
 
 [Proxy]
 # > 无忧行拨打电话
