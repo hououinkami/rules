@@ -75,9 +75,9 @@ static.dns.qiyipic.iqiyi.com
 union-httpdns.gslb.yy.com
 v6-data.video.dns.iqiyi.com
 #TITLE=anti-AD
-#VER=20260508035739
+#VER=20260511033830
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=106077
+#TOTAL_LINES=106457
 #DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 .000491b06a.com
 .000dn.com
@@ -143,6 +143,7 @@ v6-data.video.dns.iqiyi.com
 .m.030ha.cn
 .m.031177.com
 .033.com
+.033586410b.com
 .oscnjc.035000.com
 .jc.0351dvd.cn
 .0377shujuhuifu.top
@@ -267,6 +268,7 @@ v6-data.video.dns.iqiyi.com
 .0d9063412c.com
 .0d9539106a.com
 .0doo.net
+.0dy3evz6x.com
 .0e024d23f9.com
 .0e176a58eb.com
 .0e1y8x7ft.com
@@ -746,6 +748,7 @@ v6-data.video.dns.iqiyi.com
 .1857db6b77.com
 .186078.com
 .186494d0e1.com
+.18651885bc.com
 .188api.com
 .photo.188kc.cn
 .marketing.188weststjames.com
@@ -1407,7 +1410,6 @@ v6-data.video.dns.iqiyi.com
 .mitt.3.se
 .mitt3.3.se
 .sms.3.se
-.static.3001.net
 .300daytravel.com
 .301848.com
 .301pk.com
@@ -1565,6 +1567,7 @@ v6-data.video.dns.iqiyi.com
 .shake.f.360.cn
 .show.look.360.cn
 .soft.data.weather.360.cn
+.softdl4.360.cn
 .stat.m.360.cn
 .stat.tf.360.cn
 .stats.guess.tf.360.cn
@@ -1685,6 +1688,7 @@ v6-data.video.dns.iqiyi.com
 .y.3957957.com
 .data.3975.com
 .3975lm.com
+.39762581b7.com
 .app.3987.com
 .m.3987.com
 .sj1.3987.com
@@ -1740,6 +1744,7 @@ v6-data.video.dns.iqiyi.com
 .3edc.cn
 .3ee925749f.com
 .3exfu7vaxu.com
+.3f38ffbdb5.com
 .3f47f5f38f.com
 .3f56937492.com
 .3f6e7oacgi.com
@@ -1918,11 +1923,13 @@ v6-data.video.dns.iqiyi.com
 .42ye.com
 .431.red
 .4336wang.cn
+.43429a7552.com
 .434fc6fff7.com
 .436df5b953.com
 .4373ab4d71.com
 .43982bf480.com
 .439f4b8c75.com
+.43b0d022d5.com
 .43eksc8w59.com
 .43gw.cn
 .m.43k5d.cn
@@ -2332,12 +2339,14 @@ v6-data.video.dns.iqiyi.com
 .565882.com
 .5675146.com
 .5689285.com
+.dl.1003b.56a.com
 .56bfc388bf12.com
 .56fba.cn
 .56gbgkvtd.xyz
 .56rt2692.de
 .56yk.com
 .57.com.cn
+.570dad652f.com
 .57352d918d.com
 .57473094.xyz
 .57558.com
@@ -2427,6 +2436,7 @@ v6-data.video.dns.iqiyi.com
 .5d7k30pv1u.com
 .5dfiuae82.com
 .5dycay3rr.com
+.5e14ab617d.com
 .5e80d21184.com
 .5e9cb65c2c.com
 .5edf1d2qv.com
@@ -2606,6 +2616,7 @@ v6-data.video.dns.iqiyi.com
 .s.652748.com
 .6554.net
 .65894140.xyz
+.cad.659t.cn
 .65fcb6f3fe.com
 .game.65pk.net
 .m.65r3g.cn
@@ -2860,6 +2871,7 @@ v6-data.video.dns.iqiyi.com
 .74759411.xyz
 .749558.com
 .749808.com
+.74cc9179e1.com
 .74d963ww.xyz
 .m.74n3a.cn
 .utiq.750g.com
@@ -3918,6 +3930,7 @@ v6-data.video.dns.iqiyi.com
 .abberantextending.com
 .abberantpawnpalette.com
 .abbiinochgiimsd.xyz
+.abbohtab.in
 .abbotexperienceenchantment.com
 .abbotpredicateemma.com
 .info.abbotsfordcentre.ca
@@ -4310,6 +4323,7 @@ v6-data.video.dns.iqiyi.com
 .accomplishmentfreeze.com
 .acconsento.click
 .tr.fr.pro.accor.com
+.disk.accord1key.cn
 .accorduntiltramp.com
 .accostdubbeh.com
 .accountantflowerrespiration.com
@@ -6412,6 +6426,7 @@ v6-data.video.dns.iqiyi.com
 .aggregationdestructoppression.com
 .aggregationmodest.com
 .aggressivestruggle.com
+.aggtrazfiwis.in
 .aghtag.tech
 .agile-company-247.com
 .agile-company-365.com
@@ -7156,7 +7171,6 @@ v6-data.video.dns.iqiyi.com
 .alarmingapple.com
 .alarmingboat.com
 .alarmingfront.pro
-.alarmline.com.br
 .alarmsportsnetwork.com
 .alas4kanmfa6a4mubte.com
 .omni.alaskaair.com
@@ -7437,9 +7451,9 @@ v6-data.video.dns.iqiyi.com
 .cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
 .dressimage.img-cn-beijing.aliyuncs.com
 .fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
+.imagefiles-backup.oss-ap-southeast-7.aliyuncs.com
 .img-dsp.oss-cn-beijing.aliyuncs.com
 .jiayi1.oss-cn-shanghai.aliyuncs.com
-.kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
 .mobaders.oss-cn-beijing.aliyuncs.com
 .ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
 .shangmei-test.oss-cn-beijing.aliyuncs.com
@@ -7731,6 +7745,7 @@ v6-data.video.dns.iqiyi.com
 .click.alternate.de
 .alternatee23.com
 .alternatewavyrid.com
+.alternativas.ru
 .alternativecpmgate.com
 .tr.animations.alticemedia.com
 .tr.communication.alticemedia.com
@@ -8314,6 +8329,7 @@ v6-data.video.dns.iqiyi.com
 .a9d8e7b6i5s.andgino.jp
 .bjuvux.andgino.jp
 .andironmerel.com
+.andjemztech.com
 .andlache.com
 .andmejs.com
 .andomedia.com
@@ -8422,7 +8438,6 @@ v6-data.video.dns.iqiyi.com
 .anlqrktcwmasw.space
 .anlwpyaqjmu.in
 .anlytics.co
-.dmg-libs.anm.co.uk
 .anmdr.link
 .c.anmeilai.net
 .e.anmeilai.net
@@ -9031,6 +9046,7 @@ v6-data.video.dns.iqiyi.com
 .share.appwinit.com
 .appcloud.appyreward.com
 .appyrinceas.org
+.app.appzcvb.com
 .appzery.com
 .apqchxhjdcudb.online
 .apqqwpshxpgaq.xyz
@@ -9242,7 +9258,6 @@ v6-data.video.dns.iqiyi.com
 .arena-quantum.co.uk
 .marketing.arenasports.net
 .app.areyouin.io
-.areyouready.co.za
 .ytouvy.arezzo.com.br
 .argelchanger.com
 .metrics.argenta.be
@@ -9446,6 +9461,7 @@ v6-data.video.dns.iqiyi.com
 .www2.arvig.com
 .arvigorothan.com
 .arwdcrdpiwinc.site
+.arwqwawwlo.com
 .arwriptatfwe.in
 .arwzkwivqjrhk.online
 .m.arxnfj14120.cn
@@ -9635,6 +9651,7 @@ v6-data.video.dns.iqiyi.com
 .aspservice.jp
 .asqconn.com
 .asqdfuhwian.com
+.asqoxdxmawar.in
 .jb.asqql.com
 .page.asraymond.com
 .asrelaterconde.org
@@ -10224,6 +10241,7 @@ v6-data.video.dns.iqiyi.com
 .autoads.asia
 .autoaffiliatenetwork.com
 .autoaudience.com
+.autobaenasl.com
 .qmgwny.autobarn.com.au
 .as.autobild.de
 .utiq.autobild.de
@@ -10709,6 +10727,7 @@ v6-data.video.dns.iqiyi.com
 .awkwarddetail.pro
 .awkxf8bbj.com
 .awkzelrfgaudx.space
+.awlfobvoraxpl.online
 .secure.info.awlgrip.com
 .awlmiknt.in
 .awlov.info
@@ -10792,6 +10811,7 @@ v6-data.video.dns.iqiyi.com
 .axlueiehdugxi.space
 .axmfakdgwrrep.website
 .axmmilepqvdyj.world
+.axmpahohqac.in
 .axolotlly.com
 .s.axon.ai
 .axoncoho.tk
@@ -10805,6 +10825,7 @@ v6-data.video.dns.iqiyi.com
 .axshhgmltiycy.site
 .axvgfyccivzo.in
 .axvjfzbwezssw.site
+.axvnccdaua.com
 .axwlpzoakxokz.online
 .axwpbsweuwclq.space
 .axwyfulzdxrdi.space
@@ -10907,6 +10928,7 @@ v6-data.video.dns.iqiyi.com
 .azfpkrxjbsduf.space
 .azgftoymwpszx.online
 .azhobfzcwtxvj.website
+.azhxjamseqsoz.online
 .kcgser.azialo.com
 .rum.azion.com
 .rum.azioncdn.net
@@ -12103,6 +12125,7 @@ v6-data.video.dns.iqiyi.com
 .bbjdyujagjkii.space
 .bbjnaeeppytdq.com
 .bbjzly.top
+.bblissmassage.com
 .app.bbmannpah.com
 .campaign.bbmbonnier.se
 .bbmknnomcostx.site
@@ -12292,6 +12315,7 @@ v6-data.video.dns.iqiyi.com
 .bdpgjmobltabc.space
 .cpro.bdrmb.cn
 .bdrvfuqkgp.com
+.bdssxxmpobmpk.online
 .sofire.bdstatic.com
 .zz.bdstatic.com
 .ae.bdstatic.com
@@ -12383,6 +12407,7 @@ v6-data.video.dns.iqiyi.com
 .becomeapartner.io
 .becomeo21.com
 .becorsolaom.com
+.becutdubbed.shop
 .bedaslonejul.cc
 .beddingfetched.com
 .m.bedhdig.cn
@@ -12440,7 +12465,6 @@ v6-data.video.dns.iqiyi.com
 .begashasconia.shop
 .begband.com
 .begeainrkdubh.online
-.atkcgnew.evgeni7e.beget.tech
 .beggarconceivablecareful.com
 .beggingload.com
 .beggingmusty.com
@@ -13229,6 +13253,7 @@ v6-data.video.dns.iqiyi.com
 .go.bigo.tv
 .bigpipes.co
 .bigpulpit.com
+.bigqyqjugwbxg.site
 .bigreal.org
 .dev-deeplink.bigrichstore.com
 .m.bigroad.com
@@ -13434,6 +13459,7 @@ v6-data.video.dns.iqiyi.com
 .metrics.bissell.com
 .smetrics.bissell.com
 .bistadaka.com
+.bistoury55.com
 .bit-ad.com
 .g.bit.pt
 .bitadx.one
@@ -13901,6 +13927,7 @@ v6-data.video.dns.iqiyi.com
 .blmdajbsopq.com
 .blmpmttgukmsm.website
 .bloatingexpectantretinal.com
+.bloatsmatweed.com
 .bloblohub.com
 .bloboban.com
 .block-ad.com
@@ -14282,6 +14309,7 @@ v6-data.video.dns.iqiyi.com
 .byjpsr.bobags.com.br
 .bobaidu8.com
 .bobapsoabauns.com
+.bobbledspillet.com
 .bobboro.com
 .a8.bobby-jp.com
 .bobbywobby.com
@@ -14307,6 +14335,7 @@ v6-data.video.dns.iqiyi.com
 .boczgcvaetpji.com
 .bodapet.com
 .bysfnu.bodeboca.com
+.bodegashunlike.com
 .sadobemarketing.boden.co.uk
 .sadobemarketing.boden.eu
 .sadobemarketing.boden.fr
@@ -14893,6 +14922,7 @@ v6-data.video.dns.iqiyi.com
 .bqdhrr.top
 .bqdisnocj.com
 .bqenzxdijbdov.space
+.bqevqsfwykpcil.com
 .bqglwzsuxvfsr.space
 .bqgrjfergtrwn.online
 .bqgwxqoqjqvbz.online
@@ -15107,6 +15137,7 @@ v6-data.video.dns.iqiyi.com
 .smetrics.brewersfayre.co.uk
 .brewingeasel.com
 .brewthing.com
+.brflwpffv.com
 .brfpinjy.com
 .brg0.com
 .health.brgeneral.org
@@ -15207,6 +15238,7 @@ v6-data.video.dns.iqiyi.com
 .brisk-cold.pro
 .briskchart.com
 .briskeagle.io
+.briskedge.net
 .stats.briskoda.net
 .briskpelican.io
 .briskstorm.com
@@ -15225,6 +15257,7 @@ v6-data.video.dns.iqiyi.com
 .brittlesnag.com
 .brittlesturdyunlovable.com
 .brizads.com
+.brkttkeossvps.site
 .brmljcaxcchtu.space
 .brmrfxnpajqqx.site
 .brmyeyvjshqt.com
@@ -15268,6 +15301,7 @@ v6-data.video.dns.iqiyi.com
 .news.brokersalliance.com
 .utiq.brokser-heiratsmarkt.de
 .lxsway.brollopstorget.se
+.bromesethics.shop
 .brominer.com
 .bromingigaton.com
 .bromoilnapalms.com
@@ -15367,7 +15401,6 @@ v6-data.video.dns.iqiyi.com
 .bruntstabulae.com
 .brushtriplehorns.com
 .brusklylawton.com
-.update.bruss.org.ru
 .bruteportrait.com
 .brutishlylifevoicing.com
 .brutuzzzymudq.world
@@ -15443,6 +15476,7 @@ v6-data.video.dns.iqiyi.com
 .bsxjqlasfcoaa.site
 .mo.bsxr.com.cn
 .bsxswvrbstntq.site
+.bsyacjssj.com
 .bsybehodwbfw.com
 .bsyclqekpoyr.com
 .bsyrimw.xyz
@@ -15855,6 +15889,7 @@ v6-data.video.dns.iqiyi.com
 .businessupdater.com
 .admsapi.businessweekly.com.tw
 .cts.businesswire.com
+.busserbouilli.shop
 .444.bussyhunter.com
 .s.bussyhunter.com
 .bustlefungus.com
@@ -15953,6 +15988,7 @@ v6-data.video.dns.iqiyi.com
 .bvckutpqnrftz.website
 .info.bvcm.nl
 .bvcnmtv.top
+.bvctvvinsatqz.website
 .bvek.cn
 .bvewsgtwrbnaw.space
 .bvhxiysrndwbg.site
@@ -16044,6 +16080,7 @@ v6-data.video.dns.iqiyi.com
 .vezsyr.bxblue.com.br
 .bxcmbpikpauoz.com
 .bxdupj.icu
+.bxekozqvwcqeg.space
 .bxerfbkaoasof.space
 .bxg68.com
 .bxgvranswkjn.com
@@ -16278,6 +16315,7 @@ v6-data.video.dns.iqiyi.com
 .cabhwq.com
 .img.link.cabinetry.com
 .cabininestimable.com
+.cabinpews.shop
 .marketing.cabinsatgreenmountain.com
 .cabinzenith.com
 .cable-cen-01.com
@@ -17411,6 +17449,7 @@ v6-data.video.dns.iqiyi.com
 .5.ccutu.com
 .ccwcdsgcgefpy.website
 .ccwgdmpklya.com
+.ccxqwolbriouv.site
 .ccxsmqmesx.com
 .ccyotcciskic.in
 .cd2bkmz3rz.com
@@ -17786,6 +17825,7 @@ v6-data.video.dns.iqiyi.com
 .utiq.cesoirtv.com
 .cesosfultrbriol.com
 .cessationhamster.com
+.cestetrpset.shop
 .cestibegster.com
 .cestorshefo.org
 .sms.gestion.cetelem.fr
@@ -17809,6 +17849,7 @@ v6-data.video.dns.iqiyi.com
 .cexucetum.com
 .cexwqzqmrpjcw.site
 .m.ceyiuy.com
+.ceykytxjow.com
 .ceyreesdxgvkd.site
 .hiadscvd.cezici.cn
 .ceztv.com
@@ -17871,6 +17912,7 @@ v6-data.video.dns.iqiyi.com
 .cfveslxxqdmlu.online
 .h1.cfxinxi.cn
 .cfxoaljlopydq.online
+.cfyrlemzzvaxe.site
 .cfyxpuumqdcii.website
 .update.cg100iii.com
 .tr.communication.cgaaer.fr
@@ -17949,6 +17991,7 @@ v6-data.video.dns.iqiyi.com
 .ii1.chajiaotong.com
 .chaldailg.com
 .chaliceguzzlerlandlord.com
+.chalkdream.com
 .chalkedretrieval.com
 .chalkleash.com
 .2540166.chalknation.com
@@ -18154,6 +18197,7 @@ v6-data.video.dns.iqiyi.com
 .checkcavity.com
 .checkcdn.net
 .checkeffect.at
+.checkfivem.com
 .checkinetverifk.com
 .checkitoutxx.com
 .checkm8.com
@@ -18404,12 +18448,14 @@ v6-data.video.dns.iqiyi.com
 .omniture.chip.eu
 .smetrics.chip1stop.com
 .chip2gift.com
+.chipcardice.com
 .ip.chipestimate.com
 .chipleader.com
 .chipnarrativefatherinlaw.com
 .metrics.chipotle.com
 .chipperisle.com
 .chipspasteprowl.com
+.chiptune.com
 .chiq-cloud.com
 .connect.chiropractic.ac.nz
 .chirui.net
@@ -18554,6 +18600,7 @@ v6-data.video.dns.iqiyi.com
 .sanalytics.chvnoticias.cl
 .chvtweykwfbks.website
 .kidsdeservethebest.chw.org
+.chwedwbnthnzc.website
 .chwgbfkfyfkof.site
 .chwyt1hzb.com
 .chyeqolaelmpo.site
@@ -18563,6 +18610,7 @@ v6-data.video.dns.iqiyi.com
 .tc.ci123.com
 .ci38iu1ch.com
 .ciaankzzhmcrz.click
+.ciaavycazqtur.site
 .ciajifmfsp.com
 .marketing.ciandt.com
 .eymiwj.ciao.ro
@@ -18723,6 +18771,7 @@ v6-data.video.dns.iqiyi.com
 .images.comms.cirium.com
 .secureforms.cirium.com
 .cirnibohghuf.in
+.cirogpnymaqkf.space
 .smetrics.cirquedusoleil.com
 .analytics.cirroenergy.com
 .cirymoxxrzdgz.online
@@ -18935,6 +18984,7 @@ v6-data.video.dns.iqiyi.com
 .ckeeqekazetgv.online
 .ckfaconxrhyen.website
 .ckfagnlubuyyf.website
+.ckfrnfmx.com
 .ckgmjvfilyffwbv.com
 .ckgroundan.org
 .ckhillulshshg.site
@@ -20667,7 +20717,6 @@ v6-data.video.dns.iqiyi.com
 .a8cv.control.cloudphotobook.com
 .clp-mms.cloudpro.co.uk
 .collect.cloudsponge.com
-.cloudstay168.com
 .info.cloudsteer.com
 .a8cv.cloudthome.com
 .cloudtracer101.com
@@ -20752,7 +20801,6 @@ v6-data.video.dns.iqiyi.com
 .widget.clym-sdk.net
 .privacy-api-eu1.clym.io
 .clysisaplombs.shop
-.support.clz.kr
 .cm-analysis.com
 .cm-trk3.com
 .cm-trk5.com
@@ -21482,7 +21530,6 @@ v6-data.video.dns.iqiyi.com
 .tdjvod.chevignon.com.co
 .trk.rama.com.co
 .xgvenv.farmatodo.com.co
-.isiore.com.co
 .adlog.com.com
 .dw.com.com
 .shuanshu.com.com
@@ -21604,6 +21651,7 @@ v6-data.video.dns.iqiyi.com
 .comingsthous.shop
 .comitiumanalytics.com
 .comlquina.com
+.comltofjcmxbm.site
 .t.commandbar.com
 .content.commandc.com
 .securedata.commander-monspar.be
@@ -21687,6 +21735,7 @@ v6-data.video.dns.iqiyi.com
 .compassionate-boot.com
 .compassionatereach.pro
 .compassionatespreadinquire.com
+.compassionpersonify.com
 .compassionunsuccessful.com
 .app.compasslearning.biz
 .images.compasslearning.biz
@@ -21892,6 +21941,7 @@ v6-data.video.dns.iqiyi.com
 .sadbmetrics.congresomigueldelibes.es
 .cmon.congress.gov
 .smon.congress.gov
+.congresscaptainfatal.com
 .images.e.congressionalfcu.org
 .congruousimplication.com
 .congruousthey.com
@@ -22091,7 +22141,6 @@ v6-data.video.dns.iqiyi.com
 .trk.contentmarketinginstitute.com
 .trk.contentmarketingworld.com
 .contentmayinterest.com
-.contentmentfairnesspesky.com
 .contentproxy10.cz
 .a8cv.contents-sales.net
 .contents-search-windows.com
@@ -22413,6 +22462,7 @@ v6-data.video.dns.iqiyi.com
 .rum.corewebvitals.io
 .corgibeachday.com
 .corjlougqaicc.top
+.corkdeclarationfourteenth.com
 .corksadly.com
 .cormelsseity.com
 .marketing.corneagen.com
@@ -22745,6 +22795,7 @@ v6-data.video.dns.iqiyi.com
 .cozigplpxpcih.site
 .t.cozone.com
 .a8cv.cozuchi.com
+.cozvplybgqwcu.site
 .cozydusk.com
 .cozyforestglade.com
 .cozyhillside.com
@@ -22859,12 +22910,14 @@ v6-data.video.dns.iqiyi.com
 .cqcpazetvhaso.website
 .cqcsvgiryffsf.online
 .dm.cqdxun.cn
+.cqgfrmqbr.com
 .cqgyykdgaeqbr.online
 .cqibwlthohukl.website
 .cqjemdelnxipr.space
 .cqjgztejpzvkd.space
 .mob10.cqjktj.com
 .cqkpoxtlakibf.space
+.cqlwvewqfyltd.online
 .cqmgoxqbhsmgg.site
 .cqmjjx.cn
 .cbjg.cqnews.net
@@ -22945,6 +22998,7 @@ v6-data.video.dns.iqiyi.com
 .solve.cranepi.com
 .tracking.cranepi.com
 .info.cranes101.com
+.craniavestas.com
 .cname.crank-in.net
 .crankyderangeabound.com
 .crannyadministervolunteer.com
@@ -23000,6 +23054,7 @@ v6-data.video.dns.iqiyi.com
 .creamssicsite.com
 .creamymouth.com
 .creasereturndisplayed.com
+.creasotgowans.shop
 .creatablegluesurvival.com
 .create-tracking.com
 .createdearthparanoia.com
@@ -23440,7 +23495,6 @@ v6-data.video.dns.iqiyi.com
 .cszlks.com
 .cszz.ru
 .ct11.biz
-.ct3-24.ru
 .ctags.cn
 .ctasnet.com
 .ctbfleegqpvkx.online
@@ -23584,6 +23638,7 @@ v6-data.video.dns.iqiyi.com
 .cullemple-motline.com
 .culmedpasses.cam
 .culnas.click
+.culpgemwork.com
 .aqwvwn.cultfurniture.com
 .l.cultgear.com
 .cultivated-cell.com
@@ -23854,6 +23909,7 @@ v6-data.video.dns.iqiyi.com
 .cwxshavrhth.com
 .cwyvketbgfonh.com
 .cwyvnvawjstrr.online
+.cwzkatxjqgeyz.space
 .e.cx016d.cn
 .cxad.cn
 .xpe.cxaerp.com
@@ -24019,6 +24075,7 @@ v6-data.video.dns.iqiyi.com
 .cznratophrtou.website
 .cznynkixfokwe.online
 .czofrrdmzszbd.site
+.czozahgihazp.in
 .cip6.czpush.com
 .cpv.czpush.com
 .czsttsmgndlni.website
@@ -24122,6 +24179,7 @@ v6-data.video.dns.iqiyi.com
 .dabaicai.cn
 .dabaicai.com
 .dabaoku.com
+.dabblednonet.shop
 .saa.dabl.com
 .dable.io
 .daboovip.xyz
@@ -24428,6 +24486,7 @@ v6-data.video.dns.iqiyi.com
 .dasesiumworkhovdim.com
 .utiq.dasgelbeblatt.de
 .dash58wl.com
+.cat.dashabi.in
 .sec.dashabi.in
 .smetrics.dashandstars.com
 .dashantechan.cn
@@ -24578,6 +24637,7 @@ v6-data.video.dns.iqiyi.com
 .data.dats24.be
 .securedata.dats24.be
 .z89yxner8h.datsumou-beauty-times.com
+.dattketfoas.in
 .datvantage.com
 .stat.dauc.cz
 .daughtersvariedfalse.com
@@ -24900,6 +24960,7 @@ v6-data.video.dns.iqiyi.com
 .dearesthydrogen.com
 .dearesttongue.pro
 .deathcoho.com
+.deathmatchuk.com
 .obqvss.debameubelen.be
 .debatabletent.com
 .link.debatespace.app
@@ -25128,6 +25189,7 @@ v6-data.video.dns.iqiyi.com
 .delaybagelblur.com
 .delayeddisputecommotion.com
 .delayedtour.pro
+.delcjljvjkoqz.space
 .deleb.xyz
 .delectable-earth.com
 .delectablefriendship.pro
@@ -25177,7 +25239,6 @@ v6-data.video.dns.iqiyi.com
 .trk.delma.hu
 .trk.delma.ro
 .sxjfhh.delmarvanow.com
-.refrigeracion.delmondexpress.com
 .preferences.deloitte.ca
 .dfr.deloitte.com
 .images.learn.deloitte.com
@@ -25553,7 +25614,6 @@ v6-data.video.dns.iqiyi.com
 .detestablemanifest.com
 .detgiuidxprjk.online
 .dethemostgracef.com
-.detierra.cl
 .analytic20.detik.com
 .parsley.detik.com
 .detmir-stats.ru
@@ -25697,6 +25757,7 @@ v6-data.video.dns.iqiyi.com
 .deycppnevpjax.online
 .deymalaise.com
 .deypersonalreco.com
+.dezcom.com
 .dezna.online
 .df-srv.de
 .apisoft.df0535.com
@@ -25746,6 +25807,7 @@ v6-data.video.dns.iqiyi.com
 .smetrics.dfo.com.au
 .dfotrqlairxzv.site
 .dfqbktlcmmcca.space
+.dfqwvrbplyt.com
 .dfqzah.xyz
 .dfrgxsiydjbfj.space
 .dfrjvdxlfisoi.website
@@ -25931,6 +25993,7 @@ v6-data.video.dns.iqiyi.com
 .leb-app.diasporaid.com
 .diasyrmunionic.com
 .diaunwrkajyuhu.com
+.diayrgnrwjhwt.site
 .diazidehematid.com
 .diazoicmohair.com
 .dibsemey.com
@@ -26042,7 +26105,6 @@ v6-data.video.dns.iqiyi.com
 .digitalmediapp.com
 .tracking.digitalocean.com
 .hbid.ams3.cdn.digitaloceanspaces.com
-.digitalonline.cl
 .digitaloptout.com
 .analytics.digitalpfizer.com
 .eloqua.digitalpi.com
@@ -26079,6 +26141,7 @@ v6-data.video.dns.iqiyi.com
 .dikasomywnqww.website
 .dikcmpgwemomx.space
 .dikeprotectorencyclopaedia.com
+.dikingjicara.shop
 .dikqudbgvloe.com
 .lxoemc.dilei.it
 .jelr1.dili.fr
@@ -26548,6 +26611,7 @@ v6-data.video.dns.iqiyi.com
 .divvanews.com
 .aknzmq.divvino.com.br
 .divwbbyjikkkv.website
+.diwanhebete.shop
 .ad-channel.diwodiwo.xyz
 .ad-display.diwodiwo.xyz
 .pica-ad-api.diwodiwo.xyz
@@ -26667,6 +26731,7 @@ v6-data.video.dns.iqiyi.com
 .dleicukp.com
 .pear.dleke.com
 .dlelkindp.com
+.dlfugnpbqxseya.com
 .dlfvgndsdfsn.com
 .dlfzswefybaff.website
 .dlhjgdhonjcsq.website
@@ -27151,8 +27216,6 @@ v6-data.video.dns.iqiyi.com
 .dotaudiences.com
 .conseils.dotbase.com
 .acton.dotcom-monitor.com
-.class1004.dothome.co.kr
-.heyleny2.dothome.co.kr
 .doting-rush.pro
 .dotingrevenue.pro
 .dotmailer-surveys.com
@@ -27162,6 +27225,7 @@ v6-data.video.dns.iqiyi.com
 .stats.dotnetos.org
 .dotomi.com
 .stats.dotplan.io
+.dotshellmain.com
 .dotsrv.com
 .ssl2.dottexpress.com
 .dottypeguidance.com
@@ -27311,6 +27375,7 @@ v6-data.video.dns.iqiyi.com
 .dpbolvw.net
 .s.dpcq1.net
 .dpehzyosanbhl.website
+.dpeqsufixhtbg.online
 .dpfccivdvttx.com
 .dpfhmglkprqrrqk.com
 .sp.dpgmedia.net
@@ -27691,6 +27756,7 @@ v6-data.video.dns.iqiyi.com
 .dspack.com.cn
 .dsparking.com
 .s.dspbw7.com
+.dspchided.com
 .dsply.com
 .dspultra.com
 .dspx.tv
@@ -27746,6 +27812,7 @@ v6-data.video.dns.iqiyi.com
 .dtmpub.com
 .dtmypozttguhc.site
 .dtodayomegksc.site
+.dtolxskhdcxube.com
 .dtpenovvvaux.com
 .dtprofit.com
 .dtpvgzuxgdgmu.website
@@ -27791,7 +27858,6 @@ v6-data.video.dns.iqiyi.com
 .bu2.duba.com
 .pages.dubaifitnesschallenge.com
 .images.dubaiholding.ae
-.dubaitechnicalservice.ae
 .go.dubbi.com.br
 .link.dubble.me
 .dubietybialy.com
@@ -28019,6 +28085,7 @@ v6-data.video.dns.iqiyi.com
 .dvypar.com
 .dvzycytrxbxav.space
 .partner.dw.com
+.dwaibletetania.com
 .dwalhkbrywnaw.site
 .dwamhdnllmhwu.site
 .dwarfscriptsfurnished.com
@@ -28030,7 +28097,9 @@ v6-data.video.dns.iqiyi.com
 .dwchovra.com
 .dwdy7xir.xyz
 .bafybeibh6u74fuvyazqu2q7y6pginkxprjurxchgfshwigrs5y77qcbj6i.ipfs.dweb.link
+.bafybeiccl6irsru52xsyiuy4pqlitflw4f57xovkfpk5w2wnhtmeaqpjuy.ipfs.dweb.link
 .bafybeidp7zdy2lu6yxvbgoev4b6xokuaa6jljr34vkflxzel2ya2gc3plm.ipfs.dweb.link
+.bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link
 .bafybeidvgy76m4r347tpqg6plr3ac2p7o5bpcluicawc25nuh7mowtkssy.ipfs.dweb.link
 .bafybeihamvbzrm2tsifa4s7xruhfnsgnkzgtk2jqwj6cwgmdxj4wqe5lm4.ipfs.dweb.link
 .dweeyiquoarvs.site
@@ -28755,6 +28824,7 @@ v6-data.video.dns.iqiyi.com
 .ec26bf2191.com
 .cookies.ec4u.com
 .secure.ec4u.com
+.ecabexznbsofn.site
 .ecaqbwghfrwkm.site
 .jb.ecar168.cn
 .ecbtryst.com
@@ -28914,6 +28984,7 @@ v6-data.video.dns.iqiyi.com
 .a8clk.ectool.jp
 .ectsofcukorpor.com
 .ectuklyeconen.com
+.ecuc6mmwt.com
 .app.ecupirates.com
 .t.ecupirates.com
 .ecuryrentattribut.org
@@ -29124,6 +29195,7 @@ v6-data.video.dns.iqiyi.com
 .eeco.xyz
 .info.eecoonline.com
 .eecyhoahruhv.com
+.eedaebenuzque.site
 .info.eedinc.com
 .stats.eedistudio.ie
 .eedshenwhent.com
@@ -29498,6 +29570,7 @@ v6-data.video.dns.iqiyi.com
 .ejpfpqeqj.com
 .ejqmzpbhebimq.website
 .ejrzeehyqboza.website
+.ejsvyoejfmbfn.site
 .ejsxzsisfbvfm.online
 .ejtvokuajnakj.space
 .ejtyujxigvnwu.site
@@ -29726,6 +29799,7 @@ v6-data.video.dns.iqiyi.com
 .ref.elitehrv.com
 .elitics.com
 .m.eliuy.com
+.elixateazotise.shop
 .stats.elixir-lang.org
 .share.elixirapp.co
 .elizabethpertinent.com
@@ -29978,6 +30052,7 @@ v6-data.video.dns.iqiyi.com
 .emitprocured.com
 .emjcd.com
 .stats.emk.at
+.emkajkegibcad.website
 .emkarto.fun
 .emkfl.com
 .emkmvkigfexgt.online
@@ -30317,6 +30392,7 @@ v6-data.video.dns.iqiyi.com
 .m.enjuk.com
 .e.enjuw.com
 .m.enjuw.com
+.enkcrakxvqwbn.online
 .enkcyenrat.club
 .tr.communication.enkiapp.io
 .tr.mep.enkiapp.io
@@ -30518,6 +30594,7 @@ v6-data.video.dns.iqiyi.com
 .eojfxignjyzev.website
 .eojnmxdvcgozv.space
 .eokbuxljvlfwm.space
+.eoknzbxdujqff.website
 .eolcdn.com
 .eolgafayqqglt.online
 .email.eomega.org
@@ -30623,6 +30700,7 @@ v6-data.video.dns.iqiyi.com
 .pjtxmd.epool.ru
 .spread.epoolers.com
 .photo.epowuxiao.cn
+.eppjwjoomvfxx.space
 .epqcgcxkfymlj.site
 .epqitbarjxwic.site
 .epqpwmkldycwt.website
@@ -30822,6 +30900,7 @@ v6-data.video.dns.iqiyi.com
 .js.eroticmv.com
 .erotikdating.com
 .erovation.com
+.erpdrncraxbup.site
 .erpqkcfvsjjyap.com
 .erpupydeklzyp.space
 .erpzllhibhdzv.site
@@ -31248,6 +31327,7 @@ v6-data.video.dns.iqiyi.com
 .eswapimwrroxffx.com
 .eswfsinghtywb.website
 .eswpfkuwyovtm.space
+.esxowlmdhtfdm.online
 .esydixdtagncd.online
 .esyeqegjjxuwr.website
 .esyopnuacdidw.site
@@ -31277,6 +31357,7 @@ v6-data.video.dns.iqiyi.com
 .eteun.cn
 .etewvshvscytx.website
 .etff5y04k.com
+.etfwaxrlolqr.com
 .etgeipsprfdlbv.com
 .etgetoexukprese.org
 .etgetxsjqwtir.site
@@ -31381,6 +31462,7 @@ v6-data.video.dns.iqiyi.com
 .etvfomflpnciy.site
 .etvurlcoygadl.site
 .etwdpgjsvdqzk.site
+.etwlrduieeddt.space
 .etwmijxejhqrr.site
 .etwzue.icu
 .etxkzdcyewznp.website
@@ -31625,6 +31707,7 @@ v6-data.video.dns.iqiyi.com
 .evhtgmfimyw.com
 .eviafiegoxsru.space
 .smetrics.evicore.com
+.evidence20.com
 .evidencenulls.com
 .evidentlystraighteneddecimal.com
 .dgcollector.evidon.com
@@ -31705,6 +31788,7 @@ v6-data.video.dns.iqiyi.com
 .ewcnmtw.top
 .ewcrmziovfmfm.website
 .b.ewd.io
+.ewdegomme.com
 .ewebanalytics.com
 .eweconciliate.com
 .eweictecqjawcv.com
@@ -31771,6 +31855,7 @@ v6-data.video.dns.iqiyi.com
 .a8.exam-katekyo.com
 .a.exam58.com
 .track.exame.com
+.exameneuscaro.shop
 .metrics.examinebiosimilars.com
 .smetrics.examinebiosimilars.com
 .examplehibernatescientific.com
@@ -31865,6 +31950,7 @@ v6-data.video.dns.iqiyi.com
 .exgrntvgdmflc.website
 .exgzrlwsiscbn.online
 .exhausted-highlight.pro
+.exhibits86.com
 .exhibitsneeze.com
 .exicqhdkizyxx.website
 .exinariuminix.info
@@ -32170,6 +32256,7 @@ v6-data.video.dns.iqiyi.com
 .eyiyoxz.xyz
 .eykcjdmmtsoykl.com
 .eyknbgdtgsecp.com
+.eyktegqgbtujq.space
 .eylxaeyebje.com
 .eylzypoaxzyjs.online
 .eynol.xyz
@@ -32385,6 +32472,7 @@ v6-data.video.dns.iqiyi.com
 .faenasturbit.com
 .a8cv.fafa-shop.com
 .fafflebotry.shop
+.faffleswiving.shop
 .fafxuylrwwnxg.online
 .fagarauvitic.com
 .faggrim.com
@@ -33254,6 +33342,7 @@ v6-data.video.dns.iqiyi.com
 .ffskgnxhhnqaf.website
 .ffsrxeamzwtsl.website
 .ffswithabras.com
+.fftiyxescpqux.site
 .fftvarabrusqk.website
 .fftwljklhkigm.site
 .ffuakv5nl.com
@@ -33531,6 +33620,7 @@ v6-data.video.dns.iqiyi.com
 .somtr.financialengines.com
 .financialfadinglobster.com
 .track.financialfairness.org.uk
+.financiallyawelessaweless.com
 .financialwagerepel.com
 .link.financie.online
 .finanvideos.com
@@ -33951,6 +34041,7 @@ v6-data.video.dns.iqiyi.com
 .flameuncle.com
 .flamingloweredchuckled.com
 .tr.news.flandrintechnologies.com
+.flanglituus.shop
 .flangrowler.shop
 .flaprotatewedge.com
 .flapsoonerpester.com
@@ -34045,6 +34136,7 @@ v6-data.video.dns.iqiyi.com
 .fleshcash.com
 .fleshlightgirls.com
 .marketing.fletchercsi.com
+.fletherpetos.com
 .acv.fletsntt.com
 .ea.fleurancenature.com
 .ea.fleurancenature.fr
@@ -34409,6 +34501,7 @@ v6-data.video.dns.iqiyi.com
 .fnmlyxokigkgs.site
 .analytics.fnni.com
 .fnnrequdvzwpw.space
+.fnntccfbzvsvp.space
 .fnoc.cn
 .fnoxmhkwrkhxv.space
 .utiq.fnp.de
@@ -34802,6 +34895,7 @@ v6-data.video.dns.iqiyi.com
 .forthbootyintricate.com
 .forthcomingmugged.com
 .forthgoaix.com
+.forthright-photo.com
 .forthrightstudent.pro
 .forthwithresistsew.com
 .go.fortifybuildingsolutions.com
@@ -35428,6 +35522,7 @@ v6-data.video.dns.iqiyi.com
 .frozi.cc
 .frrhcvblgskvz.site
 .frrkdiszpiclc.online
+.frrxyktksmblrd.com
 .frs2c.com
 .frskulk.com
 .collector-api.frspecifics.com
@@ -35528,6 +35623,7 @@ v6-data.video.dns.iqiyi.com
 .preferencecenter.fticonsulting.com
 .tracking.fticonsulting.com
 .ftifoxnx.com
+.ftilbfkyikdpe.online
 .creatives1.ftimg.net
 .dolphin.ftimg.net
 .dolphin4.ftimg.net
@@ -35765,6 +35861,7 @@ v6-data.video.dns.iqiyi.com
 .fussychance.pro
 .fussycross.pro
 .fustianwaked.com
+.fuswrjxy.com
 .fhrpqp.futfanatics.com.br
 .futhacifl.com
 .go.futupilot.com
@@ -35868,6 +35965,7 @@ v6-data.video.dns.iqiyi.com
 .fwcdn3.com
 .fwciiqsskqyih.site
 .pla.fwdcdn.com
+.fweeneezxbrll.website
 .fwegwonurb.in
 .fwhiygzlhmklt.website
 .fwinrsexuivnd.website
@@ -35893,6 +35991,7 @@ v6-data.video.dns.iqiyi.com
 .fwtvkuculjxyu.space
 .fwunymlwmsebu.site
 .fwvzx907rr.com
+.fwxkoyoziixow.space
 .fwzperwuhavde.space
 .stat-ssl.fx-rashinban.com
 .ad.fx168api.com
@@ -35900,7 +35999,9 @@ v6-data.video.dns.iqiyi.com
 .dew1.fx6j3.cn
 .fx8rurzhbf.com
 .fxab9iuprt.com
+.fxanwjmjbjhcq.website
 .fxayenbztjzdg.website
+.fxbfsxgojhnem.website
 .fxbojoywozehj.website
 .fxbprfogjabel.online
 .sw88.fxchannel.pl
@@ -36012,6 +36113,7 @@ v6-data.video.dns.iqiyi.com
 .fzsibfirjxbto.website
 .fzu7rg.site
 .fzvqmzsidkjgx.space
+.fzwduzygfqwes.space
 .zxr.fzxrjx.com
 .fzyalvkwausqj.space
 .e.fzyda.com
@@ -36061,6 +36163,7 @@ v6-data.video.dns.iqiyi.com
 .g3m92egwo.com
 .mvo.g4rre.xyz
 .g4yk4cyyw.com
+.g4z8712756.com
 .g594253006.co
 .g64njjhyh.com
 .g66ryy88z.com
@@ -36118,6 +36221,7 @@ v6-data.video.dns.iqiyi.com
 .app.gafreedom.com
 .gagedependable.com
 .gagescenesclothes.com
+.gahfinallytame.com
 .gahkoekeybyxv.online
 .gahroundwhat.com
 .gahyuck.com
@@ -36431,6 +36535,7 @@ v6-data.video.dns.iqiyi.com
 .gazkohjzcdbty.online
 .gazmoons.com
 .tr.serviceclient.gazservicerapide.fr
+.gazvftksjyxvq.online
 .metrics.gazyva.com
 .smetrics.gazyva.com
 .t-s.gazyva.com
@@ -36494,6 +36599,7 @@ v6-data.video.dns.iqiyi.com
 .gcjg3ry7m.com
 .gcjiqxikuiuwa.website
 .gcmogssktstxp.online
+.gcmsiznuwiuxr.space
 .gcmwodwqcaqjw.space
 .smetric.gconlineplus.at
 .smetric.gconlineplus.de
@@ -36540,6 +36646,7 @@ v6-data.video.dns.iqiyi.com
 .gdmgsecure.com
 .gdmonqqvzxnob.com
 .gdmxjbjjo.com
+.gdojmpxgwxitb.website
 .gdonqrdtzhvfq.space
 .gdpj8lm2t.com
 .gdpr-legal-cookie.com
@@ -36838,7 +36945,6 @@ v6-data.video.dns.iqiyi.com
 .smetrics.gestionpriveegi.com
 .gestionycobranzas.com
 .analytics.gestore.com
-.admin.gestroom.it
 .stats.gesund-vital-lebensfreude.com
 .ciszhp.gesundheitsfrage.net
 .utiq.gesundheitsfrage.net
@@ -37056,6 +37162,7 @@ v6-data.video.dns.iqiyi.com
 .sstats.gfi.com
 .stats.gfi.com
 .gfkfqilsulylx.website
+.gfkufnivvrrqm.site
 .gflnurairzyv.com
 .gfnovftlnkzlv.online
 .gfnulonelb.com
@@ -37199,6 +37306,7 @@ v6-data.video.dns.iqiyi.com
 .ghwmbue.icu
 .ghxjliswdiiax.space
 .ghxvylxnexmbc.website
+.ghyfjpduegckx.site
 .ghyzimfjilvbt.online
 .ghzxqtvqjybuj.online
 .gialamebxneob.space
@@ -37295,6 +37403,7 @@ v6-data.video.dns.iqiyi.com
 .a8cv.gimuiko.com
 .gin77czkt.com
 .ginchoirblessed.com
+.ginkidojk.in
 .go.ginmon.de
 .ginningconant.com
 .ginningsteri.com
@@ -37425,6 +37534,7 @@ v6-data.video.dns.iqiyi.com
 .gjjaefsketwgi.tech
 .gjk1sc9o2.com
 .gjkbyt.com
+.gjlgiznfyricw.space
 .gjlkzltqvdjeo.site
 .gjmbsnphditjso.com
 .gjnmizjrnubch.site
@@ -37472,6 +37582,7 @@ v6-data.video.dns.iqiyi.com
 .gkrtmc.com
 .gkryjuqq3.com
 .gk.gkservices.com
+.gkudvtagscd.com
 .gkuresx.com
 .gkuwhqgpgwlec.space
 .gkvjmx3xf.com
@@ -37605,6 +37716,7 @@ v6-data.video.dns.iqiyi.com
 .glimr.io
 .glimtors.net
 .glinkhitler.com
+.glirinetreague.shop
 .glispa.com
 .glistenbutt.com
 .glisteningguide.com
@@ -37804,6 +37916,7 @@ v6-data.video.dns.iqiyi.com
 .gmfcfejaqmkma.online
 .smetrics.gmfinancial.com
 .gmfrdnovhdnyuve.com
+.gmhlsxchqfoon.site
 .gmhpjreadalkb.site
 .gmhzabvldunlu.space
 .gmjzmwcxhonly.rocks
@@ -38181,7 +38294,6 @@ v6-data.video.dns.iqiyi.com
 .m.gomev.cn
 .demo.gomi.do
 .dev.gomi.do
-.cdn.gomlab.com
 .info.gomlab.com
 .playinfo.gomlab.com
 .promotion.gomlab.com
@@ -38637,7 +38749,6 @@ v6-data.video.dns.iqiyi.com
 .grandshinyinsert.com
 .tr.news.grandsmoulinsdeparis.com
 .noticias.grandt.com.ar
-.grandtheftauto6.cc
 .vip.granicus.com
 .granify.com
 .rh1a.granions.fr
@@ -38750,6 +38861,7 @@ v6-data.video.dns.iqiyi.com
 .counmg.greatvaluevacations.com
 .greatviews.de
 .som.greatwolf.com
+.grecingcloners.com
 .share.gree.jp
 .a8cv.greed-island.ne.jp
 .greedilyperky.com
@@ -39063,6 +39175,7 @@ v6-data.video.dns.iqiyi.com
 .gsbnymvxzcgku.today
 .gsbskecojgcwm.website
 .gscftqryahymh.space
+.gsclubfhopzec.site
 .gscontxt.net
 .gsdcbsjh55xsc.top
 .k.gsdhome.cn
@@ -39211,7 +39324,6 @@ v6-data.video.dns.iqiyi.com
 .gtop.ro
 .gtopstats.com
 .gtosmdjgn.xyz
-.gtps4change.org
 .gtraiqgaqwlrk.website
 .gtrem.site
 .gtrimmani.com
@@ -39370,6 +39482,7 @@ v6-data.video.dns.iqiyi.com
 .guoad.com
 .guodulvyou.xyz
 .guohead.com
+.guoiriawxkaew.website
 .guomob.com
 .wsd.guonongllc.com
 .link.guoqi365.com
@@ -39405,7 +39518,6 @@ v6-data.video.dns.iqiyi.com
 .gustygrandmother.com
 .ggw.gusuwang.com
 .gusvoxyroosho.site
-.gutando.com
 .utiq.gutefrage.net
 .dcclaa.guter-rat.de
 .gutickyum.com
@@ -39518,7 +39630,6 @@ v6-data.video.dns.iqiyi.com
 .gxfftsdvmekwu.site
 .fpb1.gxfin.com
 .gxfrctjcgfstn.website
-.pvsa.gxfugy.cn
 .gxgjbfopbiiva.space
 .gxiacapeptyos.club
 .gxjajt.com
@@ -39664,6 +39775,7 @@ v6-data.video.dns.iqiyi.com
 .h5vem1jjft.com
 .h6fh0e4hg.com
 .h74v6kerf.com
+.h7ima6w5k.com
 .h8cjr6nhm.com
 .h9806gjhz.com
 .h9k9.com
@@ -40175,6 +40287,7 @@ v6-data.video.dns.iqiyi.com
 .link.harveyssupermarkets.com
 .harpra-companion-test.harvinar.com
 .harpra-companion.harvinar.com
+.hasalltalent.com
 .omn.hasbro.com
 .omn2.hasbro.com
 .hasdrs.com
@@ -40246,6 +40359,7 @@ v6-data.video.dns.iqiyi.com
 .smetrics.havenwellwithin.com
 .havenwrite.com
 .havenyl.xyz
+.haveqgfhtttvwi.com
 .havetestifyharriet.com
 .havetohave.com
 .havhrywu.in
@@ -40388,6 +40502,7 @@ v6-data.video.dns.iqiyi.com
 .hcegngzriixcl.site
 .e.hcenc.com
 .m.hcenc.com
+.hcf5yqdq3.com
 .hcfjrkfren.com
 .hcgzmbfewulwh.website
 .m.hchag.com
@@ -40978,6 +41093,7 @@ v6-data.video.dns.iqiyi.com
 .heyuhzdhoxcms.online
 .heyyounow.my
 .heyzap.com
+.heyzxededowik.site
 .e.hf355.cn
 .m.hf355.cn
 .hf5rbejvpwds.com
@@ -41108,6 +41224,7 @@ v6-data.video.dns.iqiyi.com
 .hhmrsmghtbdln.site
 .photo.hhmyi.cn
 .hhocpbwbjlywm.website
+.hhounvkxcdj.com
 .hhowyijfffxry.online
 .hhppzkhurf.com
 .hhpqddtmkuxhd.website
@@ -41115,11 +41232,13 @@ v6-data.video.dns.iqiyi.com
 .poke.hhslbz.cn
 .hhthgsgnlrwii.website
 .hhtteocvkxvph.online
+.hhbs.hhu.edu.cn
 .hhuobnajd.com
 .hhvip86.com
 .hhvip87.com
 .hhxmnowrch.com
 .hhxqadbgokgtb.online
+.hhyotlta.in
 .hhztfzqnmduga.space
 .a8cv.hi-tailor.jp
 .sdd.hi1718.com
@@ -41351,6 +41470,7 @@ v6-data.video.dns.iqiyi.com
 .mobile.hippovideo.io
 .hiprofitnetworks.com
 .hiqidi.com
+.hiqjgqdjkv.com
 .hira-meki.jp
 .ebis-tracking.hirakata-skin-clinic.com
 .hirebaning.shop
@@ -41437,7 +41557,6 @@ v6-data.video.dns.iqiyi.com
 .hitslog.com
 .hitsniffer.com
 .hitsprocessor.com
-.hitstation.nl
 .hitstatus.com
 .hitsteps.com
 .hittail.com
@@ -41478,6 +41597,7 @@ v6-data.video.dns.iqiyi.com
 .hjfvmjuulsdca.com
 .hjgen.cn
 .lhevhb.hjgreek.com
+.hjhtjzugjsizr.com
 .hjidtzxvgybjp.site
 .e.hjiec.com
 .m.hjiec.com
@@ -41623,6 +41743,7 @@ v6-data.video.dns.iqiyi.com
 .hmbcfccmdpcmg.space
 .hmbvkkjirtya.com
 .adbsmetrics.ep.hmc.co.kr
+.hmcaiadwwt.com
 .hmcvs.cn
 .hmd3jvhrf.com
 .hmdhufaictwl.com
@@ -42072,6 +42193,7 @@ v6-data.video.dns.iqiyi.com
 .iabdly.hoselink.com.au
 .hosierypressed.com
 .hosierysibling.com
+.paradisoprovisor1.hospedagemdesites.ws
 .hospicaladapto.org
 .marketing.hospicecarelc.org
 .hospitable-effort.pro
@@ -42247,6 +42369,7 @@ v6-data.video.dns.iqiyi.com
 .howoqifakuugl.online
 .howsmyssl.com
 .howsourmoolah.com
+.cdp.howtotrade.com
 .howwtmrkhjzfb.website
 .adbmetrics.hoy.es
 .sadbmetrics.hoy.es
@@ -42315,6 +42438,7 @@ v6-data.video.dns.iqiyi.com
 .hprhotukqlaqqj.com
 .hprofits.com
 .hpryvlxqtsgpx.site
+.hpsbpqwawzpwf.space
 .hpvcoherwswzr.website
 .hpvcrluqolote.website
 .hpvxitrqimcxn.space
@@ -42489,6 +42613,7 @@ v6-data.video.dns.iqiyi.com
 .htcgcwfh.xyz
 .htcwyzu.bar
 .htdvt.com
+.hteisres.com
 .hteniplvbxeqt.space
 .hteznqyhsgahw.site
 .4au.htf16a.cn
@@ -42520,6 +42645,7 @@ v6-data.video.dns.iqiyi.com
 .htnote.info
 .htnswmuugnjpr.club
 .htnykujbhbmeu.site
+.htofkaag.in
 .stats.htp.org
 .htplayground.com
 .htsfxxvmeqmho.online
@@ -42619,7 +42745,6 @@ v6-data.video.dns.iqiyi.com
 .obrqts.hudforeclosed.com
 .hudmmxrbwnbwl.fun
 .ll.hudong.com
-.download2.huduntech.com
 .hue11.com
 .hue2b.com
 .hueadsxml.com
@@ -42872,11 +42997,13 @@ v6-data.video.dns.iqiyi.com
 .huzhanbin.cn
 .huzytgmqsnecd.website
 .huzzahwhatintently.com
+.hvbhpvsmewduj.site
 .marketing.hvcb.org
 .hvcjbpkakkeng.site
 .hvdzdrovccwom.site
 .hvefnbufkpxou.website
 .hvert.site
+.hvfaoamqptecc.site
 .hvfbadvwihklc.com
 .hvfojfzh.com
 .hvgcfx1.com
@@ -42905,7 +43032,6 @@ v6-data.video.dns.iqiyi.com
 .hvywllhiwgbjj.icu
 .hwbyspodhwjsf.online
 .hwcnmtu.top
-.hwgeneralins.com
 .tikn.hwgs.info
 .hwinlebxdqwnh.site
 .hwithyouryrety.org
@@ -42918,6 +43044,7 @@ v6-data.video.dns.iqiyi.com
 .hwpnocpctu.com
 .hwpub.com
 .hwpvhilkuth.com
+.hwrzdbokzdttry.com
 .hws.ru
 .hwsyicaxuuwyl.online
 .hwtryxoyqoskua.com
@@ -42927,6 +43054,7 @@ v6-data.video.dns.iqiyi.com
 .hwujqjhgsmrvg.space
 .hwuqyjgmgptkd.website
 .hwwjovvnkuqytg.com
+.trackingprd.hwwt8.com
 .hwyunboggy.com
 .hwzuwlghfqizh.space
 .hwzuyzwmmnsrgq.com
@@ -43177,6 +43305,7 @@ v6-data.video.dns.iqiyi.com
 .i9i3ko2o70.com
 .ia-dmp.com
 .iaacknkvbidsc.site
+.iaaknduymzxew.online
 .iabchina.cn
 .link.iabmexico.com.mx
 .iacasjezogonf.online
@@ -43435,6 +43564,7 @@ v6-data.video.dns.iqiyi.com
 .ibpxl.com
 .ibpxl.net
 .ibqh.cn
+.ibqwdlokvqolv.website
 .ibrapush.com
 .sensors.ibreader.com
 .busuanzi.ibruce.info
@@ -43679,6 +43809,7 @@ v6-data.video.dns.iqiyi.com
 .connect.idocdn.com
 .tracker.idocdn.com
 .idolbucks.com
+.idolifysaluter.com
 .idolinflectiongentlemen.com
 .idolized-treat.pro
 .idolizedestimate.pro
@@ -43760,6 +43891,7 @@ v6-data.video.dns.iqiyi.com
 .iergajfaavnimv.com
 .site.comunicaciones.iesa.es
 .igxqyi.iese.edu
+.ieslkslqljjrtq.com
 .iesnare.com
 .iesrqaqicrkxk.website
 .ietheivaicai.com
@@ -44028,6 +44160,7 @@ v6-data.video.dns.iqiyi.com
 .info.iihnordic.dk
 .iiiqdhbkppkxw.space
 .metrics.iij.ad.jp
+.iijblidfqesev.site
 .iijwomwwwfhrz.online
 .a8cv.iikyujin.net
 .smetrics.iilg.com
@@ -44055,6 +44188,7 @@ v6-data.video.dns.iqiyi.com
 .iizvfsqtjgqgz.online
 .ijaicjeojzjpr.site
 .ijbaawqolrhpd.site
+.ijbfi.pk
 .ijdbmjqwzrcdw.website
 .ijfilqxkgrchg.space
 .ijgqiqnlhwjch.fun
@@ -44243,6 +44377,7 @@ v6-data.video.dns.iqiyi.com
 .ilyrxghb.com
 .ilzualntjfjjd.online
 .im-apps.net
+.im0st6rwn.com
 .connect.im8.net
 .learn.image-iq.com
 .imageadvantage.net
@@ -44283,6 +44418,7 @@ v6-data.video.dns.iqiyi.com
 .l.imax.com
 .imbet.site
 .imbfsidnchope.site
+.imbfwmjahzocf.website
 .imblysxzsmwmk.website
 .imbueprescriptionhumiliation.com
 .links.imcas.com
@@ -44635,6 +44771,7 @@ v6-data.video.dns.iqiyi.com
 .marketing.incrediwear.com
 .increstprayful.shop
 .incubation95.top
+.inculkethine.shop
 .incurabledevote.com
 .incurableemptiness.com
 .incusesburelly.shop
@@ -45152,6 +45289,7 @@ v6-data.video.dns.iqiyi.com
 .insenz.com
 .insertillegimateillegimatepack.com
 .insertup.top
+.inshiptalky.shop
 .inside-graph.com
 .insideall.com
 .saa.insideedition.com
@@ -45930,6 +46068,7 @@ v6-data.video.dns.iqiyi.com
 .ipfingerprint.com
 .ipfovwmuaxcfw.site
 .ipfrom.com
+.ipgnnofsqflxr.com
 .ipgp.net
 .ipgtxicw.com
 .iphdncqthqwll.website
@@ -46065,6 +46204,7 @@ v6-data.video.dns.iqiyi.com
 .iqyhvzvpshtva.online
 .iqzone.com
 .trk.ir-now.com
+.ir3f1x3aet.com
 .mri.iradimed.com
 .analytics.iraiser.eu
 .monitoring.iraiser.eu
@@ -46303,6 +46443,7 @@ v6-data.video.dns.iqiyi.com
 .iswhatappyouneed.net
 .iswjgipdqfqpc.site
 .isypmogfhabmp.space
+.isyvamyud.com
 .iszbchgvidvhw.space
 .iszrrgjxekmas.website
 .isztpjhceyoir.site
@@ -46315,7 +46456,6 @@ v6-data.video.dns.iqiyi.com
 .it3c4jmx.xyz
 .it5.cc
 .it760.com
-.ita-airwaysva.com
 .oqidne.itaka.pl
 .data.newsletter.italia.it
 .italianadirectory.com
@@ -46520,6 +46660,7 @@ v6-data.video.dns.iqiyi.com
 .ivdtruneda.com
 .eqingl.ivet.bg
 .ivfjjyytna.com
+.ivgjrrglanxwa.site
 .ivgkdijwawpli.space
 .ivhv.cn
 .track.ivia.com
@@ -46721,6 +46862,7 @@ v6-data.video.dns.iqiyi.com
 .izitrckr.com
 .izjvndjendqdv.website
 .izjzyykiyn.club
+.izkgl35mq.com
 .ehrlgb.izlato.sk
 .izocab.com
 .izoga.xyz
@@ -47000,13 +47142,13 @@ v6-data.video.dns.iqiyi.com
 .creative.live.javmix.tv
 .marketing.javs.com
 .static.javxxx.me
-.jawaratekno.com
 .aaaa.jawfp2.org
 .jawigcqrumbez.space
 .jawqgjbvrceel.website
 .link.jawwy.tv
 .watch.jawwy.tv
 .jawyabhdlbtub.space
+.jaxzqxenahdby.online
 .jayantwhaling.shop
 .cksfgh.jaycar.com.au
 .jayiohuapovjy.website
@@ -47107,6 +47249,7 @@ v6-data.video.dns.iqiyi.com
 .fire.solutions.jci.com
 .hvac.solutions.jci.com
 .a8clk.asp.jcity.co.jp
+.jcmmzxeoklqrx.website
 .jcnqpuregmpkqy.com
 .a8cv.jcom.co.jp
 .jconceoormurg.online
@@ -47319,6 +47462,7 @@ v6-data.video.dns.iqiyi.com
 .jesjes.xyz
 .jespekvtcgfuu.website
 .jessamyclink.com
+.jessedelves.shop
 .jessurcleamer.shop
 .jestbiases.com
 .jestcompelledcalligraphy.com
@@ -47565,6 +47709,7 @@ v6-data.video.dns.iqiyi.com
 .jikklfexh.com
 .jiknptxbvyvwz.online
 .jilar.xyz
+.jiletin.xyz
 .app.jili178.us
 .oxo.jilinfurong.com
 .z1.jilinxinfukeji.com
@@ -47585,7 +47730,6 @@ v6-data.video.dns.iqiyi.com
 .acxajt.jimmykey.com
 .jimpydecamp.shop
 .smetrics.jimwilsonchevrolet.com
-.jin.com.my
 .jinair.nsc.jinair.com
 .jinair.sc.jinair.com
 .bd1.jinbaozy.com
@@ -47731,6 +47875,7 @@ v6-data.video.dns.iqiyi.com
 .jkbewmebyqjyl.top
 .jkbewmebyqkoq.top
 .jkc0idkv.xyz
+.jkcoydrnywyjg.space
 .jkdbimhyvddvu.space
 .jkeitifzyuxde.online
 .e.jkert.com
@@ -47790,6 +47935,7 @@ v6-data.video.dns.iqiyi.com
 .link.augmentedreality.jlg.com
 .link.clearsky.jlg.com
 .link.staging.clearsky.jlg.com
+.jlgzhmabuztwy.site
 .jlhkumsptbwuz.site
 .jlhmxduyftkae.site
 .jlhoefzaqqbsz.online
@@ -47900,6 +48046,7 @@ v6-data.video.dns.iqiyi.com
 .jmebwpbpvofcx.online
 .jmgehn.cn
 .jmhbjiyeren.com
+.jmipmxwkol.com
 .jmizpltlwsbtg.space
 .jmjcelafgzslq.online
 .jmjslz.icu
@@ -47988,6 +48135,7 @@ v6-data.video.dns.iqiyi.com
 .share.jobeo.net
 .jobestzipolike.org
 .eylnhf.jobhouse.jp
+.jobhunters.ly
 .joblessdrum.com
 .adebis-cname.jobmall.jp
 .jobmist.com
@@ -48197,6 +48345,7 @@ v6-data.video.dns.iqiyi.com
 .jovial-fortune.com
 .jovialcadence.com
 .jovialdeposit.pro
+.jovrjhgvgqvvl.online
 .apptest.jow.fr
 .jowlishdiviner.com
 .jowqcaxfctoob.online
@@ -48364,6 +48513,7 @@ v6-data.video.dns.iqiyi.com
 .jrkjdhkajfrzu.online
 .sp.jrklein.com
 .jrkveqlzvpcmd.space
+.jrleqmiyryrlf.online
 .jrmmekdihiivp.site
 .jrnefbrogdppa.online
 .jrnjcrgmiyzty.website
@@ -48474,6 +48624,7 @@ v6-data.video.dns.iqiyi.com
 .online.jtiadvance.co.uk
 .jtijneiumjttd.space
 .jtinbgeyzmcjd.online
+.jtisruvgvvcen.website
 .jtjsmp.top
 .jtmpeodv.com
 .jtoowfdiszpo.in
@@ -48515,6 +48666,7 @@ v6-data.video.dns.iqiyi.com
 .jubilantvista.com
 .jubilantwhisper.com
 .jubileebread.com
+.jubilenovelle.shop
 .jubna.com
 .jubnaadserve.com
 .jubnvmtaztqpa.website
@@ -48553,6 +48705,7 @@ v6-data.video.dns.iqiyi.com
 .jugurslrrneem.space
 .jugxyetqskkgg.com
 .juhuisuan.com
+.juhwzfwrwspkm.website
 .juiceadv.com
 .juicebard.com
 .juiceblocks.com
@@ -48579,6 +48732,7 @@ v6-data.video.dns.iqiyi.com
 .adebis.juku.st
 .adebis02.juku.st
 .mjwnxc.julbie.com
+.julbrmxevumkc.online
 .bkpoef.jules.com
 .garvum.julesb.co.uk
 .hmlvxk.julian-fashion.com
@@ -48740,6 +48894,7 @@ v6-data.video.dns.iqiyi.com
 .qr.juuice.com
 .juujwyautyjjstq.com
 .juvenile-vacation.pro
+.juvenileblank.com
 .juvenilecalendar.com
 .juvenilesoftlysoda.com
 .juveniletennis.com
@@ -48797,6 +48952,7 @@ v6-data.video.dns.iqiyi.com
 .jwf8lxo7b.com
 .jwfaregtarvql.space
 .jwfavmnbogdrf.site
+.jwfdheuw.com
 .jwg365.cn
 .jwgjcdqxtlrem.space
 .img.jwgro.com
@@ -48820,6 +48976,7 @@ v6-data.video.dns.iqiyi.com
 .jwuikmwpwrvae.site
 .jwumqxedgchuo.site
 .jwusqtbmvwiow.space
+.jwuvgefatybvbnv.com
 .jwxlupfcsmlkb.online
 .jwxmbvcnjlyto.website
 .jwyqeonarrrit.website
@@ -48835,6 +48992,7 @@ v6-data.video.dns.iqiyi.com
 .jxdown.com
 .jxdyk65ay.com
 .in.jxhcyc.com
+.jxhdcxvzodjui.site
 .jxhytrgxvybqb.online
 .jxiiwldewtdql.online
 .erny.jxinyue.top
@@ -49172,6 +49330,7 @@ v6-data.video.dns.iqiyi.com
 .smetrics.kao.com
 .smetrics.kaobeautybrands.com
 .download.kaobeitu.com
+.kaolineunheler.shop
 .kaolinoleous.com
 .adebis.kaonavi.jp
 .kaougnoklpzjb.space
@@ -49384,6 +49543,7 @@ v6-data.video.dns.iqiyi.com
 .kcoktkhntiubu.online
 .kcolbda.com
 .m.kcooy.com
+.kcpjcysrevmljns.com
 .kcqbrwygxixdh.site
 .kcqstn35as.com
 .kcrojyldwmhig.site
@@ -49671,6 +49831,7 @@ v6-data.video.dns.iqiyi.com
 .kffnjkvxbhyzl.vip
 .qpielh.kfhi.or.kr
 .jsnywl.kfi8.com
+.kfiputncoca.in
 .kfjbitxzlhijfcenxejc.top
 .kfjhd.com
 .kfjwapsftuxtw.online
@@ -49755,7 +49916,6 @@ v6-data.video.dns.iqiyi.com
 .metric.khkgears.us
 .khki.cn
 .khlhqwlnesbbm.space
-.khoancatbetong89.vn
 .khoangsp.in
 .khocclzjcykbk.site
 .axp.khon2.com
@@ -50609,6 +50769,7 @@ v6-data.video.dns.iqiyi.com
 .kpvlhacvplbci.site
 .kpwvntvpoksyw.website
 .bundle.kpzip.com
+.d.kpzip.com
 .mininews.kpzip.com
 .kq6mv8mpvs4m10r449nms6.xyz
 .kqauptdrdiyyp.space
@@ -50639,6 +50800,7 @@ v6-data.video.dns.iqiyi.com
 .tracking-live.kr3m.com
 .kra18.com
 .kraaloomiacs.com
+.kraamqdkecu.in
 .swebanalytics.krak.dk
 .fdt.kraken.com
 .krakenoptimize.com
@@ -50972,6 +51134,7 @@ v6-data.video.dns.iqiyi.com
 .a8.kateikyoushi.kuraveil.jp
 .a8.kekkon.kuraveil.jp
 .a8.ryugaku.kuraveil.jp
+.kurcyslwlfahi.online
 .kureedsnbcuuj.space
 .clnbze.kurierlubelski.pl
 .utiq.kurierverlag.de
@@ -51052,6 +51215,7 @@ v6-data.video.dns.iqiyi.com
 .kvzscvzk0t.com
 .kvzvieyakmhfn.site
 .kvzzuamjopqgu.space
+.kw0xlh4wig.com
 .kw17vswzu.com
 .kw3y5otoeuniv7e9rsi.com
 .kw7addjwr.com
@@ -51184,6 +51348,7 @@ v6-data.video.dns.iqiyi.com
 .kzagvdulumvgl.site
 .kzdlxsnbeeugv.space
 .kzffucdjbxdfh.online
+.kzfizkehwlsmg.online
 .kzfslblsahnou.life
 .kzgnyjsqawhbw.website
 .kzgwhioswkztt.one
@@ -51201,6 +51366,7 @@ v6-data.video.dns.iqiyi.com
 .kzslzfuvnrmxz.online
 .kzt2afc1rp52.com
 .kzuqpscnidssd.website
+.kzusrjeadgpry.space
 .kzvfolheruocg.space
 .e.kzwsh.cn
 .kzxnxwznjezmq.website
@@ -51225,6 +51391,7 @@ v6-data.video.dns.iqiyi.com
 .ad.l2b.co.za
 .l2fmm7sp.xyz
 .l2qdfaq62o.com
+.l3j3glzp6g.com
 .l4otxc.com
 .l520.ltd
 .l5pzbzfnjm.com
@@ -51438,6 +51605,7 @@ v6-data.video.dns.iqiyi.com
 .owpysc.lampenundleuchten.at
 .orlqtz.lampenwelt.ch
 .ajigzt.lampenwelt.de
+.lampingvision.shop
 .lamplow.com
 .lamplynx.com
 .vzynem.lamporochljus.se
@@ -51484,7 +51652,6 @@ v6-data.video.dns.iqiyi.com
 .smetrics.landolakesfoodservice.com
 .metrics.landolakesinc.com
 .smetrics.landolakesinc.com
-.landonirwin.com
 .smetrics.landrover.com
 .ip2c.landscape.co.jp
 .landscapestoleabbey.com
@@ -51519,6 +51686,7 @@ v6-data.video.dns.iqiyi.com
 .brc.languageclass.cc
 .languishbrook.com
 .languishcharmingwidely.com
+.languishmonthly.com
 .languishrubbish.com
 .lanistaconcepts.com
 .lankswingconcerning.com
@@ -51660,6 +51828,7 @@ v6-data.video.dns.iqiyi.com
 .boelsl.lastijerasmagicas.com
 .lasting-middle.pro
 .lasting-poetry.pro
+.lastingdiketo.com
 .lastingillipe.com
 .lastingquiver.com
 .lastlyseaweedgoose.com
@@ -51891,6 +52060,7 @@ v6-data.video.dns.iqiyi.com
 .lcwfabt1.com
 .lcwfabt2.com
 .lcwfabt3.com
+.lcwxpgrm.com
 .lcyt.info
 .lczcvvcxgmqdl.website
 .lczk.cn
@@ -52116,6 +52286,7 @@ v6-data.video.dns.iqiyi.com
 .marketing.ledgeviewpartners.com
 .ledhenone.com
 .ledian.pro
+.ledlpcotdwpub.website
 .ledradn.com
 .lee789.com
 .go.leecompany.com
@@ -52161,6 +52332,7 @@ v6-data.video.dns.iqiyi.com
 .metrics.leggmason.com
 .secmetrics.leggmason.com
 .joda.leggo.it
+.leggyenglishdemonstration.com
 .leggyindolent.com
 .leggyintimidatebullying.com
 .leggymomme.top
@@ -52492,6 +52664,7 @@ v6-data.video.dns.iqiyi.com
 .lfarewesbeginn.com
 .lfasterbiscusyse.org
 .lfaxbqqa.com
+.lfbpvvmombyl.com
 .lfbupf.icu
 .lfcnxhdzwwyka.space
 .lfcplotcfjqea.online
@@ -52654,6 +52827,7 @@ v6-data.video.dns.iqiyi.com
 .ablink.marketing.li.me
 .ablink.rider.li.me
 .cv.liability.jp
+.liability48.top
 .liabilitypillar.com
 .liablematches.com
 .liableyardcripple.com
@@ -52809,6 +52983,7 @@ v6-data.video.dns.iqiyi.com
 .liftopbdklkxg.space
 .a8affiliate.liftup-turban.net
 .ssh.lifu11.com
+.ligature73.top
 .ligatus.com
 .ligcspstbrvgf.online
 .liggewaeful.com
@@ -53236,6 +53411,7 @@ v6-data.video.dns.iqiyi.com
 .lizebruisiaculture.com
 .mkadsearch.lizhifm.com
 .aoooccc.lizhuizhui.cn
+.lizothazxh.in
 .lj0hx1sboy.com
 .o.lj7t6e.cn
 .ljbiynvyhfteq.rocks
@@ -53436,6 +53612,7 @@ v6-data.video.dns.iqiyi.com
 .lmn-pou-win.com
 .lmngvqqskhppa.online
 .stats.lmofficial.to
+.lmohdmblhyek.com
 .lmrljuiymdtry.space
 .lmrwupcucuprv.site
 .cookies.lmt.lv
@@ -53583,6 +53760,7 @@ v6-data.video.dns.iqiyi.com
 .locooler-ageneral.com
 .go.locosonic.com
 .locotrack.net
+.locriangiving.shop
 .azwucq.locservice.fr
 .loculerookish.com
 .mobile.locumprime.co.uk
@@ -53689,6 +53867,7 @@ v6-data.video.dns.iqiyi.com
 .tr.newsletter.lokeo.fr
 .lokglfvlixcei.online
 .loki8lave.com
+.lokilearier.shop
 .lokimaki.com
 .loktrk.com
 .lokuai.com
@@ -53988,6 +54167,7 @@ v6-data.video.dns.iqiyi.com
 .lptrak.com
 .lptrck.com
 .lpuqhego.com
+.lpwqggige.com
 .lpwtbsfgamivm.space
 .lpyozzbavpfi.in
 .lpyyzoetztnmv.one
@@ -54080,6 +54260,7 @@ v6-data.video.dns.iqiyi.com
 .lsefpqchaizsv.site
 .solutions.lseg.com
 .tracking.lseg.com
+.lseqmdjfm.com
 .lsfinteractive.com
 .ny.lshdw.cc
 .a1.lshou.com
@@ -54226,6 +54407,7 @@ v6-data.video.dns.iqiyi.com
 .ads-collector.luizalabs.com
 .luizmatoso.com.br
 .luizsycwgzmkg.website
+.lujtncrtupnq.com
 .go.lukat.me
 .lukeinoffensive.com
 .lukfagmuxbud.in
@@ -54329,6 +54511,7 @@ v6-data.video.dns.iqiyi.com
 .luntanx18.info
 .lunulaehornist.com
 .lunwasmihdepi.space
+.lunygdgezgtnh.site
 .luodiye01.cn
 .luolikong.net
 .luolitang.com
@@ -55122,6 +55305,7 @@ v6-data.video.dns.iqiyi.com
 .maithigloab.net
 .maiwbisqgsdzn.website
 .sfd.maizhenai.cn
+.majaguadatedly.shop
 .ubdjfy.maje.com
 .go.majelan.com
 .open.majelan.com
@@ -55161,6 +55345,7 @@ v6-data.video.dns.iqiyi.com
 .makethebusiness.com
 .makeup89.com
 .makeuppillow.com
+.makgnxce.com
 .making.party
 .stats.makingknown.xyz
 .brhwsg.makingnew.co.kr
@@ -55251,6 +55436,7 @@ v6-data.video.dns.iqiyi.com
 .urerucname.manara.jp
 .manateeacyloin.com
 .marketing.manchesterspecialty.com
+.manconojing.shop
 .manconsider.com
 .zdbbqb.mancrates.com
 .smetrics.mandai.com
@@ -55683,6 +55869,7 @@ v6-data.video.dns.iqiyi.com
 .masterworks.digital
 .stats.masterybits.com
 .mastinstungmoreal.com
+.mastprefixhandkerchief.com
 .matapialulet.shop
 .matcaogeujmco.website
 .match2one.net
@@ -55944,6 +56131,7 @@ v6-data.video.dns.iqiyi.com
 .jb.mbaidu.top
 .m.mbaik.com
 .mbaobao.com
+.mbavrunwljhyz.space
 .a8cv.mbb-inc.com
 .mbchpvbeujokh.online
 .mbcm2.com
@@ -55965,6 +56153,7 @@ v6-data.video.dns.iqiyi.com
 .mbjaob.cn
 .mbjjulevioisd.online
 .mbjrkm2.com
+.mbkvzuwnymnnu.site
 .mbljpu9.com
 .mbltzqounmuzh.space
 .mblyjustingex.org
@@ -56037,6 +56226,7 @@ v6-data.video.dns.iqiyi.com
 .info.mccloudservices.com
 .franchising.mcdonalds.ca
 .smetrics.mcdonalds.com
+.tracking.mcdonalds.com.cn
 .smetrics.mcdpromotion.ca
 .mcfstats.com
 .tr.info.mcgarrybowen.com
@@ -56097,6 +56287,7 @@ v6-data.video.dns.iqiyi.com
 .mcwtjxxpphqrs.online
 .mcxuorwlaqtyd.site
 .mcyaabdssxdlg.space
+.mcyigpyyapjrn.website
 .mcymghkpdhqmk.website
 .mcytxdrqjmrly.fun
 .mczbf.com
@@ -56112,6 +56303,7 @@ v6-data.video.dns.iqiyi.com
 .tr.info.mdbp.fr
 .tr.mail.mdbp.fr
 .tr.news.mdbp.fr
+.mdbsmkponfsof.site
 .mdcebngiogqlm.space
 .mdcmwrxomkirb.space
 .mdd18ho6.xyz
@@ -57247,6 +57439,7 @@ v6-data.video.dns.iqiyi.com
 .analytics.midas.tc
 .p.midbound.click
 .p.midbound.net
+.midcapodaiyl.com
 .middaycataract.com
 .middaymishapnotice.com
 .middayopened.com
@@ -57596,7 +57789,7 @@ v6-data.video.dns.iqiyi.com
 .marketing.miraflats.com
 .ebis-cname.mirai-japan.co.jp
 .a8cv.sell.miraias.co.jp
-.mirakl.net
+.target2sell.mirakl.net
 .marketing.miramarcap.com
 .as.mirapodo.de
 .te.mirapodo.de
@@ -57711,6 +57904,7 @@ v6-data.video.dns.iqiyi.com
 .mitour.de
 .mitrafoxtail.shop
 .mitratemanors.com
+.mitreart.com
 .smetrics.mitrelinen.co.uk
 .b.mitrust.com
 .mitself.net
@@ -57842,6 +58036,7 @@ v6-data.video.dns.iqiyi.com
 .mkfjbitxzlhijfcenxej.top
 .mkgbfykqrmwti.site
 .mkgdttyedxdjx.space
+.mkguynd.com
 .mkheimtslhtge.online
 .mkhoj.com
 .mkingffpvupjd.space
@@ -57921,6 +58116,7 @@ v6-data.video.dns.iqiyi.com
 .mlnkndrxf.com
 .mlno6.com
 .marketing.mlnrp.com
+.mloroqqozjywt.website
 .mlougq.icu
 .mlqcixbbgdwij.online
 .mlrhqstznhemx.site
@@ -58278,6 +58474,7 @@ v6-data.video.dns.iqiyi.com
 .mohekxetvpnjm.website
 .mohurnoose.com
 .moiernonpaid.com
+.moimczcuqzkxc.website
 .utiq.moin.de
 .moist-iron.pro
 .moist-mood.pro
@@ -58669,6 +58866,7 @@ v6-data.video.dns.iqiyi.com
 .smetrics.mosquitojoe.com
 .mosrtaek.net
 .mossdrawing.com
+.mosselnet.co.za
 .marketing.mossinc.com
 .mosspf.com
 .lnk.most-days.com
@@ -59453,6 +59651,7 @@ v6-data.video.dns.iqiyi.com
 .muskiesmawkin.com
 .s.muskokaregion.com
 .link.muso.ai
+.musoparhnhgye.space
 .musselmerchant.com
 .mussukensuite.shop
 .musthird.com
@@ -59880,14 +60079,18 @@ v6-data.video.dns.iqiyi.com
 .adstore-1252524079.file.myqcloud.com
 .adstore-index-1252524079.file.myqcloud.com
 .ggtp-1255424916.cos.ap-chengdu.myqcloud.com
+.bj5y6-0f-9h4-9fgg4-1324992141.cos.ap-bangkok.myqcloud.com
 .cdn-10049480.file.myqcloud.com
 .cndjs-1251973891.coshk.myqcloud.com
+.f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com
+.j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com
 .leindisncieamrocea-1341831283.cos.sa-saopaulo.myqcloud.com
 .mibook-10006092.cos.myqcloud.com
 .moren-1252794300.file.myqcloud.com
 .redpaper-10006092.cos.myqcloud.com
 .vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com
 .www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com
+.www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com
 .xiaoma-10021647.file.myqcloud.com
 .myqcvnavmpqes.site
 .myqnzashvgfnr.space
@@ -60334,6 +60537,7 @@ v6-data.video.dns.iqiyi.com
 .w88.natgeo.pt
 .sw88.natgeotv.com
 .w88.natgeotv.com
+.dl.natgo.cn
 .nathetsof.com
 .nathnhfjtdlum.space
 .marketing.natilik.com
@@ -60817,6 +61021,7 @@ v6-data.video.dns.iqiyi.com
 .dl.nekropol-khv.ru
 .geoip.nekudo.com
 .neladyhe.com
+.nelees.com
 .nelhon.com
 .nelioabtesting.com
 .cv.nell.life
@@ -61590,6 +61795,7 @@ v6-data.video.dns.iqiyi.com
 .nhsvzsdvbsfzw.space
 .nhtosawxpqjxu.site
 .nhttqyswvqgpk.rocks
+.nhuk707eex.com
 .nhuzushu.in
 .nhvttxjdauxir.xyz
 .nhwlkqoodhlar.online
@@ -62048,6 +62254,7 @@ v6-data.video.dns.iqiyi.com
 .nlewifpowjg.com
 .nleyzyobcxyda.website
 .nlezowlzrllro.site
+.nlgdpqrjcxh.com
 .nlhdswomqdoux.site
 .nlhotovgeuglc.site
 .nlhsmlnnnhgpv.online
@@ -62121,6 +62328,7 @@ v6-data.video.dns.iqiyi.com
 .m.nmtouzi.com
 .nmunljgekpsrj.site
 .nmvjlztddvfdv.website
+.nmvxcxextmwrkg.com
 .nmvxuqpeuhrgw.site
 .nmwjlaywnozwj.vip
 .nmyfedath.com
@@ -62351,6 +62559,7 @@ v6-data.video.dns.iqiyi.com
 .norm0care.com
 .normalballet.com
 .normallydemandedalter.com
+.normalphysics.com
 .normalround.com
 .info.norman-spencer.com
 .info.normecfoodcare.com
@@ -62519,6 +62728,7 @@ v6-data.video.dns.iqiyi.com
 .wttbup.novasol.de
 .iesbpm.novasol.dk
 .marketing.novatel.com
+.elisans.novayonetim.com
 .novel-bread.pro
 .novel-cross.pro
 .novel-inevitable.com
@@ -62666,6 +62876,7 @@ v6-data.video.dns.iqiyi.com
 .npvgghqmsehdq.club
 .npvos.com
 .npvqolcucthor.website
+.npwzfikqwhxif.site
 .npxktquwswtak.site
 .npyaryvluaegi.website
 .npzahkooxkyps.website
@@ -62694,8 +62905,10 @@ v6-data.video.dns.iqiyi.com
 .nqrlkmicjyfzi.rocks
 .nqrmfxfrclxyx.space
 .nqrmulefubdjw.website
+.nqrpjkvhrcttt.space
 .nqsizzyicehpm.one
 .nqslmtuswqdz.com
+.nqsxryhqhc.com
 .nqtmdwxjkutyf.website
 .nqujxpsgreztv.online
 .nquobnyqmfu.com
@@ -62745,6 +62958,7 @@ v6-data.video.dns.iqiyi.com
 .forms.nrs-inc.com
 .secureforms.nrs-inc.com
 .nrs6ffl9w.com
+.nrtshmxbrnn.com
 .nrwxvgpgjwbvk.site
 .nrxmbbhpevxji.site
 .nryfifdmpeotb.site
@@ -62792,6 +63006,7 @@ v6-data.video.dns.iqiyi.com
 .nsmvnqzvdrvcj.website
 .nsoavecfjhaxf.website
 .nsodgnrdddcar.space
+.nsphksbemp.com
 .nspmotion.com
 .nspot.co
 .nsqjtjjnnhhko.site
@@ -62903,6 +63118,7 @@ v6-data.video.dns.iqiyi.com
 .click.nudevista.com
 .nudgeduck.com
 .nudgesplityowza.com
+.nudieintice.com
 .smetrics.nuedexta.com
 .smetrics.nuedextahcp.com
 .trk.nuernberger.com
@@ -62985,6 +63201,7 @@ v6-data.video.dns.iqiyi.com
 .app.nusports.com
 .t.nusports.com
 .nusxvpootryrz.site
+.nuszwyma.in
 .nutatedtriol.com
 .nutateshazanim.com
 .nutchaungong.com
@@ -63057,6 +63274,7 @@ v6-data.video.dns.iqiyi.com
 .nvshenfan.com
 .nvsucjifrawbf.online
 .nvsvlphrynhoq.website
+.nvswlhkcacwvn.online
 .info.nvtc.org
 .nvwlm.com
 .nvwmvpmsaiuer.space
@@ -63292,6 +63510,8 @@ v6-data.video.dns.iqiyi.com
 .abmeldung.information.o2.de
 .data.erfahrung.o2.de
 .data.information.o2.de
+.o24o.ru
+.o28wg9kq8i.com
 .info.o2business.de
 .o2c7dks4.de
 .sstats.o2extravyhody.cz
@@ -63587,6 +63807,7 @@ v6-data.video.dns.iqiyi.com
 .smetrics.ocrelizumabinfo.com
 .metrics.ocrevus.com
 .smetrics.ocrevus.com
+.ocrfutxin.in
 .tr.news.ocs.fr
 .ocsdkiwkrndeo.site
 .oct8ne.com
@@ -63623,6 +63844,7 @@ v6-data.video.dns.iqiyi.com
 .tr.pro.odalys-vacances.com
 .tr.welcome.odalys-vacances.com
 .ea.odalys-vacation-rental.com
+.odayclqzvlgvw.website
 .odbsmbtdcjuzp.site
 .odchkdybnsxre.space
 .odcxmavf.in
@@ -63849,12 +64071,14 @@ v6-data.video.dns.iqiyi.com
 .ofnsv69.com
 .ofoltekbn.com
 .ofpodconnmtyd.space
+.ofpohhcaxtu.in
 .ofppahlkiz.com
 .ofpsacvhlkltsj.com
 .ofptzgmiiyeod.website
 .ofqlvcujykanc.site
 .ofrkpiuxqhwq.xyz
 .photo.ofsja.cn
+.ofsorpwpvdym.com
 .t.ofsys.com
 .oftheownouncillo.com
 .ofwq.cn
@@ -63867,6 +64091,7 @@ v6-data.video.dns.iqiyi.com
 .ogammugwump.com
 .ogbt4k.site
 .ogbxutcuujpev.site
+.ogcfcnwrveqrs.com
 .ogcfrmnuj.com
 .ogdauedbftzmt.online
 .ogdbgitofqmxv.space
@@ -63879,7 +64104,9 @@ v6-data.video.dns.iqiyi.com
 .ogfjibazwmi.in
 .ogfna.net
 .ogfvadunon.com
+.ogfxrbhcnvspnk.com
 .ogfzvuiyluosf.online
+.oghfgyoqzguvq.space
 .oghqvffmnt.com
 .oghub.io
 .ogicatius.com
@@ -63925,6 +64152,7 @@ v6-data.video.dns.iqiyi.com
 .ohbognmxxssou.space
 .ohbtludnmaaqd.online
 .ohbxjiwpjzewd.online
+.ohcbrnxocudiu.online
 .ohcifxucd.com
 .ohdaqtkuvnt.in
 .ohdbwbwxrlgsd.site
@@ -64101,7 +64329,6 @@ v6-data.video.dns.iqiyi.com
 .okmgy.cn
 .webt.store.okmilo.com
 .okn57l1h.top
-.oknoplastik.sk
 .oko.net
 .okokw.com
 .okoloss.com
@@ -64466,6 +64693,7 @@ v6-data.video.dns.iqiyi.com
 .onemboaran.com
 .a8clk.onemile.jp
 .onemob.mobi
+.onenessmeeker.shop
 .oneotheacon.cc
 .stats.onepagelove.com
 .tipstats.onepagelove.com
@@ -64551,7 +64779,6 @@ v6-data.video.dns.iqiyi.com
 .a8cv.online-mega.com
 .online-metrix.net
 .fpbcode.onlinedown.net
-.forspeed.onlinedown.net
 .cgicounter.onlinehome.de
 .analytics.onlinehomeretail.co.uk
 .onlinepbx.ru
@@ -64679,6 +64906,7 @@ v6-data.video.dns.iqiyi.com
 .ooocugicnmyxah.com
 .oooqitpwsryvd.space
 .oooxizemrslcq.site
+.oophytemorus.com
 .oopt.fr
 .oopxyvhtlufmp.website
 .ooqtjsubfcppe.life
@@ -64718,6 +64946,7 @@ v6-data.video.dns.iqiyi.com
 .opai.red
 .opalquill.com
 .opalsmeer.com
+.opanudiped.shop
 .opbandit.com
 .opchqpnpdvbqn.website
 .opclck.com
@@ -65216,6 +65445,7 @@ v6-data.video.dns.iqiyi.com
 .marketing.orionrisk.com
 .marketing.orionti.ca
 .oritooep.win
+.orivljebpiflr.website
 .lrehgz.orix.co.jp
 .orjfun.com
 .orjvjjcnlgick.space
@@ -65334,6 +65564,7 @@ v6-data.video.dns.iqiyi.com
 .ospkm.cn
 .ospkmjsxvihyi.space
 .ospreymedialp.com
+.osqfmhfdtt.com
 .osrrltw.cn
 .osseaprouder.com
 .ossetbulimus.com
@@ -65387,6 +65618,7 @@ v6-data.video.dns.iqiyi.com
 .otfx.cn
 .otgihnae.com
 .otgyufesofpmu.online
+.othazdvr.in
 .othercharacter.pro
 .otherleg.pro
 .otherprofit.com
@@ -65455,6 +65687,7 @@ v6-data.video.dns.iqiyi.com
 .otukbzssnkpfl.space
 .otulninviwwls.space
 .otunmakpjbtga.website
+.otvhlnixv.com
 .otvojqdrozce.com
 .otvxheqn.com
 .otwlfwmuubeue.space
@@ -65768,6 +66001,7 @@ v6-data.video.dns.iqiyi.com
 .owtpooquoezgt.space
 .owutrvkpsak.com
 .owvkfujan.com
+.owvoxqzcua.in
 .owvqpfbrrk.com
 .owwbulasllttm.space
 .owwirzikteowa.online
@@ -65910,6 +66144,7 @@ v6-data.video.dns.iqiyi.com
 .aspa8.ozmall.co.jp
 .zbrfde.ozmall.co.jp
 .ozmbrfwzfreie.space
+.oznasikkwltxt.space
 .ssc.ozodi.org
 .ssc.ozodlik.org
 .xapi.ozon.by
@@ -65961,6 +66196,7 @@ v6-data.video.dns.iqiyi.com
 .p-digital-server.com
 .cdn.p-n.io
 .p-td.com
+.p0b2hqyz.xyz
 .p0y.cn
 .p0yixb3wfv.com
 .app.p100.io
@@ -66097,6 +66333,7 @@ v6-data.video.dns.iqiyi.com
 .paglufbwaojh.in
 .pagoda56.com
 .pagrmqxj.com
+.pagurusfibrose.com
 .smetrics.pahealthwellness.com
 .pahjkkpazal.com
 .axp.pahomepage.com
@@ -66804,6 +67041,7 @@ v6-data.video.dns.iqiyi.com
 .pbuuzazvrw.com
 .pbvmuafmk.com
 .pbwlwdzje.com
+.pbxagcahqree.com
 .pbxai.com
 .pbyfqdlhzrrit.online
 .pbymqomcjgyqk.online
@@ -66828,11 +67066,11 @@ v6-data.video.dns.iqiyi.com
 .pcci.pccinnovation.org
 .down.pcclear.com
 .mdws.pccu.ca
-.14-0-204-188.static.pccw-hkt.com
 .omni.commercial.pccw.com
 .pcdwm.com
 .pcexhftbidjqk.site
 .pceyowwoejprr.website
+.pcezfjfcluukx.online
 .yjlbvd.pcfactory.cl
 .pcfeoayammroh.website
 .count.pcgames.com.cn
@@ -67034,6 +67272,7 @@ v6-data.video.dns.iqiyi.com
 .peccantdhurna.com
 .trk.peceniejeradost.sk
 .trk.pecenijeradost.cz
+.pechaycorbels.shop
 .pecialukizeias.info
 .pecialukizeias.org
 .pecifyspacing.com
@@ -67879,6 +68118,7 @@ v6-data.video.dns.iqiyi.com
 .link.piesystems.io
 .pietexture.com
 .pievsejhampai.online
+.piewifezeke.com
 .piffledomens.shop
 .pifowotorfwvl.online
 .f1.pig66.com
@@ -68274,6 +68514,7 @@ v6-data.video.dns.iqiyi.com
 .uidpcx.planet.fr
 .planet7links.com
 .planetarium-planet.com
+.planetariumobil.ro
 .tk.planete-oui.fr
 .affiliation.planethoster.info
 .go.planetnine.com
@@ -68544,6 +68785,7 @@ v6-data.video.dns.iqiyi.com
 .plxfiacmbklhsk.com
 .plxpubyxarcjl.space
 .plxserve.com
+.plxzszrhmyysq.site
 .plyfoni.ru
 .go.plygem.com
 .track.plygem.com
@@ -68627,11 +68869,13 @@ v6-data.video.dns.iqiyi.com
 .pnlgtgdkpyvdy.space
 .pnmxahlvqeaaa.space
 .pnnmusumficoa.online
+.pnntmazfterio.website
 .utiq.pnp.de
 .pnperf.com
 .pnqptxkdxkhff.site
 .pnrbvdqxrqlfp.club
 .pnrijyseeiqfv.site
+.pns.org.pk
 .pnsgklbjtxrxp.space
 .pnsmbazkcydwd.site
 .pnsqsv.com
@@ -68658,7 +68902,6 @@ v6-data.video.dns.iqiyi.com
 .poatqpupaxsud.website
 .poavoabe.net
 .poawooptugroo.com
-.pobedastaff.ru
 .pochayuncs.com
 .pocitadlo.cz
 .pocitadlo.sk
@@ -68806,6 +69049,7 @@ v6-data.video.dns.iqiyi.com
 .politicalporter.com
 .politicalspare.pro
 .politicalwar.pro
+.politicianfriesrenewal.com
 .metrics.politico.com
 .smetrics.politico.com
 .metrics.politico.eu
@@ -68834,7 +69078,6 @@ v6-data.video.dns.iqiyi.com
 .pollutiondespite.com
 .polluxnetwork.com
 .dwrlwx.polo-motorrad.de
-.polonyauniversiteleri.com.tr
 .poloptrex.com
 .poloumbril.com
 .clnbze.polskatimes.pl
@@ -69372,6 +69615,7 @@ v6-data.video.dns.iqiyi.com
 .email.pray.com
 .link.pray.com
 .notify.pray.com
+.prayargued.shop
 .prayercertificatecompletion.com
 .prayersoriginate.com
 .prayratesantibiotic.com
@@ -70001,6 +70245,7 @@ v6-data.video.dns.iqiyi.com
 .propellerads.com
 .propellerads.tech
 .propellerclick.com
+.propenechemins.shop
 .analytics.propensity.com
 .proper.io
 .propermessage.io
@@ -70100,7 +70345,6 @@ v6-data.video.dns.iqiyi.com
 .protys.protys.fr
 .proudlyfunkywanderer.com
 .proudlyhint.com
-.proveedoradeproyectosysoluciones.com
 .info.provencut.com
 .d.provenexpert.net
 .provenperch.com
@@ -70177,6 +70421,7 @@ v6-data.video.dns.iqiyi.com
 .prudyascape.com
 .plausible.prufit.co
 .metrics.pruina.com
+.prukbxxjaevbvb.com
 .prussincomby.com
 .pruvoyinnsvtk.com
 .prvc.io
@@ -70334,6 +70579,7 @@ v6-data.video.dns.iqiyi.com
 .pto-slb-09.com
 .ptomw.com
 .ptoptaglyphi.com
+.ptosesveg.com
 .ptougeegnep.net
 .ptp22.com
 .ptpfpbzfegrmv.site
@@ -70773,6 +71019,7 @@ v6-data.video.dns.iqiyi.com
 .putlockertv.com
 .putlogguffaw.com
 .putmtmkfjbitxzlhijfc.top
+.putpnvsxxgpsg.site
 .putriddelay.pro
 .putrr16.com
 .putrr7.com
@@ -71042,6 +71289,7 @@ v6-data.video.dns.iqiyi.com
 .pzgignprvvgvn.space
 .pziad.com
 .pzimff.com
+.pzioltrkaajm.in
 .pzkaqvyqypgyd.site
 .pzlsmpdqmlowi.site
 .pzmgdixojqhhl.online
@@ -71147,6 +71395,7 @@ v6-data.video.dns.iqiyi.com
 .qbanodprxyjkl.online
 .dig.qbao.com
 .cp.qbaobei.com
+.qbaqvlbuxhcxm.website
 .qbcyr5tfd.com
 .qbdgame.com
 .qbdlijgzxscfa.site
@@ -71248,6 +71497,7 @@ v6-data.video.dns.iqiyi.com
 .qdmizarqbbyqv.online
 .uedas.qdmm.com
 .qdn4ydsg3s.com
+.qdougjzllrxyv.site
 .qdpvnjhzcafbl.space
 .qdpwywwuatvno.site
 .stats.qdq.com
@@ -71439,6 +71689,7 @@ v6-data.video.dns.iqiyi.com
 .qieiepqyflfpk.space
 .qienews.cn
 .trcka8net.qieto.net
+.qiey8zrxz.com
 .qifacaisklop.com
 .titi.qifajiang.cn
 .qifake.com
@@ -71490,7 +71741,6 @@ v6-data.video.dns.iqiyi.com
 .kf.qingwk.com
 .e.qingzhencai.net
 .m.qingzhencai.net
-.sta.qinxue.com
 .qipnihruwwc.in
 .qipnuzupkav.com
 .qipodmeqxzsyc.space
@@ -71639,6 +71889,7 @@ v6-data.video.dns.iqiyi.com
 .qlpqyeiodksjq.online
 .qlpwodpqwzqcc.website
 .m.qlr0d.cn
+.qlrqvpfklcngf.space
 .qlusrztqgxqfw.website
 .qlvffpnuz.com
 .qlvobmtnqrocw.online
@@ -71650,6 +71901,7 @@ v6-data.video.dns.iqiyi.com
 .a6-remad.qm989.com
 .a-qmad.qm989.com
 .t-remad.qm989.com
+.logger.qmai.cn
 .qmaixqtbcbapj.site
 .qmav.cn
 .qmavyy.icu
@@ -71671,6 +71923,7 @@ v6-data.video.dns.iqiyi.com
 .qmstrdahiazng.website
 .qmvwjbawxsese.site
 .qmwagedxalzxz.site
+.qmweaunpliefl.site
 .qmyonfatxab.in
 .qmyytcdhtvvcy.website
 .qmyzawzrqryjj.top
@@ -71711,6 +71964,7 @@ v6-data.video.dns.iqiyi.com
 .elqforms.qnx.com
 .qnxrfwtnijcvj.space
 .qnywjs.buzz
+.qnywsrc.buzz
 .qnyxvpsblunca.site
 .qnzkkbshdriki.site
 .q.qo26.com
@@ -72399,6 +72653,7 @@ v6-data.video.dns.iqiyi.com
 .quilledacca.shop
 .quillion.com
 .quillkick.com
+.quillonalgums.com
 .quillshut.com
 .metrics.quiltingcompany.com
 .quiltquick.com
@@ -72558,6 +72813,7 @@ v6-data.video.dns.iqiyi.com
 .qwcpme.icu
 .qwertize.com
 .qwerty24.net
+.qwfmqkysepqin.online
 .erp.qwic.nl
 .qwikln.com
 .qwjxcvdzrafum.club
@@ -72577,6 +72833,7 @@ v6-data.video.dns.iqiyi.com
 .qwuomggalxp.in
 .qwuylnl.com
 .qwvqbeqorrobv.top
+.qwvuueeekuinlwh.com
 .qwvv.com
 .qwwfiqkwwmvah.com
 .qwwrqxlbplpws.website
@@ -72970,7 +73227,6 @@ v6-data.video.dns.iqiyi.com
 .consulting.ramboll.com
 .rambunctiousflock.com
 .ramekinpleura.shop
-.ramirex.ro
 .analytics.ramiyer.io
 .analytics.ramiyer.me
 .ramlvunszdcxt.website
@@ -73223,6 +73479,7 @@ v6-data.video.dns.iqiyi.com
 .sanalytics.rbs.nl
 .sanalytics.rbsbank.dk
 .sanalytics.rbsbank.no
+.rbscedjintfmb.online
 .rbsfckgfwpgnr.site
 .rbsifiqnyrhfd.space
 .rbtfit.com
@@ -73293,6 +73550,7 @@ v6-data.video.dns.iqiyi.com
 .rderstartirrelea.com
 .rdeswa1.com
 .rdfeesvsxhsyn.online
+.rdgck4jo4.com
 .rdgrtoqfedpiz.site
 .photo.rdguj.cn
 .rdhazivrgjcfb.site
@@ -73715,6 +73973,7 @@ v6-data.video.dns.iqiyi.com
 .info.redlinesolutions.com
 .analytics.redlink.com.ar
 .marketing.redlion.net
+.redlk.com
 .metric.redlobster.com
 .smetric.redlobster.com
 .ablink.em.redmart.com
@@ -74668,6 +74927,7 @@ v6-data.video.dns.iqiyi.com
 .rhoosscrunuj.in
 .rhousoasopersb.org
 .rhploidy.com
+.rhrrf.cn
 .rhstsudlojlai.space
 .rhtnkbcpyhkwg.online
 .rhudsplm.com
@@ -74985,7 +75245,6 @@ v6-data.video.dns.iqiyi.com
 .smetrics.riteaid.com
 .sms.ajopharmabeta.riteaid.com
 .sms.riteaid.com
-.ritee.in
 .ritkmczosfhgk.online
 .rittersjatki.com
 .invite-alternate.ritual.co
@@ -75091,6 +75350,7 @@ v6-data.video.dns.iqiyi.com
 .rkjwevpyotpzm.website
 .rkldutwrj.com
 .rklggmnhygfut.online
+.rklrcrmurszvg.site
 .rknwvagviu.com
 .rkoi.cn
 .rkomf.com
@@ -75194,6 +75454,7 @@ v6-data.video.dns.iqiyi.com
 .rmlnxwswbvoff.space
 .rmodpupilgk.com
 .rmoolrrw.com
+.rmpgcpimiudoi.space
 .rmqgscbitoadp.site
 .a8cnv.rmsbeauty.jp
 .rmshqa.com
@@ -75238,11 +75499,13 @@ v6-data.video.dns.iqiyi.com
 .rnmentoftheusys.org
 .rnmreusbdsmyc.space
 .rnobijyojinek.website
+.rnofuxgaz.com
 .rnoliuuhsrqjc.site
 .rnomkdzkunewx.space
 .rnotraff.com
 .rnqkdvlbmsggwln.com
 .rnrxtwbebbe.com
+.rnsjhswfssfva.website
 .rntcycudcyzdu.online
 .rnuxzqjkiwiry.website
 .rnvaowijnewyn.site
@@ -75602,6 +75865,7 @@ v6-data.video.dns.iqiyi.com
 .rovno.xyz
 .l.rovo.co
 .rovomghrtungt.online
+.rovz7ekw3r.com
 .rowaskewoblong.com
 .rowdyraise.pro
 .rowtlatests.shop
@@ -75879,6 +76143,7 @@ v6-data.video.dns.iqiyi.com
 .sadbmetrics.rtve.es
 .rtvgwhubti.com
 .rtwgvkozpvicu.website
+.rtwoxeltrwtzh.space
 .rtwyggxb.com
 .rtxfeed.com
 .rtxrtb.com
@@ -75909,6 +76174,7 @@ v6-data.video.dns.iqiyi.com
 .rubkfezraamr.in
 .rubrafoz.com
 .email.everyonesocial.rubrik.com
+.rubwyxmcjbudza.com
 .rubyblu.com
 .nstclj.rubylane.com
 .rucecnegkrxul.site
@@ -76053,6 +76319,7 @@ v6-data.video.dns.iqiyi.com
 .rustscrupulousstates.com
 .rusty-platform.com
 .rustyact.pro
+.rustydrawer.com
 .rustyleave.pro
 .rutagbkx.com
 .rutarget.ru
@@ -76153,6 +76420,7 @@ v6-data.video.dns.iqiyi.com
 .rwwmbymaezljq.top
 .rwxpkychnthdx.space
 .rwybmezalj.in
+.rwyswyanwa.in
 .rwzvqzvqkzowy.top
 .rwzweheqfaqct.space
 .rwzxsuwwuijen.space
@@ -76177,6 +76445,7 @@ v6-data.video.dns.iqiyi.com
 .ssl.o.rxlist.com
 .std.o.rxlist.com
 .rxmklgldqtxor.online
+.rxnchspomdisr.website
 .rxnvg.com
 .rxoi.cn
 .rxqbewfdeyyrv.website
@@ -76579,6 +76848,7 @@ v6-data.video.dns.iqiyi.com
 .news.salon-aps.com
 .sadbmetrics.salon-sie.com
 .aa-metrics.salonboard.com
+.salonmarketing.ca
 .u.salony.com
 .salsacartel.com
 .salseprudely.com
@@ -76809,6 +77079,7 @@ v6-data.video.dns.iqiyi.com
 .sailinsight20-app.sapsailing.com
 .saptiledispatch.com
 .saptuqse29.com
+.sapuzvinnbuqc.online
 .sapwells.info
 .saqgahyvbajqt.website
 .saqoctqho.com
@@ -77018,7 +77289,6 @@ v6-data.video.dns.iqiyi.com
 .wpan.sc2yun.com
 .scabbedcoaches.com
 .stats.scailable.net
-.scainseto.com.br
 .scakuvap.com
 .scaldsheetdeterrent.com
 .scaledb.com
@@ -77139,6 +77409,7 @@ v6-data.video.dns.iqiyi.com
 .schemeamuse.com
 .schemecontinuingwinning.com
 .schemesplights.com
+.schenckel.com.br
 .cis.schibsted.com
 .collector.schibsted.io
 .abo.schibsted.no
@@ -77658,6 +77929,7 @@ v6-data.video.dns.iqiyi.com
 .smetrics.secureremserv.com.au
 .csp.secureserver.net
 .events.api.secureserver.net
+.176.190.153.160.host.secureserver.net
 .beacon.securestudies.com
 .securetag.run
 .sstats.securitas-direct.com
@@ -78328,6 +78600,7 @@ v6-data.video.dns.iqiyi.com
 .tr.com-red.sfr.fr
 .tr.com-web.sfr.fr
 .tr.com.sfr.fr
+.199.98.88.92.rev.sfr.net
 .m.sfscooter.cn
 .sfshdmhfdusrf.site
 .sfstcxntycsrx.website
@@ -78365,7 +78638,6 @@ v6-data.video.dns.iqiyi.com
 .wmvroh.sgd.de
 .sgdanjzdfjtwr.site
 .sgdohjpmlq.com
-.sgeseducation.com
 .sgevtchvdhddf.website
 .sgfinery.com
 .sgfjgtcdijeju.space
@@ -78404,6 +78676,7 @@ v6-data.video.dns.iqiyi.com
 .sgvoflsxekugp.site
 .sgwbbdcqnokza.site
 .sgxkm.com
+.sgyrsltalokbeo.com
 .sgyttxqfze.com
 .sgziucofrczxh.website
 .g9s.sgzs999.com
@@ -78439,7 +78712,6 @@ v6-data.video.dns.iqiyi.com
 .shaggysinner.com
 .shaggytank.com
 .shaglurdoa.net
-.shahamanatme.com
 .shailoahits.net
 .shaimsoo.net
 .shaiwourtijogno.net
@@ -79134,6 +79406,7 @@ v6-data.video.dns.iqiyi.com
 .zrsetz.shutterstock.com
 .shuttlelikingcabinet.com
 .pb.shuxigua.com
+.trackserver.shuxinyc.com
 .shuzhundsj.cn
 .shuzilm.cn
 .shuzilm.com
@@ -79285,6 +79558,7 @@ v6-data.video.dns.iqiyi.com
 .dc.sigmob.cn
 .track.sigmob.cn
 .sigmob.com
+.signahqim.in
 .signaladsdirect.top
 .t.signalayer.com
 .signalfx.com
@@ -79565,6 +79839,7 @@ v6-data.video.dns.iqiyi.com
 .singular.net
 .singulardisappointmentdisqualify.com
 .partners.singularlogic.eu
+.sinhcursed.com
 .sinisterbatchoddly.com
 .sinisterreason.com
 .sinisteruniversityharmful.com
@@ -79607,6 +79882,7 @@ v6-data.video.dns.iqiyi.com
 .metrics-target.siriusxm.com
 .metrics.siriusxm.com
 .smetrics.siriusxm.com
+.sirsplajp.com
 .a8clk.sirtuinbooster.net
 .a8cv.sirusi.jp
 .go.sirved.com
@@ -79806,7 +80082,6 @@ v6-data.video.dns.iqiyi.com
 .smetrics.skandiabanken.se
 .skanouvdsholf.online
 .brrmpm.skanskin.kr
-.access.skaparade.com
 .skated.co
 .vllsuv.skatedeluxe.com
 .skatetimprojects.com
@@ -79924,6 +80199,7 @@ v6-data.video.dns.iqiyi.com
 .skrblsszekwia.online
 .skrhuf.com
 .cdn1.skrill.com
+.skrjnyiuizqri.space
 .hit.skrz.cz
 .sksi91y8rs.com
 .jhprvk.skstoa.com
@@ -80170,6 +80446,7 @@ v6-data.video.dns.iqiyi.com
 .slovenscrankly.com
 .slovvcaojwrhv.space
 .slow-attitude.com
+.slow-bunch.com
 .slowdn.net
 .slowdrama.pro
 .slowepiclearning.com
@@ -80205,6 +80482,7 @@ v6-data.video.dns.iqiyi.com
 .tr.slvrbullet.com
 .slvtoommqlvyh.website
 .slvumxhzmtope.website
+.slvwcqthneagb.website
 .slwljkcbbizxv.website
 .slxawfuddjurq.site
 .slxfvrnmuktoo.website
@@ -80705,6 +80983,7 @@ v6-data.video.dns.iqiyi.com
 .snqsqbnzrppvc.online
 .snrcdn.net
 .swa.snsbank.nl
+.snsdnlxebyupl.site
 .snsfdmmzpixhn.site
 .abtest-ch.snssdk.com
 .bds.snssdk.com
@@ -80906,7 +81185,6 @@ v6-data.video.dns.iqiyi.com
 .bidder.mediams.mb.softbank.jp
 .strack.softbankhawksstore.jp
 .a8cv.softbankhikari-collabo.net
-.softcatalog.ru
 .softchest.com
 .images.response.softchoice.com
 .tech.softchoice.com
@@ -81491,6 +81769,7 @@ v6-data.video.dns.iqiyi.com
 .sowp.cloud
 .sowpoint.com
 .soxfokwppwqpm.website
+.soxhyxhugzwez.website
 .xmyvhu.soxo.pl
 .soxxfnbpcaqbqk.com
 .soy5c00zc.com
@@ -81601,6 +81880,7 @@ v6-data.video.dns.iqiyi.com
 .jlhwxm.spartoo.es
 .cdeatz.spartoo.it
 .zwinqi.spartoo.pt
+.sparusonagers.shop
 .spatacquaint.com
 .spatfyaxfox.in
 .marketing.spbatpa.org
@@ -81795,6 +82075,7 @@ v6-data.video.dns.iqiyi.com
 .ext.spinwheelapp.com
 .spirantpitfall.shop
 .spirebaboon.com
+.spiremearnful.shop
 .spiritdeserted.com
 .spiritedcall.pro
 .puzzle.spiriteq.com
@@ -81953,6 +82234,7 @@ v6-data.video.dns.iqiyi.com
 .spotlesspersianwhereas.com
 .spotlessstamp.com
 .spotlesstotal.com
+.spotlightconvenience.com
 .spotlightprayers.com
 .muhttw.spotlightstores.com
 .spotofspawn.com
@@ -82094,6 +82376,7 @@ v6-data.video.dns.iqiyi.com
 .sqdtdxefkjsgn.space
 .sqerqxljna.com
 .sqgvbkabphxzi.website
+.sqhpswzhoxmiw.site
 .sqif.cn
 .sqiorli2w.com
 .sqipzeebqmina.online
@@ -82108,6 +82391,7 @@ v6-data.video.dns.iqiyi.com
 .stats.sqlteam.com
 .sqmflktsfxqvf.site
 .sqmn4wncty.com
+.sqoeqejjkh.com
 .sqowxfenvwht.com
 .sqpcjfvdgnemlhf.net
 .sqpqwbvgthe.com
@@ -82270,6 +82554,7 @@ v6-data.video.dns.iqiyi.com
 .ssacdn.com
 .mail.ssadownload.top
 .ssaiwvjpyevjq.site
+.ssbdsworvvkuk.online
 .ssblepbnncttn.site
 .ssbszbjhajmod.website
 .ssc9v54oew.com
@@ -82801,6 +83086,7 @@ v6-data.video.dns.iqiyi.com
 .dc.stenaline.ru
 .dc.stenaline.se
 .dc.stenalinetravel.com
+.stenchrha.shop
 .stenexeb.xyz
 .stenozpanawoc.website
 .marketing.stentel.com
@@ -82943,6 +83229,7 @@ v6-data.video.dns.iqiyi.com
 .stirringcreambroker.com
 .talk-test.stitch.cam
 .talk.stitch.cam
+.stitches08.com
 .stixaihersoucm.net
 .share.stiya.com
 .stjlhqwupamrz.site
@@ -82985,6 +83272,7 @@ v6-data.video.dns.iqiyi.com
 .qvbxza.stoneberry.com
 .stonecalcom.com
 .stonechin.com
+.stonecradle.com
 .brainlands.stonefalcon.com
 .vbseje.stonehengehealth.com
 .stonepole.com
@@ -83037,6 +83325,7 @@ v6-data.video.dns.iqiyi.com
 .stossepsooxoa.net
 .stoudunsoux.net
 .stoulraftes.net
+.stoundinhumed.shop
 .stoupseehebsaur.net
 .stoutjangle.com
 .stoutyear.com
@@ -83153,6 +83442,7 @@ v6-data.video.dns.iqiyi.com
 .streetmonumentemulate.com
 .streetsort.com
 .hi.streetworkoutlist.com
+.streitetymon.com
 .strekepetrols.com
 .stremmaraftage.com
 .strengthdetention.com
@@ -83240,6 +83530,7 @@ v6-data.video.dns.iqiyi.com
 .structure420.net
 .strugglingelevenfallout.com
 .strugglingpersist.com
+.struvlichi.com
 .strwh.com
 .telemetry.stryker.com
 .plausible.strzibny.name
@@ -83523,6 +83814,7 @@ v6-data.video.dns.iqiyi.com
 .sugodeku.com
 .sugpxweikuzls.site
 .a8clk.suguchoku.jp
+.suhfnjm.com
 .suhxxpvrskltj.website
 .a8.sui-so.com
 .suicidalruse.com
@@ -83647,7 +83939,6 @@ v6-data.video.dns.iqiyi.com
 .tad.suning.com
 .adls.suning.com
 .dfp.suning.com
-.ossapp.suning.com
 .sunios.de
 .sunjianlong.com
 .sunkendifferextreme.com
@@ -83823,6 +84114,7 @@ v6-data.video.dns.iqiyi.com
 .link.superviz.com
 .marketing.superwindowsusa.com
 .superxxxfree.com
+.supewfflaymnr.online
 .supfast.net
 .suphelper.com
 .supilxaimmfkp.site
@@ -84019,6 +84311,7 @@ v6-data.video.dns.iqiyi.com
 .svlitnlsrnrfg.website
 .svljbpyjjnmkj.site
 .svmjnmmvxntru.site
+.svmvcfnqhpsof.com
 .svn-defender.pro
 .svngbsxtotzsd.online
 .svnnwhxzufkzb.site
@@ -84269,6 +84562,7 @@ v6-data.video.dns.iqiyi.com
 .sxfwpqgovovtv.space
 .sxfwwsii.net
 .sxgqqsngkzozy.website
+.sxhvxeymqejphc.com
 .sxiadyzvmztkp.online
 .sxidblabmvaod.site
 .sxijascmyuisl.site
@@ -84426,6 +84720,7 @@ v6-data.video.dns.iqiyi.com
 .metrics.synergy.net.au
 .smetrics.synergy.net.au
 .target.synergy.net.au
+.synergyconsulting.us
 .synerise.com
 .smetrics.synjardyhcp.com
 .synkd.life
@@ -84546,6 +84841,7 @@ v6-data.video.dns.iqiyi.com
 .szqxvo.com
 .szsduffyipdbir.com
 .szshouzhai.com
+.szuuavklaghmb.online
 .szuyezltkzrku.space
 .szwrfefyffnaf.space
 .szwtidevfrvzo.site
@@ -84611,6 +84907,7 @@ v6-data.video.dns.iqiyi.com
 .ta3nfsordd.com
 .app.ta3weem.com
 .ta7088hrd.com
+.ta7tfk0o2h.com
 .ta80.com
 .taawpggzbigir.online
 .content.tab.com.au
@@ -85156,6 +85453,7 @@ v6-data.video.dns.iqiyi.com
 .tatfuneyuwbqk.site
 .efuxqe.tatilbudur.com
 .uedvam.tatilsepeti.com
+.tatlertarpon.shop
 .utiq.tatort-fans.de
 .tatpek.com
 .tatqjnpzzwlyh.site
@@ -85664,6 +85962,7 @@ v6-data.video.dns.iqiyi.com
 .telechargementdirect.net
 .telecome.cn
 .novedades.telecomfibercorp.com.ar
+.host-195-103-203-106.business.telecomitalia.it
 .host-95-230-215-65.business.telecomitalia.it
 .host-95-255-114-11.business.telecomitalia.it
 .ea.telecommandeonline.com
@@ -85795,9 +86094,11 @@ v6-data.video.dns.iqiyi.com
 .smetrics.telustvplus.com
 .utiq.telva.com
 .telwrite.com
+.temirtau-adm.ru
 .i.temiz.co
 .temksrtd.net
 .programandojuntos.us.tempcloudsite.com
+.temperaturebassaccidentally.com
 .tempercurtexperimental.com
 .tempertrick.com
 .temperweekly.com
@@ -86217,6 +86518,7 @@ v6-data.video.dns.iqiyi.com
 .metrics1.thankyou.com
 .thanosofcos5.com
 .thantaean.com
+.thatdimensionalwebsite.com
 .thatllstews.shop
 .thatmonkeybites3.com
 .thatnotice.pro
@@ -86236,6 +86538,7 @@ v6-data.video.dns.iqiyi.com
 .website-security.thawte.com
 .thbfepqqqebde.online
 .thbksnboyjnoh.website
+.thcgornwlukyy.online
 .adebis.thd-web.jp
 .thdjtp.icu
 .thdqnpunyzxcx.space
@@ -86499,6 +86802,7 @@ v6-data.video.dns.iqiyi.com
 .theonecdn.com
 .theonesstoodtheirground.com
 .sourcepoint.theonion.com
+.theoremaoliveoil.com
 .theoreticalchatter.com
 .theoreticalmagnanimityextensive.com
 .cs0010sbeda.theory-clinic.com
@@ -87003,7 +87307,6 @@ v6-data.video.dns.iqiyi.com
 .datas.tianqistatic.com
 .yptqys.tianqistatic.com
 .tianshilv.cn
-.fz.tiansys.cn
 .e.tiantianedu.net
 .m.tiantianedu.net
 .api-ads.tiantianqutao.com
@@ -87794,6 +88097,7 @@ v6-data.video.dns.iqiyi.com
 .toboads.com
 .toc.io
 .smetrics.tochinavi.net
+.tochtwdapgfjt.website
 .tocologist44.top
 .tocometothepoin.com
 .tocr.cn
@@ -88015,7 +88319,6 @@ v6-data.video.dns.iqiyi.com
 .metrics.top50boutiquehotels.com
 .metrics.top50cocktailbars.com
 .metrics.top50gastropubs.com
-.top8onlinegame.com
 .topacad.com
 .topadsservices.com
 .topadvert.ru
@@ -88562,6 +88865,7 @@ v6-data.video.dns.iqiyi.com
 .referrals.tradeapp.me
 .share.tradeapp.me
 .tradedoubler.com
+.tradedsglobal.com
 .link-dev.tradee.com
 .link.tradee.com
 .net.tradeers.de
@@ -88972,6 +89276,7 @@ v6-data.video.dns.iqiyi.com
 .trianglereadiness.com
 .trianglesickdemocrat.com
 .triangularmouse.com
+.trianonilot.com
 .tribalfusion.com
 .lhzulh.tribeamrapali.com
 .app.tribeathletics.com
@@ -89166,6 +89471,7 @@ v6-data.video.dns.iqiyi.com
 .trsdzvfmdqjqi.online
 .trstplse.com
 .trtl.ws
+.trtmyanmar.com
 .tru.am
 .truanet.com
 .trubazna.in
@@ -89477,6 +89783,7 @@ v6-data.video.dns.iqiyi.com
 .ttedwm.com
 .tterforiwasin.org
 .ttfoetfeswjwn.space
+.ttfxjbmdhrh.com
 .ttgkpyinpasee.space
 .ttgmjfgldgv9ed10.com
 .tthelitnfv.com
@@ -89519,6 +89826,7 @@ v6-data.video.dns.iqiyi.com
 .ttrk.io
 .wsytyz.tts.ru
 .track.ttsave.app
+.ttsfflsjrsnob.website
 .mtl.ttsqgs.com
 .tttcaoetcuosk.space
 .tttcraukuyqff.one
@@ -89748,6 +90056,7 @@ v6-data.video.dns.iqiyi.com
 .images.info.tupperware.be
 .images.info.tupperware.de
 .images.info.tupperware.pt
+.tuqxpceqhdfwrsk.com
 .tur-tur-key.com
 .stat.turb.pw
 .turbaninfectedexterior.com
@@ -89896,6 +90205,7 @@ v6-data.video.dns.iqiyi.com
 .tvqmgheb.com
 .tvqqnhkixwqny.space
 .tvqrsvhqmcten.website
+.tvqxdpxygve.com
 .sadbmetrics.tvr.es
 .tvrfkftonilxl.site
 .tvrkxscyamfno.site
@@ -90346,6 +90656,7 @@ v6-data.video.dns.iqiyi.com
 .uahivaqettl.com
 .lpzxed.uai.com.br
 .uaiayburivaay.website
+.uaiyuaosnibki.website
 .uajgfkbpypbsa.site
 .uajkaphyuopgu.website
 .uakbviletrmyf.site
@@ -90386,6 +90697,7 @@ v6-data.video.dns.iqiyi.com
 .ubcqdptszwtix.site
 .mdws.ubcu.ca
 .ubcyalsmsmzvg.online
+.ubdzfzmzmakka.website
 .ubecoachoo.net
 .ubeeludrt.com
 .ubeestis.net
@@ -90455,6 +90767,7 @@ v6-data.video.dns.iqiyi.com
 .ubtjzypcluqvj.online
 .ubtttllhhcguetu.xyz
 .ubudhal.com
+.ubudibhf1b.com
 .ubupomtuwwoyf.online
 .ubuyanalytics.ubuy.com
 .ubvjcdskxosze.site
@@ -90619,6 +90932,7 @@ v6-data.video.dns.iqiyi.com
 .udgihkvvoei.com
 .udglcoqrbwevl.site
 .udhxlqqaipy.com
+.udishessang.com
 .udivtzgh8.com
 .udjolmaphsyfo.online
 .udjrdihxofhbo.site
@@ -90633,7 +90947,6 @@ v6-data.video.dns.iqiyi.com
 .ad2.udn.com
 .ad3.udn.com
 .ad4.udn.com
-.udobrit.ru
 .udophtkooyzew.website
 .udoxoemgrebck.space
 .udplgiotjursc.website
@@ -90736,6 +91049,7 @@ v6-data.video.dns.iqiyi.com
 .ufirmirylfavb.online
 .ufjmjniirpxfm.site
 .ufjmxuzi.com
+.ufjrbxhnnaqai.com
 .ufjwqdmqzlquq.world
 .ufkfvnlbtldu.com
 .uflbwgsviaueg.site
@@ -90810,6 +91124,7 @@ v6-data.video.dns.iqiyi.com
 .ugoodjynotjrq.online
 .ugooo.cc
 .ugopkl.com
+.ugoujglhvut.com
 .ugox.cn
 .ugqaxpmhdveiv.website
 .ugrgujwxjxsuf.space
@@ -91478,6 +91793,7 @@ v6-data.video.dns.iqiyi.com
 .l.unfy.ai
 .xpygen.unger-fashion.com
 .ungirtsoloed.shop
+.ungrownalauda.com
 .ungyptrvngfqp.site
 .unhappy-upstairs.com
 .unhappybill.com
@@ -91561,6 +91877,7 @@ v6-data.video.dns.iqiyi.com
 .unioncpm.com
 .uniondistinction.com
 .marketing.unionhousesf.com
+.cn.unionlever.com
 .unionli.com
 .iokhsx.unionmonthly.jp
 .unionsky.cn
@@ -92396,6 +92713,7 @@ v6-data.video.dns.iqiyi.com
 .uslfmnchussgv.site
 .hcjpbc.usmagazine.com
 .usmajesticrake.com
+.usmbctyjigsnp.space
 .marketing.usmedequip.com
 .metrics.catalog.usmint.gov
 .metrics.usmint.gov
@@ -92798,6 +93116,7 @@ v6-data.video.dns.iqiyi.com
 .uzeempoothult.net
 .uzepcmmnhfznf.online
 .uzerly.net
+.uzgcdprqhjbak.space
 .e.uzhaj.com
 .m.uzhaj.com
 .cdn1.res.uzham.com
@@ -93058,6 +93377,7 @@ v6-data.video.dns.iqiyi.com
 .mdws.vantageone.net
 .marketing.vantagepoint-financial.com
 .web.info.vantastic-foods.com
+.vanzutosjphi.in
 .vaogyhxc.com
 .vaokbuyvpiyzw.website
 .vapedia.com
@@ -93080,6 +93400,7 @@ v6-data.video.dns.iqiyi.com
 .variablehour.com
 .variablesthirdtransparent.com
 .variacjobe.shop
+.variationconfused.com
 .variedslimecloset.com
 .varietyofdisplayformats.com
 .clicks.variis.com
@@ -93181,6 +93502,7 @@ v6-data.video.dns.iqiyi.com
 .vbfrhhed.com
 .vbgyniffuy.com
 .vbiaakxndtbww.xyz
+.vbiefmqbhfcgx.space
 .m.vbieu.com
 .m.vbinr.com
 .m.vbinu.com
@@ -93279,6 +93601,7 @@ v6-data.video.dns.iqiyi.com
 .vcuxhrxjzvzsx.website
 .vcvbogndkwheb.space
 .vcvncewkfhtmp.website
+.vcxwcrffssynryl.com
 .vcxzp.com
 .vcysuvbiqkan.in
 .vcz9kuhac.com
@@ -93335,6 +93658,7 @@ v6-data.video.dns.iqiyi.com
 .a6s.ve001nz.com
 .vebadu.com
 .vebejgenfzchn.space
+.vebqdbsztulbf.space
 .vebv8me7q.com
 .vebzeibgeklhs.online
 .vebzynslxdfun.online
@@ -93956,6 +94280,7 @@ v6-data.video.dns.iqiyi.com
 .s-adobeanalytics.vice.com
 .vice4beek.com
 .vicecomradecompare.com
+.intelligradeeducation.vicentecisnerospub.com
 .viceoptionsrattle.com
 .metrics.viceroyhotelsandresorts.com
 .smetrics.viceroyhotelsandresorts.com
@@ -94072,7 +94397,6 @@ v6-data.video.dns.iqiyi.com
 .pixel.videohub.tv
 .videojj.com
 .get.videokits.com
-.videomeetgoogle.com
 .error.videonow.ru
 .stats2.videonow.ru
 .videoo.tv
@@ -94189,6 +94513,7 @@ v6-data.video.dns.iqiyi.com
 .smetrics.viewtabi.jp
 .viewtraff.com
 .viewworthwhile.com
+.viewycaulds.shop
 .get.viggo.com
 .power.viggo.com
 .vigilancebreaking.com
@@ -94896,6 +95221,7 @@ v6-data.video.dns.iqiyi.com
 .vlkwblmxudpoo.online
 .vllrvynklavnc.space
 .vlmcixwikyrbt.website
+.vlmwrffewzarp.site
 .vlmxasvbqykif.online
 .vlnbnmlwzndjm.space
 .vlnk.me
@@ -95012,6 +95338,7 @@ v6-data.video.dns.iqiyi.com
 .vnaytmsucryispu.net
 .vnazcqacydaqt.website
 .vnbrcfmdndguz.life
+.vnchlbtawhqpd.site
 .vncq.cn
 .vndblupazzsaj.website
 .vndhbthmtxgzo.space
@@ -95217,7 +95544,6 @@ v6-data.video.dns.iqiyi.com
 .vojxriaqujzlg.site
 .vokegwzgjivii.online
 .update.volam2005pk.com
-.thtp2.volamngayxua.net
 .volantix.com
 .app.response.volarisgroup.com
 .volatileprofit.com
@@ -95319,6 +95645,7 @@ v6-data.video.dns.iqiyi.com
 .vopddrdsxkeff.space
 .vophiptv.com
 .vopripwm.net
+.voqaeiqncfm.com
 .voqbbbwdsdkbj.online
 .voqf299p8.com
 .voqhfpygpzece.website
@@ -95614,6 +95941,7 @@ v6-data.video.dns.iqiyi.com
 .vsfnmefuhbnj.xyz
 .vsfowtixgsjed.website
 .vsfswhpnyjnbv.space
+.vsftlmkyglbtk.site
 .marketing.net.vsgamers.es
 .vsgpxqdqk.com
 .vshpajniedp.com
@@ -95709,6 +96037,7 @@ v6-data.video.dns.iqiyi.com
 .a.vturb.net
 .vtuyxcpiaytsp.website
 .vtuzzlfmnpxdq.website
+.vtvcflcka.com
 .vtwvtmsvpav.com
 .vtx2r60nuf.com
 .vtxcwfiaiucur.website
@@ -95788,6 +96117,7 @@ v6-data.video.dns.iqiyi.com
 .vuwrjobyhwbjn.site
 .vuwzer.com
 .vuxoolddascos.online
+.vuzdaqkpofka.in
 .pages.vuzion.cloud
 .vuzupoepfovgh.site
 .vv4t0gqaa4.com
@@ -95805,6 +96135,7 @@ v6-data.video.dns.iqiyi.com
 .vvexmpqyayjou.website
 .xrcksn.vvf-villages.fr
 .vvficvcvclphpyn.com
+.vvfmrqnivrm.com
 .vvhsnolupggve.space
 .vvhtpupuhcixg.site
 .vvkholowfoeku.website
@@ -95954,6 +96285,7 @@ v6-data.video.dns.iqiyi.com
 .vxoxahmdwthgk.site
 .vxpjzvyvvvzsh.space
 .vxpmdsjycuuui.website
+.vxpwlnxpbmyob.online
 .vxqmhfhhcvtfnw.com
 .vxqpuuzamduiw.space
 .vxrdwo.cn
@@ -96008,6 +96340,7 @@ v6-data.video.dns.iqiyi.com
 .launch.vypr.it
 .vyqn.cn
 .vyqsgffrtyebo.online
+.vyqwiakejuibj.com
 .vyrsnaznyottts.com
 .vysizjqwuwkpk.site
 .vytjbahlkcmwn.space
@@ -96155,6 +96488,7 @@ v6-data.video.dns.iqiyi.com
 .wa9dald544.com
 .w.waacorp.com
 .wabblesdine.shop
+.wabewxwoytqpi.website
 .wabsyederly.com
 .stats.wachstum.at
 .marketing.wachsws.com
@@ -96363,6 +96697,7 @@ v6-data.video.dns.iqiyi.com
 .rochelle.wantsext.me
 .wantspunishrile.com
 .c.wantxt.cc
+.d.wanyouxi7.com
 .a.wanzhuang.com
 .tracking.wao-corp.com
 .tracking.wao.ne.jp
@@ -96638,6 +96973,7 @@ v6-data.video.dns.iqiyi.com
 .waymarkgentiin.com
 .pp.wayqq.com
 .w1.wayqq.com
+.wayradigitalmusic.com
 .share.wayup.com
 .agnes.waz.de
 .wazhogebdylsb.space
@@ -96812,6 +97148,7 @@ v6-data.video.dns.iqiyi.com
 .axp.wdhn.com
 .wdhymnxhxpgsn.space
 .wdihnuvxg.com
+.wdimxntjbr.com
 .e.wdiur.com
 .m.wdiur.com
 .wdjpyrldiqgwe.online
@@ -96840,6 +97177,7 @@ v6-data.video.dns.iqiyi.com
 .wdrn97z1o.com
 .wdspfkxiaenjf.website
 .wdsrkbnwhjqby.space
+.wdsssyjaqaakt.site
 .wdsvc.net
 .wdsvzbwcdkyfx.online
 .wdswojigebzei.website
@@ -96866,6 +97204,7 @@ v6-data.video.dns.iqiyi.com
 .we-stats.com
 .m1.we556.com
 .weakermumrespect.com
+.weakerscripts.com
 .weaklady.pro
 .link-test.external.wealth-park.com
 .link.external.wealth-park.com
@@ -96991,7 +97330,6 @@ v6-data.video.dns.iqiyi.com
 .webcontentassessor.com
 .webcounter.co.za
 .webcounter.ws
-.webcstore.pw
 .marketing.webdcmarketing.com
 .a8.webdeki.com
 .ga.webdigi.co.uk
@@ -97080,7 +97418,6 @@ v6-data.video.dns.iqiyi.com
 .analytics.websolute.it
 .webspectator.com
 .webstabilityhugo.com
-.99194034-96-20180108171507.webstarterz.com
 .stats.webstarts.com
 .webstat.com
 .webstat.fr
@@ -97150,6 +97487,7 @@ v6-data.video.dns.iqiyi.com
 .wedgierbirsit.com
 .aeuati.wedio.com
 .wedolook.com
+.wedsmymzjaxkp.online
 .wee-dare.pro
 .wee-stretch.pro
 .weeawesome.com
@@ -97514,6 +97852,7 @@ v6-data.video.dns.iqiyi.com
 .wfiutburadoho.online
 .wfivgvbqbbmtf.site
 .wfjcsraqoiwxw.online
+.wfjjaxasrpjsku.com
 .wfjkzgbcjnezi.fun
 .wfjvtrmitmipa.space
 .wfkkbabwxacmz.site
@@ -97687,6 +98026,7 @@ v6-data.video.dns.iqiyi.com
 .wheeledfunctionstruthfully.com
 .s.wheels.ca
 .wheelysales.com
+.whefggthjwygl.space
 .whehiadsxfhlt.space
 .whelkeduplink.shop
 .whemfgowwofdg.online
@@ -97944,6 +98284,7 @@ v6-data.video.dns.iqiyi.com
 .widerplanet.com
 .widespread1.top
 .widespreadcomponent.com
+.widexenmexico.com.mx
 .widgetbe.com
 .widgetbucks.com
 .widgethouse.com
@@ -98052,6 +98393,7 @@ v6-data.video.dns.iqiyi.com
 .promoshq.wildfireapp.com
 .wildhookups.com
 .marketing.wildhorsepass.com
+.wildlyzonereseptivereseptive.com
 .wildmatch.com
 .rest.wildstar-online.com
 .analytics.wildtangent.com
@@ -98262,6 +98604,7 @@ v6-data.video.dns.iqiyi.com
 .targetemsecure.blob.core.windows.net
 .1oavsblobprodcus350.blob.core.windows.net
 .37bvsblobprodcus311.blob.core.windows.net
+.best10cdn.blob.core.windows.net
 .ceuswatcab01.blob.core.windows.net
 .ceuswatcab02.blob.core.windows.net
 .eaus2watcab01.blob.core.windows.net
@@ -98407,6 +98750,7 @@ v6-data.video.dns.iqiyi.com
 .wispycity.com
 .iqmetrics.wissen.de
 .iqmetrics.wissenschaft.de
+.wisstbthlyhv.com
 .wisteinsight.com
 .wister.biz
 .wistfulsynchronizetoys.com
@@ -98710,6 +99054,7 @@ v6-data.video.dns.iqiyi.com
 .wmnessvlcys.com
 .wmnfqywhoauuo.website
 .wmnqifp98t.com
+.wmnxcxftfbpbr.space
 .wmober.com
 .wmothandhadb.com
 .wmoylynifuain.space
@@ -98916,12 +99261,14 @@ v6-data.video.dns.iqiyi.com
 .woitapktjkmxf.website
 .wojanpkkxcntg.website
 .wojiacanting.info
+.wojxoeizixndb.space
 .wokeshootdisreputable.com
 .wokm8isd4zit.com
 .wamahe.wokularach.pl
 .wolf-327b.com
 .3347.wolf-gordon.com
 .gastdn.wolfandbadger.com
+.wolfeddovens.shop
 .wolfeighteen.com
 .gmrhzf.wolfermans.com
 .3347.wolfgordon.com
@@ -99014,6 +99361,7 @@ v6-data.video.dns.iqiyi.com
 .irurng.wondershare.jp
 .mail.wondery.com
 .scribe.wongnai.com
+.wonnotbrant.shop
 .wonwg.com
 .wonyugeqyvfob.online
 .wooboo.com.cn
@@ -99552,6 +99900,7 @@ v6-data.video.dns.iqiyi.com
 .wsmyfmoetturw.online
 .wsnrtolmohidt.online
 .wsnxw6ihs.com
+.wsocurhqriekb.space
 .ad.wsod.com
 .app.wsop.ca
 .m.wsoue.com
@@ -99643,6 +99992,7 @@ v6-data.video.dns.iqiyi.com
 .mldy.wttpgq.cn
 .wttpwvlurczpe.rocks
 .wtuaqfajtlaad.space
+.wtvzekabnlunb.online
 .wtxqkplrdszqm.space
 .wtyhyzvsxlpeb.space
 .cdn-ad.wtzw.com
@@ -99809,6 +100159,7 @@ v6-data.video.dns.iqiyi.com
 .wwljidrwvcjfr.space
 .axp.wwlp.com
 .ywrcqa.wwltv.com
+.wwmifsmxx.com
 .wwmnga.icu
 .wwnhwmiaoakrc.site
 .wwnlbsuvpt.com
@@ -99948,6 +100299,7 @@ v6-data.video.dns.iqiyi.com
 .open.wynk.in
 .wyntgotjwnwpr.website
 .wynvalur.com
+.wyojunmhapedc.site
 .wyolespmytksi.space
 .wypmfqgwnetdz.online
 .wyqboqpgkwtqt.com
@@ -100243,6 +100595,7 @@ v6-data.video.dns.iqiyi.com
 .xcowtuocxolz.in
 .xcowuheclvwryh.com
 .news.xcpi.cn
+.xcpmfvlfcdltd.online
 .xcqfaclqifemm.site
 .xcqnheljudxtrm.com
 .xcqydwlxlhfdp.online
@@ -100266,10 +100619,10 @@ v6-data.video.dns.iqiyi.com
 .xd51vd1y.xyz
 .mldy.xdaay.cn
 .xdadang.com
+.xdbfroeqjhkqw.site
 .xdbofzoobrmgu.site
 .xdbwygkaei.com
 .xdcitetrmevrb.online
-.xdcq3.com
 .uc.xddi.ru
 .xddofaytuemne.site
 .52m.xde6.net
@@ -100360,6 +100713,7 @@ v6-data.video.dns.iqiyi.com
 .xegnfwkju.com
 .xegxxzcluwfqo.website
 .xehchxeyjaqf.com
+.xehkxoftzdyar.online
 .xehohzlxizbpf.site
 .xeicappcjzraw.website
 .e.xeig.cn
@@ -100409,6 +100763,7 @@ v6-data.video.dns.iqiyi.com
 .xfalmawladvew.site
 .xfbcraxijipmr.website
 .xfbjiyqezmwew.space
+.xfbnbgdmeygfz.online
 .xfbsnbrmgtpur.website
 .xfbvhjvstczah.site
 .xfclwfqsppemg.website
@@ -100439,6 +100794,7 @@ v6-data.video.dns.iqiyi.com
 .xfrgtipicykyu.website
 .xfrvrpeiyeqnc.com
 .xfspqaxwpxwqy.website
+.xfsvzlbauskvf.space
 .xftfxqqykzina.site
 .xftgubgjnhxks.space
 .xftsjv.top
@@ -100631,6 +100987,8 @@ v6-data.video.dns.iqiyi.com
 .xiaohui2.cn
 .api.xiaohuxi.cn
 .union1.xiaojianjian.net
+.cat.xiaojiji.nl
+.sec.xiaojiji.nl
 .xiaomeihq.info
 .xiaomengquan.cn
 .a.market.xiaomi.com
@@ -100699,6 +101057,7 @@ v6-data.video.dns.iqiyi.com
 .xihawan8.com
 .xihfdowpmfqkh.space
 .xihoqsajpap.com
+.xihpfehwez.in
 .xihvhwbgdm.com
 .xii1ybb2hk.com
 .xiictvbnhmqnp.website
@@ -100944,6 +101303,7 @@ v6-data.video.dns.iqiyi.com
 .xkupvlrigudmc.space
 .xkusyhkelkury.website
 .xkuxohmppjzjo.site
+.xkverkik38.com
 .xkyacqlikntqg.space
 .xkyczjxatjmus.website
 .xkyymtgkjvfja.com
@@ -101134,6 +101494,7 @@ v6-data.video.dns.iqiyi.com
 .xn--mtso8sj6menhyil.online
 .a8aspconv.xn--ocn-ws1e.jp
 .mgn.ebis.xn--olsz5f0ufw02b.net
+.xn--on3b15m2lco2u.com
 .stat-ssl.xn--pckua2a7gp15o89zb.com
 .a8clk.xn--t8jx01hmvbgye566gd1f.com
 .xn--w9q675dm1p7em.net
@@ -101506,6 +101867,7 @@ v6-data.video.dns.iqiyi.com
 .xsvyvr.top
 .xswtzxsxzwho.com
 .xsyehccr.com
+.xsyhy.cn
 .xszcdn.com
 .xszjh.tech
 .xszndltngpnuz.online
@@ -101608,6 +101970,7 @@ v6-data.video.dns.iqiyi.com
 .ghghgf.xuexiwa.com
 .dms.xuexxing.com
 .news.xueyanshan.com
+.xueygybqwiaode.com
 .xuezha.net
 .a.xuezizhai.com
 .xugkpeapko.in
@@ -101788,6 +102151,8 @@ v6-data.video.dns.iqiyi.com
 .xxmfopafuhkpe.space
 .xxmkvbqrbqcrz.website
 .xxnzjkioqzuyl.space
+.xxpwdsggxpyrw.site
+.xxrhbucdwagpr.website
 .xxsmad5.com
 .xxsmad7.com
 .xxsmtz1.com
@@ -102595,6 +102960,7 @@ v6-data.video.dns.iqiyi.com
 .yfswcwcrmslwb.website
 .yfuciawgeyptp.space
 .yfueuktureukwo.org
+.yfuneukhskjskyp.com
 .yfvwtbufnwrmm.online
 .yfwfmvofiyemc.space
 .yfwithinriceukwa.org
@@ -102641,6 +103007,7 @@ v6-data.video.dns.iqiyi.com
 .ygqkmvlgampp.com
 .e.ygqna.cn
 .ygrgyhhexvwvs.site
+.ygrsgrdcdmwpig.com
 .ygsm.com
 .ygtbzpdemamrn.online
 .ygtdegcuuteq.com
@@ -102864,6 +103231,7 @@ v6-data.video.dns.iqiyi.com
 .yizmiendokirl.website
 .p.yizuya.com
 .u.yizuya.com
+.yjateinmgbrhjt.com
 .jl3.yjaxa.top
 .js.yjbys.com
 .a.yjbys.com
@@ -103146,6 +103514,7 @@ v6-data.video.dns.iqiyi.com
 .ynxhsy.com
 .ynyfcz.cn
 .ynykrhlltoytp.website
+.ynyxozjzwnclf.online
 .ynzhby.com
 .ynztzh.com
 .ynzxmrmozgmnd.online
@@ -103255,6 +103624,7 @@ v6-data.video.dns.iqiyi.com
 .yoshatia.com
 .yoshdeum.com
 .yosoofpjzhigr.space
+.yospwglhkdjcb.online
 .yosznlse.com
 .p.yotpo.com
 .vvktyh.yotsuyagakuin.com
@@ -103652,6 +104022,7 @@ v6-data.video.dns.iqiyi.com
 .yruqwfriqcots.website
 .yrvjauoibgcoa.website
 .yrwyaegirefcr.site
+.yrxifyuacyaks.space
 .yrxmr.com
 .yrxyosdoumnfh.website
 .yry62x1vwl.com
@@ -103986,7 +104357,7 @@ v6-data.video.dns.iqiyi.com
 .ywuzuazsjnzto.online
 .ywwm.net
 .ywxoouoasnty.com
-.ftp.ywxww.net
+.123.ywxww.net
 .ywxxyzxktxllq.website
 .ywzehjepmwcbe.website
 .ywzyhljazdsrx.space
@@ -104008,6 +104379,7 @@ v6-data.video.dns.iqiyi.com
 .qiniuyunxz.yxflzs.com
 .yxfxmdeylp.xyz
 .yxgfcj.com
+.yxgnunugdd.com
 .yxhnccomxxyrh.online
 .yxibcujksiubp.online
 .yxihzhnofxrcm.space
@@ -104134,6 +104506,7 @@ v6-data.video.dns.iqiyi.com
 .yzjncchwnfdni.online
 .yznaesnmfcitc.space
 .yzncadillukzs.space
+.yznvhiongucvp.site
 .yzottjbhgjcbz.space
 .yzozkqzhsbeur.online
 .yzplgbuupbiwk.online
@@ -104312,6 +104685,7 @@ v6-data.video.dns.iqiyi.com
 .zauzeerash.net
 .zavbelxgugyml.space
 .zavnnfijuylnu.site
+.zavoygjlxqwxc.space
 .zawegaxtckagm.online
 .zaxasbmas.in
 .zaxekvomlfghf.site
@@ -104365,6 +104739,7 @@ v6-data.video.dns.iqiyi.com
 .zc13uyyok7.com
 .zc2do7ttn5.com
 .zcadqlurfhqgv.online
+.zcakahvte.in
 .e.zcand.com
 .m.zcand.com
 .e.zcaod.com
@@ -104516,6 +104891,7 @@ v6-data.video.dns.iqiyi.com
 .dz2017.zdzxyplyt.com
 .ze5.com
 .zeads.com
+.zeafgtxkbpigu.space
 .zealous-direction.pro
 .zealousclothes.pro
 .zealousfinance.pro
@@ -104615,7 +104991,6 @@ v6-data.video.dns.iqiyi.com
 .pages.zenefits.com
 .m.zenffs.cn
 .leadership.zengerfolkman.com
-.zenglobalenerji.com
 .zenithoradog.com
 .marketing.zenjuries.com
 .zenkreka.com
@@ -104852,7 +105227,6 @@ v6-data.video.dns.iqiyi.com
 .zhidian3g.cn
 .pv.zhiding.cn
 .m.baidu.com.zhiduo.org
-.zhigao5191.com
 .ruhpbn.zhigaojixie.com
 .crash2.zhihu.com
 .udd1i5.zhihu.com
@@ -104975,6 +105349,7 @@ v6-data.video.dns.iqiyi.com
 .zigavpnmyqz.in
 .a8clk.zigen-shop.com
 .zigq.cn
+.zigzag-hurt.com
 .zigzagcabin.com
 .zihqjf.icu
 .ziidgugyfrbvf.website
@@ -105293,6 +105668,7 @@ v6-data.video.dns.iqiyi.com
 .zmviuusobjwbe.online
 .zmvwfd.icu
 .zmvyqrpmtpqzc.online
+.zmwyfapwsdwmz.space
 .zmxncb5.com
 .zmynapdza.in
 .zmyodzglqdaox.site
@@ -105420,7 +105796,6 @@ v6-data.video.dns.iqiyi.com
 .zonfbjtqyykqo.website
 .h5log.zongheng.com
 .log.zongheng.com
-.static.zongheng.com
 .zongzuhulian.com
 .zonjdpdkswtna.online
 .tsbmkf.zonnebrillen.com
@@ -105576,6 +105951,7 @@ v6-data.video.dns.iqiyi.com
 .zopumirerfahv.website
 .zoqalwuvnsxut.site
 .zoqsadbiwwszj.website
+.zoqxhjhgevqhr.space
 .zorango.com
 .zordoabsolsooph.net
 .plausible.zorin.com
@@ -105752,6 +106128,7 @@ v6-data.video.dns.iqiyi.com
 .zsmsuwmifkrqv.online
 .zsnrhqltxmsdp.site
 .zsozgqchlueqp.world
+.zsqsrxnbnnsat.online
 .abcd.zsrt88.cn
 .zssrufahneyia.online
 .zsszrgvbeisuv.space
@@ -105854,6 +106231,7 @@ v6-data.video.dns.iqiyi.com
 .zudzdfcrjcljy.site
 .zuekohojehjsx.space
 .samc.zuerilaufcup.ch
+.zufasbhzijysh.site
 .zufoadyldwkcz.website
 .zugedrpjyzgim.space
 .zugloocmilsim.net
@@ -105866,6 +106244,7 @@ v6-data.video.dns.iqiyi.com
 .abc.zuiairead.com
 .info.zuidema.nl
 .zuidpnenuegax.site
+.zuieggzsdlo.com
 .vgf.zuihuixuan.com
 .zuijvo.com
 .pkk1.zuimeiniwo.com
@@ -106083,6 +106462,7 @@ v6-data.video.dns.iqiyi.com
 .zyhzzhxnlnfdk.site
 .zyhzzxcwgqwtx.online
 .zyiaxyfrbehub.space
+.zyifk.cn
 .zyiis.net
 .zyjcuzdaazwcj.website
 .zyjxtawnlvntu.site
