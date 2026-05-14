@@ -1621,7 +1621,7 @@ DOMAIN-SUFFIX, inte.theta.sogoucdn.com
 DOMAIN-SUFFIX, dl.wan.sogoucdn.com
 # > 搜狗输入法
 DOMAIN-SUFFIX, push-service-ios.sginput.qq.com
-# > 深圳通微信小程序
+# > 深圳通
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 # > 收钱吧
 DOMAIN, ads-shopping.shouqianba.com
