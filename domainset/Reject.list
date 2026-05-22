@@ -105743,6 +105743,8 @@ v6-data.video.dns.iqiyi.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.vm.target-video.com
+.tagmanager.andata.ru
 .statlytic.net
 .ezoicanalytics.com
 .dn666andut2j1.cloudfront.net
@@ -183928,6 +183930,7 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.lex.toss.im
 .dsb.yahooapis.jp
 .clb.yahooapis.jp
 .marketing.trvl.yandex.net
@@ -187322,6 +187325,7 @@ v6-data.video.dns.iqiyi.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.dc.oppomobile.com
 .aki-gb-sdklog.kurogames.net
 .log1.pwsdk.com
 .log2.pwsdk.com
@@ -187561,7 +187565,6 @@ v6-data.video.dns.iqiyi.com
 .apptics.zoho.in
 .analytics.oliveapp.net
 .rplogs.itpub.cc
-.collector-sbanking.shb-pelib.com
 .mcs.tiktokv.us
 .trace.free-reels.com
 .event-portal.dailyinnovation.biz
