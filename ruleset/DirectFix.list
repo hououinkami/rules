@@ -10,5 +10,6 @@ IP-CIDR,43.153.191.0/22,no-resolve
 DOMAIN-SUFFIX,szfybjy-gzh.com
 DOMAIN,cdn.kineticbloom.org
 DOMAIN,nxonearth.com
+DOMAIN,161.129.35.81
 DOMAIN-KEYWORD,smtp
 DOMAIN,api-huacloud.dev
