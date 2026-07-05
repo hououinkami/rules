@@ -6,6 +6,7 @@ DOMAIN,gdmf.apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,ls.apple.com.akadns.net
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
+
 [DirectFix]
 # > DDNS
 DOMAIN-SUFFIX,home.kami.top
@@ -24,14 +25,20 @@ PROCESS-NAME,BaiduNetdisk_mac
 IP-CIDR,43.153.191.0/22,no-resolve
 # > 市妇幼
 DOMAIN-SUFFIX,szfybjy-gzh.com
+# > AMY
+DOMAIN,161.129.35.81
 # > Nexitally
 DOMAIN,cdn.kineticbloom.org
 DOMAIN,nxonearth.com
-DOMAIN,161.129.35.81
 # > 邮件SMTP
 DOMAIN-KEYWORD,smtp
 # > FlowerCloud
 DOMAIN,api-huacloud.dev
+
+[NotJapan]
+# > 欧乐影院
+DOMAIN-SUFFIX,olelive.com
+DOMAIN-SUFFIX,olemovienews.com
 
 [Proxy]
 # > 无忧行拨打电话
