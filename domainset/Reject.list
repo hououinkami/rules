@@ -178293,6 +178293,8 @@ v6-data.video.dns.iqiyi.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.bzrcdn.openai.com
+.franken-analytics.makeup.global
 .l.ovhcloud.com
 .h2tcbox.baidu.com
 .trk.swipey.me
@@ -178829,6 +178831,7 @@ v6-data.video.dns.iqiyi.com
 .collect.trendyol.com
 .en-collect.trendyol.com
 .demeter-tr-core-collect.trendyol.com
+.lc-event.pixiv.net
 .d30qdagvt44524.cloudfront.net
 .tracker-beam.aktuality.sk
 .collector.fullxh.com
@@ -181627,7 +181630,6 @@ v6-data.video.dns.iqiyi.com
 .essential-apps-analytics.herokuapp.com
 .d10vy5gom1ed53.cloudfront.net
 .um-public-panel-prod.s3.amazonaws.com
-.lc-event.pixiv.net
 .mon.avito.ru
 .analytics-fe.digital-cloud-west.medallia.com
 .web-perf.booking.com
@@ -182352,7 +182354,6 @@ v6-data.video.dns.iqiyi.com
 .logs.gshopper.com
 .airlytics.airlock.twcmobile.weather.com
 .track.midway.run
-.tdid.m.qq.com
 .d.reddit.com
 .clog.mirrativ.com
 .teleport.soom.la
