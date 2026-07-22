@@ -25,13 +25,13 @@ PROCESS-NAME,BaiduNetdisk_mac
 IP-CIDR,43.153.191.0/22,no-resolve
 # > 市妇幼
 DOMAIN-SUFFIX,szfybjy-gzh.com
+# > 邮件SMTP
+DOMAIN-KEYWORD,smtp
 # > AMY
-DOMAIN,161.129.35.81
+DOMAIN,177.5.52.136
 # > Nexitally
 DOMAIN,cdn.kineticbloom.org
 DOMAIN,nxonearth.com
-# > 邮件SMTP
-DOMAIN-KEYWORD,smtp
 # > FlowerCloud
 DOMAIN,api-huacloud.dev
 
