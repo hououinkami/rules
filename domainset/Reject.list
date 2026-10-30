@@ -82,9 +82,9 @@ union-httpdns.gslb.yy.com
 v6-data.video.dns.iqiyi.com
 yuyin-httpdns.gslb.yy.com
 #TITLE=anti-AD
-#VER=20261029064402
+#VER=20261030205754
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=100686
+#TOTAL_LINES=100682
 #DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 .000491b06a.com
 .000dn.com
@@ -24193,7 +24193,6 @@ yuyin-httpdns.gslb.yy.com
 .iam-rum-intake.datadoghq.com
 .logs.datadoghq.com
 .datadoghq.eu
-.datadome.co
 .adsmartget.datads.cn
 .datadsk.com
 .datafa.st
@@ -30107,7 +30106,7 @@ yuyin-httpdns.gslb.yy.com
 .enrtx.com
 .ensealplaners.com
 .enseq50a.xyz
-.ensighten.com
+.nexus.ensighten.com
 .ensmwonhtzpdh.space
 .ensosignal.com
 .metrics.enspryng-hcp.com
@@ -36170,7 +36169,6 @@ yuyin-httpdns.gslb.yy.com
 .xwpzlz.gemimarket.it
 .geminisailingzillion.com
 .cmp.gemius.com
-.gemius.pl
 .gemlithium.com
 .ovrsso.gemo.fr
 .gemorganic.com
@@ -52198,7 +52196,6 @@ yuyin-httpdns.gslb.yy.com
 .scdn.literatur-couch.de
 .stats.literaturkreis.online
 .ini.litingxin.cn
-.litix.io
 .link.litnet.com
 .litpzshqdkjvn.online
 .litrujsxxymfn.website
@@ -63143,7 +63140,6 @@ yuyin-httpdns.gslb.yy.com
 .omshedinjaor.com
 .d.omsnative.de
 .omswwmgtqwekb.space
-.omtrdc.net
 .omwvapmytccsc.online
 .omwvtaafvqa.in
 .omxpiremgszzv.space
@@ -66920,7 +66916,6 @@ yuyin-httpdns.gslb.yy.com
 .placidityelite.com
 .placiditylever.com
 .placidperson.com
-.pladform.ru
 .hsvrww.plain-me.com
 .plain-plane.com
 .plaincapsize.com
@@ -76124,7 +76119,8 @@ yuyin-httpdns.gslb.yy.com
 .a8clk.segatoys.com
 .nossl.segfault.net
 .stat.segitek.hu
-.segment.com
+.cdn-settings.segment.com
+.mobile-service.segment.com
 .segment.io
 .segmenthub.com
 .segmentify.com
@@ -100778,6 +100774,7 @@ yuyin-httpdns.gslb.yy.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.apmginternational.matomo.cloud
 .metrics.selectel.ru
 .collect.pravdastat.com
 .search-monitor.11st.co.kr
@@ -209324,6 +209321,8 @@ yuyin-httpdns.gslb.yy.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.s.igen.fr
+.op.fintables.com
 .stats.spidersense.xyz
 .umami.vidcore.net
 .umami.vidfast.vc
@@ -215338,6 +215337,7 @@ yuyin-httpdns.gslb.yy.com
 .axonsite.com
 .azuremystique.com
 .azurestealth.com
+.babelfreak.com
 .backupcat.com
 .baconbags.com
 .badgeboat.com
@@ -215471,6 +215471,7 @@ yuyin-httpdns.gslb.yy.com
 .boxandcover.com
 .brainybasin.com
 .branchborder.com
+.brandcasters.com
 .brandsfive.com
 .brandybison.com
 .bravebone.com
@@ -215518,6 +215519,7 @@ yuyin-httpdns.gslb.yy.com
 .cafefrench.com
 .cafejunior.net
 .cafescampfires.com
+.cageylogic.com
 .cakeagenda.com
 .cakesdrum.com
 .calculatingcircle.com
@@ -215716,6 +215718,7 @@ yuyin-httpdns.gslb.yy.com
 .crabbychin.com
 .craftessays.com
 .crafthenry.com
+.crashbamboo.com
 .crashchance.com
 .crashpandas.com
 .cratecamera.com
@@ -216305,6 +216308,7 @@ yuyin-httpdns.gslb.yy.com
 .honeyscene.com
 .honorablehydrant.com
 .honorableland.com
+.hoofersailing.com
 .hookconference.com
 .hoorayplay.com
 .hospitablehall.com
