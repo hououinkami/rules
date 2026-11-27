@@ -102691,6 +102691,7 @@ yuyin-httpdns.gslb.yy.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.adcanvas.com
 .clerk-telemetry.com
 .ghtinc.com
 .download.gameanalytics.com
@@ -103009,7 +103010,6 @@ yuyin-httpdns.gslb.yy.com
 .static.terratraf.io
 .matomo.stackvaults.com
 .cdn.moengage.com
-.rapid-cdn.yottaa.com
 .rum-ingress-coralogix.com
 .elitebidder.com
 .adstk.io
@@ -216153,6 +216153,9 @@ yuyin-httpdns.gslb.yy.com
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.ap-prd-edge-clientlog.nexon.com
+.toy.log.nexon.io
+.pan.pazarama.com
 .dsh-otel-collector.deepseeksvc.com
 .tag.atom.gamedistribution.com
 .ingest.t3.codes
@@ -216398,6 +216401,7 @@ yuyin-httpdns.gslb.yy.com
 .aura.fairyaura.com
 .b.csquaregrc.com
 .b.dora.work
+.beam.denikn.cz
 .beats.churchdesk.com
 .bhs.alpha-peptides.com
 .blog-analytics.hskl.me
@@ -222418,6 +222422,7 @@ yuyin-httpdns.gslb.yy.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.appmetrica.sovcombank.ru
 .pp3-sdkdata-v2.profilepassport.jp
 .lw-c-log.lastwarapp.net
 .mkt.supercell.com
@@ -223635,6 +223640,7 @@ yuyin-httpdns.gslb.yy.com
 .benefitboys.com
 .benefitssense.com
 .bentengine.com
+.berrytots.com
 .berserkhydrant.com
 .bestboundary.com
 .bestclimbers.net
@@ -224545,6 +224551,7 @@ yuyin-httpdns.gslb.yy.com
 .healthyclad.com
 .heartbreakingmind.com
 .hearthow.com
+.heathstyle.com
 .heatrave.com
 .heavydetail.com
 .heavyplayground.com
@@ -224592,6 +224599,7 @@ yuyin-httpdns.gslb.yy.com
 .hostchutney.com
 .housewheels.com
 .howdoesthislook.com
+.howglam.com
 .hubcapcafe.net
 .humbleroots.net
 .humdrumhobbies.com
@@ -224768,6 +224776,7 @@ yuyin-httpdns.gslb.yy.com
 .littlesun.net
 .livelumber.com
 .livelylaugh.com
+.livingoff.com
 .livingsleet.com
 .lizardslaugh.com
 .llamavoice.com
@@ -224847,6 +224856,7 @@ yuyin-httpdns.gslb.yy.com
 .marriedvalue.com
 .marsnextdoor.com
 .mascguys.com
+.maskdomains.com
 .maskedadmin.com
 .masondown.com
 .masseurexpress.com
